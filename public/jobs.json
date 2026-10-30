@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T03:23:02.837Z",
+  "generatedAt": "2026-10-30T11:28:44.387Z",
   "jobCount": 16,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 308,
-      "relevant": 35,
+      "fetched": 309,
+      "relevant": 37,
       "errors": []
     },
     {
@@ -23,11 +23,76 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 1,
+      "relevant": 0,
       "errors": []
     }
   ],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor",
+      "title": "Senior Cargo Condition and Securing Surveyor",
+      "company": "micro1",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Contract",
+      "experience": "Senior",
+      "salary": "USD 20–60 / hourly",
+      "description": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: Contractor Location: Global-Remote Job Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging Senior Cargo Condition and Securing Surveyors to contribute expert analysis and insight to a customer's logistics-focused project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Scope of Work Evaluate refrigerated and temperature-controlled cargo documentation, such as reefer temperature logs and condition records, to assess compliance and identify potential issues. Analyze finished-vehicle and food transport evidence, including damage reports and compliance documents, to determine condition, causation, and potential losses. Perform remote assessments of container integrity, cargo securing methods, and lashing arrangements using photographic and written shipment records. Review hatch-cover inspection reports and related…",
+      "descriptionSnippet": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: ContractorLocation: Global-RemoteJob Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1…",
+      "tags": [],
+      "postedAt": "2026-10-30T10:00:11.000Z",
+      "expiresAt": "2026-12-28T10:24:24.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
+      "fingerprint": "c6b59b796fe9dcc02e97d9ea17765c77b63e8d19"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/7-eleven-inc/jobs/program-manager-fleet-operations",
+      "title": "Program Manager - Fleet Operations",
+      "company": "7-Eleven Inc",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Mid",
+      "salary": "USD 70,000–107,500 / annual",
+      "description": "7-Eleven is an iconic family of brands with over 86,000 locations, surpassing every retailer in the world. We revolutionize convenience, restaurants and fuel through cutting edge innovation — working hard to be the customer's first choice. 7-Eleven empowers our employees to \"activate awesome\" and make a meaningful impact in their stores and communities every day. If you're ready to grow, lead and make a difference, come join our team and help shape the future of convenience. JOB SUMMARY: The Commercial Fleet team at 7-Eleven manages a diverse portfolio of fleet payments and programs leveraged to drive B2B traffic to our network of over 8,000 retail fuel locations. The team also manages the 7FLEET Diesel Network, a collection of nearly 500 7-Eleven®, Speedway® and Stripes® stores meeting the needs of professional truck drivers in 26 states. As a Program Manager of Fleet Operations , you will lead the strategic rollout and continuous optimization of fleet programs. You will act as a key problem-solver and cross-functional leader, driving initiatives that enhance the commercial fleet customer’s experience at the pump and in-store. The Program Manager will own program execution while…",
+      "descriptionSnippet": "7-Eleven is an iconic family of brands with over 86,000 locations, surpassing every retailer in the world.",
+      "tags": [
+        "Product",
+        "Logistics"
+      ],
+      "postedAt": "2026-10-30T03:18:33.000Z",
+      "expiresAt": "2026-12-29T03:18:32.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/7-eleven-inc/jobs/program-manager-fleet-operations?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/7-eleven-inc/jobs/program-manager-fleet-operations?utm_source=api",
+      "fingerprint": "54437a8e3bd4e9bd16877ef50bcff8b37bc547f6"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations",
       "title": "Director of Operations",
@@ -60,71 +125,6 @@
       "url": "https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations?utm_source=api",
       "fingerprint": "cb8d760b5f5a6553e13d2144d46348b2be25cc5f"
-    },
-    {
-      "id": "arbeitnow:e-commerce-operations-manager-in-amazon-zurich-149664",
-      "title": "E-Commerce Operations Manager/-in (Amazon)",
-      "company": "GalleryLab GmbH",
-      "location": "Zürich",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "Wir glauben: Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung. Deshalb haben wir uns vor über 5 Jahren auf die Entwicklung und den Verkauf qualitativer Bettwaren, wie Bettdecken, Kissen und Bezüge spezialisiert. Heute sind wir ein aufstrebendes E-Commerce-Unternehmen im Bereich hochwertiger Bettwaren, sind international auf Marktplätzen wie Amazon, Otto und eBay aktiv und haben dort bereits eine starke Marktposition aufgebaut. Welldora steht für durchdachte Produkte, hohe Qualitätsstandards und ein kompromissloses Kundenerlebnis . Unser Anspruch ist es nicht, einfach nur zu verkaufen, sondern echte Lösungen für besseren Schlaf zu schaffen – effizient, datengetrieben und mit einem klaren Blick auf nachhaltiges Wachstum. Dabei verbinden wir strategisches Denken mit operativer Umsetzung . Wir arbeiten pragmatisch, zielorientiert und mit echter Verantwortung für Ergebnisse. Als 100% remote Unternehmen basiert unsere Kultur auf Vertrauen, Ownership und Selbstorganisation. Wir folgen dem Prinzip „Hire for attitude, train for skill“ und bilden dich in allen relevanten Dingen aus! Wenn du Lust hast, nicht einfach nur im E-Commerce zu arbeiten, sondern unser…",
-      "descriptionSnippet": "<p><strong>Wir glauben:</strong> <em>Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung.</em></p><p>Deshalb haben wir uns <strong>vor über 5 Jahren</strong> auf die Entwicklung und den Verkauf qualitativer…",
-      "tags": [
-        "Remote",
-        "Business Operations"
-      ],
-      "postedAt": "2026-10-29T15:01:25.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
-      },
-      "sources": [
-        {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664"
-        }
-      ],
-      "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664",
-      "fingerprint": "28c8901d04b5e763df1559bb03e25934c0ccd27b"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor",
-      "title": "Senior Cargo Condition and Securing Surveyor",
-      "company": "micro1",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Contract",
-      "experience": "Senior",
-      "salary": "USD 20–60 / hourly",
-      "description": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: Contractor Location: Global-Remote Job Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging Senior Cargo Condition and Securing Surveyors to contribute expert analysis and insight to a customer's logistics-focused project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Scope of Work Evaluate refrigerated and temperature-controlled cargo documentation, such as reefer temperature logs and condition records, to assess compliance and identify potential issues. Analyze finished-vehicle and food transport evidence, including damage reports and compliance documents, to determine condition, causation, and potential losses. Perform remote assessments of container integrity, cargo securing methods, and lashing arrangements using photographic and written shipment records. Review hatch-cover inspection reports and related…",
-      "descriptionSnippet": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: ContractorLocation: Global-RemoteJob Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1…",
-      "tags": [],
-      "postedAt": "2026-10-29T13:00:13.000Z",
-      "expiresAt": "2026-12-28T10:24:24.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
-      "fingerprint": "c6b59b796fe9dcc02e97d9ea17765c77b63e8d19"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/growe-talents/jobs/operational-project-manager",
