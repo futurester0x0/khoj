@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Search job boards, company pages, and public listings, then compare the openings that match."
+    />
+    <meta name="theme-color" content="#fafaf9" />
+    <meta property="og:title" content="Khoj | Every job, one search" />
+    <meta
+      property="og:description"
+      content="Search job boards, company pages, and public listings, then compare the openings that match."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Khoj" />
+    <meta property="og:image" content="/og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Khoj | Every job, one search" />
+    <meta
+      name="twitter:description"
+      content="Search job boards, company pages, and public listings, then compare the openings that match."
+    />
+    <meta name="twitter:image" content="/og.png" />
+    <title>Khoj | Every job, one search</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      const savedTheme = localStorage.getItem("theme");
+      if (
+        savedTheme === "dark" ||
+        (!savedTheme &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches)
+      ) {
+        document.documentElement.classList.add("dark");
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

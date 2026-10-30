@@ -1,0 +1,587 @@
+{
+  "generatedAt": "2026-10-30T03:23:02.837Z",
+  "jobCount": 16,
+  "sources": [
+    {
+      "id": "himalayas",
+      "name": "Himalayas",
+      "termsUrl": "https://himalayas.app/terms#api",
+      "fetched": 308,
+      "relevant": 35,
+      "errors": []
+    },
+    {
+      "id": "remoteok",
+      "name": "Remote OK",
+      "termsUrl": "https://remoteok.com/api",
+      "fetched": 99,
+      "relevant": 4,
+      "errors": []
+    },
+    {
+      "id": "arbeitnow",
+      "name": "Arbeitnow",
+      "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
+      "fetched": 300,
+      "relevant": 1,
+      "errors": []
+    }
+  ],
+  "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations",
+      "title": "Director of Operations",
+      "company": "mPulse Mobile",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Lead",
+      "salary": "USD 185,000–195,000 / annual",
+      "description": "About mPulse: mPulse is the leader in conversational AI and member engagement for healthcare. We partner with the nation's most innovative health plans — Medicare Advantage, Medicaid, and Commercial — to engage members in conversations that close care gaps, improve Stars ratings, and drive better health outcomes. Our platform reaches tens of millions of Americans and is built on the belief that better health starts with better conversations. Job Summary: The Director of Operations at mPulse Mobile will be instrumental in driving operational excellence and strategic alignment across the organization. This role involves collaborating with leadership to develop and manage strategic plans that align with company-wide goals and foster cross-functional collaboration. The Director will lead and support initiatives aimed at enhancing operational efficiency, customer retention, and organizational transformation. This individual will play a key role in optimizing business intelligence practices to support decision-making, refining commercial strategies, and managing whitespace and cross-sell opportunities to drive revenue growth. Duties/Responsibilities: Collaborate with leadership to…",
+      "descriptionSnippet": "About mPulse: mPulse is the leader in conversational AI and member engagement for healthcare.",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-10-30T00:58:08.000Z",
+      "expiresAt": "2026-12-29T00:58:06.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations?utm_source=api",
+      "fingerprint": "cb8d760b5f5a6553e13d2144d46348b2be25cc5f"
+    },
+    {
+      "id": "arbeitnow:e-commerce-operations-manager-in-amazon-zurich-149664",
+      "title": "E-Commerce Operations Manager/-in (Amazon)",
+      "company": "GalleryLab GmbH",
+      "location": "Zürich",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "Wir glauben: Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung. Deshalb haben wir uns vor über 5 Jahren auf die Entwicklung und den Verkauf qualitativer Bettwaren, wie Bettdecken, Kissen und Bezüge spezialisiert. Heute sind wir ein aufstrebendes E-Commerce-Unternehmen im Bereich hochwertiger Bettwaren, sind international auf Marktplätzen wie Amazon, Otto und eBay aktiv und haben dort bereits eine starke Marktposition aufgebaut. Welldora steht für durchdachte Produkte, hohe Qualitätsstandards und ein kompromissloses Kundenerlebnis . Unser Anspruch ist es nicht, einfach nur zu verkaufen, sondern echte Lösungen für besseren Schlaf zu schaffen – effizient, datengetrieben und mit einem klaren Blick auf nachhaltiges Wachstum. Dabei verbinden wir strategisches Denken mit operativer Umsetzung . Wir arbeiten pragmatisch, zielorientiert und mit echter Verantwortung für Ergebnisse. Als 100% remote Unternehmen basiert unsere Kultur auf Vertrauen, Ownership und Selbstorganisation. Wir folgen dem Prinzip „Hire for attitude, train for skill“ und bilden dich in allen relevanten Dingen aus! Wenn du Lust hast, nicht einfach nur im E-Commerce zu arbeiten, sondern unser…",
+      "descriptionSnippet": "<p><strong>Wir glauben:</strong> <em>Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung.</em></p><p>Deshalb haben wir uns <strong>vor über 5 Jahren</strong> auf die Entwicklung und den Verkauf qualitativer…",
+      "tags": [
+        "Remote",
+        "Business Operations"
+      ],
+      "postedAt": "2026-10-29T15:01:25.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664"
+        }
+      ],
+      "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664",
+      "fingerprint": "28c8901d04b5e763df1559bb03e25934c0ccd27b"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor",
+      "title": "Senior Cargo Condition and Securing Surveyor",
+      "company": "micro1",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Contract",
+      "experience": "Senior",
+      "salary": "USD 20–60 / hourly",
+      "description": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: Contractor Location: Global-Remote Job Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging Senior Cargo Condition and Securing Surveyors to contribute expert analysis and insight to a customer's logistics-focused project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Scope of Work Evaluate refrigerated and temperature-controlled cargo documentation, such as reefer temperature logs and condition records, to assess compliance and identify potential issues. Analyze finished-vehicle and food transport evidence, including damage reports and compliance documents, to determine condition, causation, and potential losses. Perform remote assessments of container integrity, cargo securing methods, and lashing arrangements using photographic and written shipment records. Review hatch-cover inspection reports and related…",
+      "descriptionSnippet": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: ContractorLocation: Global-RemoteJob Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1…",
+      "tags": [],
+      "postedAt": "2026-10-29T13:00:13.000Z",
+      "expiresAt": "2026-12-28T10:24:24.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
+      "fingerprint": "c6b59b796fe9dcc02e97d9ea17765c77b63e8d19"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/growe-talents/jobs/operational-project-manager",
+      "title": "Operational Project Manager",
+      "company": "Growe Talents",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Mid",
+      "salary": "",
+      "description": "Our client, Growe, is a leading business advisory and services group in iGaming and Entertainment. Сreators of strategies that work and solutions that scale. Combining strategic vision with hands-on expertise, Growe helps businesses navigate the fast-evolving industry, seize new opportunities, enter new markets, and achieve sustainable growth. Perfect for those who aim to: Coordinate cross-functional communication between teams, team leads, and management to ensure effective collaboration and timely resolution of operational issues; Manage incoming requests, coordinate task distribution and prioritization, and ensure clear ownership across teams; Track task progress, deadlines, and dependencies, proactively identifying blockers and coordinating their resolution; Organize meetings and follow-ups, ensuring alignment and timely completion of action items; Coordinate quarterly planning, including scope preparation, planning sessions, and alignment of initiatives across teams; Maintain task tracking and documentation in Jira, Confluence, and other relevant tools, ensuring transparency and up-to-date information; Identify process gaps and bottlenecks, driving improvements in operational…",
+      "descriptionSnippet": "Our client, Growe, is a leading business advisory and services group in iGaming and Entertainment.",
+      "tags": [
+        "Operations",
+        "Product"
+      ],
+      "postedAt": "2026-10-28T08:19:48.000Z",
+      "expiresAt": "2026-12-27T08:19:47.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/growe-talents/jobs/operational-project-manager?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/growe-talents/jobs/operational-project-manager?utm_source=api",
+      "fingerprint": "a214685f5d14c8b3024adcc10059ebbe4a33114d"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/procurement-vendor-management-expert",
+      "title": "Procurement & Vendor Management Expert",
+      "company": "micro1",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Contract",
+      "experience": "Senior",
+      "salary": "USD 45–90 / hourly",
+      "description": "Role Title: Procurement & Vendor Management Expert Role Type: Contractor Location: Remote Opportunity Snapshot Pay: Up to $90/hour equivalent. Time per task: ~10 hours per task Location: Fully remote — no geographic restrictions. Strong English required (B2 minimum, C1 preferred) Next step: Complete the role-specific AI interview — it’s how your expertise gets in front of the client Your tasks: Design realistic, multi-step procurement and vendor management tasks with objective criteria for grading the output micro1 is engaging experienced procurement and vendor management practitioners to design the tasks that measure what AI systems can actually do. Your domain knowledge is what matters here — no prior AI experience required. The work is to turn real procurement workflows into benchmark tasks: realistic, difficult, and gradable against objective criteria. If you’ve built a supplier scorecard, run a weighted bid evaluation, or written a vendor risk framework, that’s exactly the instinct this needs. Scope of Work Design multi-step tasks drawn from real procurement work — supplier assessment, bid comparison, vendor risk analysis, contract review — with realistic reference files and…",
+      "descriptionSnippet": "Role Title: Procurement & Vendor Management Expert Role Type: ContractorLocation: RemoteOpportunity SnapshotPay: Up to $90/hour equivalent.",
+      "tags": [
+        "Logistics"
+      ],
+      "postedAt": "2026-10-24T20:47:28.000Z",
+      "expiresAt": "2026-12-23T20:47:26.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/micro1/jobs/procurement-vendor-management-expert?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/procurement-vendor-management-expert?utm_source=api",
+      "fingerprint": "eb81057938b94f9629871179c3bf19b7804bafc4"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/transportation-and-warehousing-expert",
+      "title": "Transportation and Warehousing Expert",
+      "company": "micro1",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Contract",
+      "experience": "Senior",
+      "salary": "",
+      "description": "Role Title: Transportation and Warehousing Expert Role Type: Contractor Location: Remote micro1 is engaging Transportation and Warehousing Experts to contribute to a dynamic project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Scope of Work Analyze and provide detailed feedback on logistics, transportation, and warehousing scenarios to inform AI model development. Curate, review, and validate real-world data and documents relevant to supply chain, cargo management, dispatch operations, and freight movement. Develop clear written explanations of complex processes such as inventory management, distribution planning, and cargo routing. Evaluate system-generated outputs for accuracy and relevance to logistics and warehousing best practices. Create domain-specific queries, case studies, or hypothetical scenarios that test AI reasoning in transportation and storage contexts. Collaborate with project managers and technical teams via precise written and…",
+      "descriptionSnippet": "Role Title: Transportation and Warehousing Expert Role Type: ContractorLocation: Remotemicro1 is engaging Transportation and Warehousing Experts to contribute to a dynamic project for a valued customer.",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-10-24T16:53:03.000Z",
+      "expiresAt": "2026-12-23T16:53:02.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/micro1/jobs/transportation-and-warehousing-expert?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/transportation-and-warehousing-expert?utm_source=api",
+      "fingerprint": "3139a4cae5bdb8d9c90ba3fedf03b2aaa2caf823"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/masalto/jobs/operations-systems-assistant-breezeway-hubspot",
+      "title": "Operations & Systems Assistant – Breezeway & HubSpot",
+      "company": "MasAlto",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Contract",
+      "experience": "Entry",
+      "salary": "",
+      "description": "Operations & Systems Assistant – Breezeway & HubSpot Department: Operations Job Type: Part-Time Freelancer Work Arrangement: Remote Hours: Up to 20 hours per week Location: Remote, worldwide. Schedule: Flexible working hours, with availability for scheduled team meetings. About Corporate Stays Corporate Stays is an international furnished apartment rental and property management company operating across Canada and Latin America. We manage a growing portfolio of furnished apartments and rely on operational platforms to coordinate property management, housekeeping, maintenance, guest services, and internal procedures. We are looking for an experienced Operations & Systems Assistant to help us organize, configure, and optimize two important platforms: Breezeway and HubSpot Knowledge Base. This is not a traditional virtual assistant position. We need someone comfortable working directly with operational software, building structured workflows, organizing information, and improving processes. Key Responsibilities 1. Breezeway – Property Operations Management Our main priority is to properly configure, organize, and optimize Breezeway for our property management operations. Review and…",
+      "descriptionSnippet": "Operations & Systems Assistant – Breezeway & HubSpot Department: Operations Job Type: Part-Time FreelancerWork Arrangement: RemoteHours: Up to 20 hours per week Location: Remote, worldwide.",
+      "tags": [
+        "Operations",
+        "Human Resources"
+      ],
+      "postedAt": "2026-10-24T04:05:00.000Z",
+      "expiresAt": "2026-12-23T04:04:59.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/masalto/jobs/operations-systems-assistant-breezeway-hubspot?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/masalto/jobs/operations-systems-assistant-breezeway-hubspot?utm_source=api",
+      "fingerprint": "11bceef0096efe8248d607989312c64e0b3ec449"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner",
+      "title": "Senior Cargo and Parcel Claims Examiner",
+      "company": "micro1",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Contract",
+      "experience": "Senior",
+      "salary": "",
+      "description": "Role Title: Senior Cargo and Parcel Claims Examiner Role Type: Contractor Location: Remote micro1 is engaging Senior Cargo and Parcel Claims Examiners to contribute their expertise to a specialized customer project focused on air cargo and parcel delivery claims analysis. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This is a unique opportunity for experienced air cargo and parcel claims professionals to review and analyze real shipment evidence from anywhere. Typical assignments include examining origin and destination cargo photos, scrutinizing air waybills, and assessing delivery photo disputes. Your responsibilities will also involve drafting clear, well-reasoned custody and liability determinations. Professionals with backgrounds in airline, ground handling, and parcel carrier claims are particularly encouraged to participate. All activities are fully remote, offering maximum flexibility. Scope of Work Review and analyze documentation related to cargo and parcel…",
+      "descriptionSnippet": "Role Title: Senior Cargo and Parcel Claims Examiner Role Type: ContractorLocation: Remotemicro1 is engaging Senior Cargo and Parcel Claims Examiners to contribute their expertise to a specialized customer project focused on air cargo and…",
+      "tags": [],
+      "postedAt": "2026-10-23T22:52:57.000Z",
+      "expiresAt": "2026-12-22T22:52:56.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner?utm_source=api",
+      "fingerprint": "c02f9de1408da87968f6fd598ee1c2b78825255d"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking",
+      "title": "Junior Dispatcher (Remote) | USA Trucking",
+      "company": "Spotter Labs",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Entry",
+      "salary": "",
+      "description": "We’re hiring a Junior Dispatcher to support our fast-growing USA trucking operations. This is a fully remote role where you’ll coordinate shipments, communicate with drivers and brokers, and help keep operations running smoothly and on time. If you’re organized, proactive, and comfortable working in a fast-paced environment , this is a great opportunity to break into the logistics industry and grow. What You’ll Be Doing Coordinate and schedule shipments to ensure on-time delivery Communicate with drivers to provide updates, instructions, and support Work with brokers to manage loads, updates, and issue resolution Handle delays or issues by finding quick and effective solutions Maintain accurate records of shipments and dispatch activities Track performance and report on delivery progress Support customers and internal teams with clear, timely communication What We’re Looking For Strong English communication skills (written and spoken) Comfortable handling calls and coordinating with multiple stakeholders Organized and detail-oriented Able to multitask and work under pressure Proactive and solution-focused mindset Bonus (Nice to Have) Experience in logistics, dispatch, or customer…",
+      "descriptionSnippet": "We’re hiring a Junior Dispatcher to support our fast-growing USA trucking operations.",
+      "tags": [],
+      "postedAt": "2026-10-20T12:01:59.000Z",
+      "expiresAt": "2026-11-19T11:59:48.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking?utm_source=api",
+      "fingerprint": "e80a7a6508d51a047ddc0e0cdaccc0abbe765177"
+    },
+    {
+      "id": "remoteok:1137542",
+      "title": "Graduate Transport Planner",
+      "company": "Curtins",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Entry",
+      "salary": "",
+      "description": "<p><span>At Curtins, we're an employee-owned engineering consultancy driven by a simple ambition: to create a better built environment for everyone.</span></p><p class=\"MsoNormal\"><span>For over 65 years, we've delivered practical, innovative and sustainable solutions that make a positive impact on communities across the UK and Ireland. From major regeneration schemes and commercial developments to education, healthcare and residential projects, our work helps shape the places where people live, learn, work and thrive.</span></p><p class=\"MsoNormal\">As a Graduate Transport Planner, you'll work alongside experienced planners, engineers and consultants, contributing to a wide range of projects while developing the technical and professional skills you need to build your career.</p><p class=\"MsoNormal\">Whether you're interested in transport assessments, active travel &amp; sustainable mobility, highways or public transport, we'll give you the experience, guidance and support to find the areas that interest you most and develop your expertise in development planning.</p><h4><span><strong>What you'll be doing</strong></span></h4><p><span>You will support the planning and development…",
+      "descriptionSnippet": "<p><span>At Curtins, we're an employee-owned engineering consultancy driven by a simple ambition: to create a better built environment for everyone.</span></p><p class=\"MsoNormal\"><span>For over 65 years, we've delivered practical,…",
+      "tags": [
+        "hr",
+        "education",
+        "consulting",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "medical",
+        "engineer"
+      ],
+      "postedAt": "2026-10-17T08:00:50.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+      "fingerprint": "b3742b6859bdcab2384ec39384e2699a3e49dd1f"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/retail-trade-operations-expert",
+      "title": "Retail Trade & Operations Expert",
+      "company": "micro1",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Contract",
+      "experience": "Mid",
+      "salary": "",
+      "description": "Role Title: Retail Trade & Operations Expert Role Type: Contractor Location: Remote micro1 is engaging Retail Trade & Operations Experts to contribute their specialized knowledge to a high-impact customer project within the retail sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is open to professionals from various subdomains including Pharmacists, First-Line Supervisors of Retail Sales Workers, General and Operations Managers, and Private Detectives and Investigators who bring at least 5 years of hands-on expertise in retail operations. Scope of Work Review, analyze, and provide feedback on simulated retail scenarios and operational workflows to ensure authenticity and accuracy. Contribute insights on best practices, industry standards, and compliance requirements across retail trade subdomains. Create, evaluate, and refine written content related to retail operations, sales processes, and customer service interactions. Assess and validate the…",
+      "descriptionSnippet": "Role Title: Retail Trade & Operations Expert Role Type: ContractorLocation: Remotemicro1 is engaging Retail Trade & Operations Experts to contribute their specialized knowledge to a high-impact customer project within the retail sector.",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-10-14T20:02:59.000Z",
+      "expiresAt": "2026-12-13T20:02:58.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/micro1/jobs/retail-trade-operations-expert?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/retail-trade-operations-expert?utm_source=api",
+      "fingerprint": "5e91e3b140a432a22edb8b3d625705204ca773d1"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/venduetech/jobs/operations-associate-worldwide-part-time",
+      "title": "Operations Associate - Worldwide, Part Time",
+      "company": "VendueTech",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Part time",
+      "experience": "Entry",
+      "salary": "",
+      "description": "About The Role: As VendueTech scales, we need someone to help our COO and Head of Ops keep the company running at full capacity across teams, processes, and people, making sure nothing falls through the cracks as we grow. You'll work directly with our COO and Head of Ops, becoming the operational backbone that supports team leads, cross-functional projects, and the people processes that keep a fast-growing, fully remote team aligned. This isn't a narrow admin role as you'll own pieces of how the company actually runs. If you thrive in fast-moving environments, take pride in operational precision, and want your work to have a direct impact on company outcomes, this role is for you. Key Responsibilities: Operational Support Support the COO and Head of Ops in driving operational excellence across cross-functional teams Support team leads with day-to-day coordination: calendars, 1-1s, and all-hands meetings Help drive OKR tracking and reporting across the company Support our Ops AI Engineer and emerging functions as they stand up new workflows and tools Provide general staff support across new verticals, including content support for marketing and coordination support for grant…",
+      "descriptionSnippet": "About The Role: As VendueTech scales, we need someone to help our COO and Head of Ops keep the company running at full capacity across teams, processes, and people, making sure nothing falls through the cracks as we grow.",
+      "tags": [
+        "Operations",
+        "Management"
+      ],
+      "postedAt": "2026-10-06T16:45:24.000Z",
+      "expiresAt": "2026-12-05T16:45:24.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/venduetech/jobs/operations-associate-worldwide-part-time?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/venduetech/jobs/operations-associate-worldwide-part-time?utm_source=api",
+      "fingerprint": "f74e59b7e80e5c7c7b1fd21321f0fa3f3ee454a0"
+    },
+    {
+      "id": "remoteok:1137461",
+      "title": "Head of Operations",
+      "company": "Leverage Live Local",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Lead",
+      "salary": "$170,000–$350,000",
+      "description": "Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is. This seat owns the operating system that lets us grow without breaking. What's in it for you. A base of 180,000 dollars with upside tied to the numbers you own, full compensation likely 250,000 to 350,000 dollars when the role is performing. Direct weekly access to the founder. Twenty days of paid time off plus federal holidays. Fully remote. What you own Every exemption application submitted correctly and on time, every cycle Decision tracking by the statutory deadline, logged in the system of record Denials and appeals, every one, with deadlines met The annual recertification and compliance cadence The operations team: SLAs, data hygiene, accountability One shared source of truth for the team, the software, and our clients Your scorecard at 90 days and 6 months. On time filing, denial rate, contract to filing ready, recurring compliance completion, and founder escalations. Legal deadlines are 100 percent from day one. Full targets are on our careers page. This is…",
+      "descriptionSnippet": "<p>Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is. This seat owns the…",
+      "tags": [
+        "non tech",
+        "ops",
+        "exec"
+      ],
+      "postedAt": "2026-10-03T20:20:32.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+      "fingerprint": "d9bf619ee4c9f26937a7a0d1486a127d2770b629"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/workidentity-de/jobs/senior-sap-consultant-ewm-m-w-d",
+      "title": "Senior SAP Consultant EWM (m/w/d)",
+      "company": "workidentity",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Senior",
+      "salary": "",
+      "description": "einleitung Gestalte die Logistik von morgen Du möchtest Unternehmen dabei unterstützen, ihre Logistikprozesse auf das nächste Level zu heben? Für ein modernes Beratungsunternehmen mit Fokus auf digitale Transformation und SAP-Lösungen suchen wir Persönlichkeiten, die Innovation mit Praxiserfahrung verbinden. Hier erwarten dich spannende Projekte, viel Gestaltungsspielraum und ein Umfeld, das Eigeninitiative, Weiterentwicklung und Teamgeist fördert. deine aufgaben Du analysierst, konzipierst und optimierst End-to-End-Logistikprozesse mit Schwerpunkt SAP EWM. Du begleitest nationale und internationale Kunden bei Einführungs-, Transformations- und Betreuungsprojekten. Du berätst bei der Auswahl, Konzeption und Umsetzung zukunftsfähiger Lager- und Logistiklösungen. Du führst Customizing-Anpassungen durch und entwickelst nachhaltige Lösungsansätze für komplexe Anforderungen. Du planst und moderierst Workshops sowie Schulungen für Key User und Fachbereiche. Du erarbeitest Teststrategien und begleitest Integrations-, Abnahme- und Performance-Tests. Du übernimmst Verantwortung für Arbeitspakete oder Teilprojekte und steuerst diese eigenständig. Du wirkst aktiv an der Weiterentwicklung von…",
+      "descriptionSnippet": "einleitung Gestalte die Logistik von morgen Du möchtest Unternehmen dabei unterstützen, ihre Logistikprozesse auf das nächste Level zu heben?",
+      "tags": [],
+      "postedAt": "2026-09-22T00:26:40.000Z",
+      "expiresAt": "2026-11-21T00:26:39.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/workidentity-de/jobs/senior-sap-consultant-ewm-m-w-d?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/workidentity-de/jobs/senior-sap-consultant-ewm-m-w-d?utm_source=api",
+      "fingerprint": "9e7d947d862849c6f6ecc94dbead680234f1347a"
+    },
+    {
+      "id": "remoteok:1137155",
+      "title": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management",
+      "company": "Tessera Labs",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Lead",
+      "salary": "$30–$36",
+      "description": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement — full-time or contract, workstream-critical role Location Nearshore, based in Mexico or Brazil — remote-based delivery model; excellent business English required for direct engagement with client stakeholders and leadership Reports To Program Director / Engagement Lead, Tessera Labs AI About the Role Tessera Labs AI is a technology product firm delivering next-generation, AI-accelerated enterprise transformation programs. We are seeking an experienced Oracle Fusion Cloud Lead to own the Logistics and Supply Chain Management (SCM) workstream for a greenfield Oracle Fusion Cloud implementation for a fast-growing client. This is a greenfield implementation from a process and configuration standpoint — there is no legacy SCM configuration to reverse-engineer or carry forward, and the opportunity is to stand up Oracle Fusion Cloud Inventory Management, Order Management, Indirect Procurement and related logistics processes from a blank slate, configured to Oracle standard wherever possible. Data is a different story: item,…",
+      "descriptionSnippet": "<p style=\"min-height:1.5em\"><strong>Oracle Fusion Cloud Lead — Logistics & Supply Chain Management</strong></p><p style=\"min-height:1.5em\"><strong>Greenfield Oracle Fusion Implementation</strong></p><p style=\"min-height:1.5em\">Company…",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "postedAt": "2026-08-27T00:00:17.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+      "fingerprint": "415b20a9f89a593e2ebab01770d7ca68a6dc0c9e"
+    },
+    {
+      "id": "remoteok:1137194",
+      "title": "Renewables Project Scheduler",
+      "company": "Transportation Partners & Logistics",
+      "location": "Black Bess,",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "Apply Description Job Summary: The BESS Project Scheduler is responsible for developing, maintaining, and analyzing detailed project schedules for Battery Energy Storage System (BESS) projects. This role plays a critical part in ensuring projects are delivered on time by providing accurate schedule forecasts, identifying risks, and supporting project teams with data-driven insights across engineering, procurement, construction, commissioning, and energization phases. This role requires a strong leader that will take ownership of driving accurate and up to date scheduling across multiple projects as well as taking initiative to drive process improvements where there is an opportunity to improve. Job Responsibilities Develop and maintain integrated project schedules for BESS projects from NTP through COD Build schedules covering engineering, procurement, manufacturing, logistics, civil, electrical, installation, commissioning, and grid interconnection Collaborate with Project Managers, Construction Managers, OEMs, and subcontractors to validate logic, durations, and sequencing Perform critical path analysis, float analysis, and schedule risk assessments Track project progress and…",
+      "descriptionSnippet": "Apply<br><br><strong>Description<br><br></strong><strong>Job Summary:<br><br></strong>The BESS Project Scheduler is responsible for developing, maintaining, and analyzing detailed project schedules for Battery Energy Storage System (BESS)…",
+      "tags": [
+        "sys admin",
+        "technical",
+        "customer support",
+        "testing",
+        "travel",
+        "microsoft",
+        "exec",
+        "excel",
+        "stats",
+        "engineer"
+      ],
+      "postedAt": "2026-08-25T21:34:13.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
+      "fingerprint": "c6433727541442ebb4a87b0ca5fde60643f3b2d3"
+    }
+  ]
+}
