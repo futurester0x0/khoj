@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T11:28:44.387Z",
-  "jobCount": 16,
+  "generatedAt": "2026-10-31T10:59:58.293Z",
+  "jobCount": 20,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 309,
-      "relevant": 37,
+      "fetched": 307,
+      "relevant": 46,
       "errors": []
     },
     {
@@ -28,6 +28,166 @@
     }
   ],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/ais-applied-information-sciences/jobs/operations-and-maintenance-technician-azure-landing-zone-azure-virtual-deskt-2756271304",
+      "title": "Operations and Maintenance Technician – Azure Landing Zone & Azure Virtual Deskt",
+      "company": "AIS (Applied Information Sciences)",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Senior",
+      "salary": "USD 102,000–154,000 / annual",
+      "description": "Why AIS? When you join AIS, you’re joining a mission-driven team that’s passionate about making a difference. You’ll work on projects that matter, alongside industry-leading experts, in an environment that fosters innovation, driving client success, and empowering our team to make a lasting impact. As an employee-owned company, we value collaboration, inclusivity, continuous growth, and shared success. Employee Ownership : Your contributions directly impact the company’s success, and you share in its achievements. Continuous Learning : Access to resources, training, and mentorship to support your professional growth. Inclusive Culture : A workplace where diversity is celebrated, and everyone’s voice is valued. Mission-Driven Work : Engage in projects that make a meaningful difference for our clients and communities. What are we looking for? At AIS, we're looking for more than just skills - we're looking for driven individuals who are passionate about making a difference, eager to grow, and aligned with our core principles. Working@AIS At AIS, we are dedicated to providing our employees with diverse opportunities to grow their careers while supporting a variety of impactful…",
+      "descriptionSnippet": "Why AIS? When you join AIS, you’re joining a mission-driven team that’s passionate about making a difference.",
+      "tags": [
+        "Developer",
+        "Operations"
+      ],
+      "postedAt": "2026-10-31T04:20:48.000Z",
+      "expiresAt": "2026-12-30T04:20:47.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/ais-applied-information-sciences/jobs/operations-and-maintenance-technician-azure-landing-zone-azure-virtual-deskt-2756271304?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/ais-applied-information-sciences/jobs/operations-and-maintenance-technician-azure-landing-zone-azure-virtual-deskt-2756271304?utm_source=api",
+      "fingerprint": "fa9b029cac8d9b90d50948454c24910196fc4ad0"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/oscar/jobs/provider-data-operations-lead",
+      "title": "Provider Data Operations Lead",
+      "company": "Oscar",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Lead",
+      "salary": "USD 55,890–73,355 / annual",
+      "description": "Hi, we're Oscar . We're hiring a Provider Data Operations Lead to join our Network Operations. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Provider Data Operations Lead is a provider data and production workflow expert within a payor healthcare environment. This role is responsible for creating, implementing, and optimizing production workflows while driving team performance against established goals and KPIs. The Lead provides day-to-day coaching and leadership to support staff and partners with cross-functional stakeholders to develop workflow solutions that improve operational efficiency, data accuracy, quality, and overall team performance. You will report into the Manager, Provider Data Operations. Work Location: This position is fully remote and open to candidates residing in the U.S., excluding Alaska; Delaware; Hawaii; Louisiana; Montana; North Dakota; Oklahoma; West Virginia; Wyoming; and U.S. Territories. Daily work…",
+      "descriptionSnippet": "Hi, we're Oscar. We're hiring a Provider Data Operations Lead to join our Network Operations.",
+      "tags": [],
+      "postedAt": "2026-10-31T00:12:43.000Z",
+      "expiresAt": "2026-12-30T00:12:42.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/oscar/jobs/provider-data-operations-lead?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/oscar/jobs/provider-data-operations-lead?utm_source=api",
+      "fingerprint": "195977441e6b1fe30da09d08d7270f563b7cd41e"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/anduril/jobs/senior-product-sourcing-engineer-counter-intrusion-2150500924",
+      "title": "Senior Product Sourcing Engineer, Counter Intrusion",
+      "company": "Anduril",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Senior",
+      "salary": "USD 126,000–167,000 / annual",
+      "description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril ’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB The Senior Product Sourcing Engineer drives the strategic supply network development and cost management of Anduril ’s Counter Intrusion product portfolio across their lifecycles, by collaborating with suppliers and cross-functionally, including folks in engineering, quality, and manufacturing. WHAT YOU'LL DO Conduct supplier selection for a specific product, leveraging our approved supplier list Partner with strategic suppliers to accelerate product…",
+      "descriptionSnippet": "Anduril Industries is a defense technology company with a mission to transform U.",
+      "tags": [],
+      "postedAt": "2026-10-30T21:48:12.000Z",
+      "expiresAt": "2026-12-29T21:48:10.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/anduril/jobs/senior-product-sourcing-engineer-counter-intrusion-2150500924?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/anduril/jobs/senior-product-sourcing-engineer-counter-intrusion-2150500924?utm_source=api",
+      "fingerprint": "9d53c3d07c00e12e484212269d68824119416867"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/centene-corporation/jobs/director-clinical-systems-operations-pharmacy",
+      "title": "Director, Clinical Systems Operations (Pharmacy)",
+      "company": "Centene Corporation",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Lead",
+      "salary": "USD 134,600–249,000 / annual",
+      "description": "Position Purpose: Oversee the development, implementation, and operation of medical management information systems and/or new technology solutions to meet Corporate, Health Plan, and Specialty business unit needs. Key Details: This is a remote Director, Clinical Systems Operations (Pharmacy) opportunity supporting Eastern or Central business hours. The team will consist of 11 individuals, including 4 direct reports. This role will lead Clinical Systems for the Pharmacy team, coordinating 50+ clinical program and initiative workflows across various business rules and overseeing 10,000+ programmed communications to members, providers, and pharmacies, with an annual volume of more than 8 million. Responsibilities include managing the systems that support direct clinical interactions with members and other clinical program activities; providing business rules for clinical data informatics to identify populations and medication-related problems by linking eligibility, medical, and pharmacy claims data across large data sets; and managing program triage to pharmacists and technicians based on program type, language, and state board of pharmacy licensure rules. The role will oversee…",
+      "descriptionSnippet": "Position Purpose: Oversee the development, implementation, and operation of medical management information systems and/or new technology solutions to meet Corporate, Health Plan, and Specialty business unit needs.",
+      "tags": [],
+      "postedAt": "2026-10-30T19:23:38.000Z",
+      "expiresAt": "2026-12-29T19:23:37.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/centene-corporation/jobs/director-clinical-systems-operations-pharmacy?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/centene-corporation/jobs/director-clinical-systems-operations-pharmacy?utm_source=api",
+      "fingerprint": "4bb5ca986cce4e03a2cba02eb177611e7664b0f4"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/brown-university-health/jobs/project-manager-cancer-research-operations",
+      "title": "Project Manager - Cancer Research Operations",
+      "company": "Brown University Health",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Part time",
+      "experience": "Senior",
+      "salary": "USD 90,730–149,698 / annual",
+      "description": "SUMMARY: Reporting to Brown University Health Office of Cancer Research leadership, the Project Manager leads complex, cross-functional initiatives that strengthen the clinical research portfolio and its supporting infrastructure. The role designs governance, implementation plans, performance measures, communication strategies, and change-management approaches for initiatives involving study start-up, regulatory operations, clinical trial finance, research billing compliance, participant access and accrual, workforce models, and research technology. The Project Manager coordinates project resources and stakeholders to achieve timely, compliant, and financially responsible delivery while supporting a consistent investigator and participant experience. Brown University Health employees are expected to successfully role model the organization's values of Compassion, Accountability, Respect, and Excellence as these values guide our everyday actions with patients, customers and one another. In addition to our values, all employees are expected to demonstrate the core Success Factors which tell us how we work together and how we get things done. The core Success Factors include: Instill…",
+      "descriptionSnippet": "SUMMARY:Reporting to Brown University Health Office of Cancer Research leadership, the Project Manager leads complex, cross-functional initiatives that strengthen the clinical research portfolio and its supporting infrastructure.",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-10-30T14:47:18.000Z",
+      "expiresAt": "2026-12-29T14:47:18.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/brown-university-health/jobs/project-manager-cancer-research-operations?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/brown-university-health/jobs/project-manager-cancer-research-operations?utm_source=api",
+      "fingerprint": "973b48c3f82bf7b4fd1a59385de1802381c39eed"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor",
       "title": "Senior Cargo Condition and Securing Surveyor",
@@ -125,40 +285,6 @@
       "url": "https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations?utm_source=api",
       "fingerprint": "cb8d760b5f5a6553e13d2144d46348b2be25cc5f"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/growe-talents/jobs/operational-project-manager",
-      "title": "Operational Project Manager",
-      "company": "Growe Talents",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Mid",
-      "salary": "",
-      "description": "Our client, Growe, is a leading business advisory and services group in iGaming and Entertainment. Сreators of strategies that work and solutions that scale. Combining strategic vision with hands-on expertise, Growe helps businesses navigate the fast-evolving industry, seize new opportunities, enter new markets, and achieve sustainable growth. Perfect for those who aim to: Coordinate cross-functional communication between teams, team leads, and management to ensure effective collaboration and timely resolution of operational issues; Manage incoming requests, coordinate task distribution and prioritization, and ensure clear ownership across teams; Track task progress, deadlines, and dependencies, proactively identifying blockers and coordinating their resolution; Organize meetings and follow-ups, ensuring alignment and timely completion of action items; Coordinate quarterly planning, including scope preparation, planning sessions, and alignment of initiatives across teams; Maintain task tracking and documentation in Jira, Confluence, and other relevant tools, ensuring transparency and up-to-date information; Identify process gaps and bottlenecks, driving improvements in operational…",
-      "descriptionSnippet": "Our client, Growe, is a leading business advisory and services group in iGaming and Entertainment.",
-      "tags": [
-        "Operations",
-        "Product"
-      ],
-      "postedAt": "2026-10-28T08:19:48.000Z",
-      "expiresAt": "2026-12-27T08:19:47.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/growe-talents/jobs/operational-project-manager?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/growe-talents/jobs/operational-project-manager?utm_source=api",
-      "fingerprint": "a214685f5d14c8b3024adcc10059ebbe4a33114d"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/procurement-vendor-management-expert",
