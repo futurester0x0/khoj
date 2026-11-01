@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-31T10:59:58.293Z",
-  "jobCount": 20,
+  "generatedAt": "2026-11-01T11:55:43.342Z",
+  "jobCount": 19,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 307,
-      "relevant": 46,
+      "fetched": 197,
+      "relevant": 37,
       "errors": []
     },
     {
@@ -23,11 +23,46 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 0,
+      "relevant": 1,
       "errors": []
     }
   ],
   "jobs": [
+    {
+      "id": "arbeitnow:remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du verbindest fundiertes Know-how in ML Engineering, RAG-Architekturen und MLOps, um KI-Lösungen produktionsreif, skalierbar und sicher umzusetzen. Dabei arbeitest Du eng mit technischen Expert:innen, Fachbereichen und Entscheidungsträgern zusammen und trägst maßgeblich dazu bei, innovative KI-Lösungen erfolgreich zu etablieren. Deine Aufgaben: Entwurf und Weiterentwicklung der KI-/ML-Gesamtarchitektur als Enterprise-KI-Plattform mit Schwerpunkt Microsoft Azure Technische Leitung von ML-Pipeline-Projekten, insbesondere in den Bereichen Training,…",
+      "descriptionSnippet": "<p>Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer…",
+      "tags": [
+        "Customer Cluster Environment",
+        "Transportation & Energy",
+        "Remote"
+      ],
+      "postedAt": "2026-11-01T00:31:19.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823"
+        }
+      ],
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+      "fingerprint": "abfb7afcbd653c4ec0f2edc8fb450eb25921ba7b"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/ais-applied-information-sciences/jobs/operations-and-maintenance-technician-azure-landing-zone-azure-virtual-deskt-2756271304",
       "title": "Operations and Maintenance Technician – Azure Landing Zone & Azure Virtual Deskt",
@@ -156,39 +191,6 @@
       "fingerprint": "4bb5ca986cce4e03a2cba02eb177611e7664b0f4"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/brown-university-health/jobs/project-manager-cancer-research-operations",
-      "title": "Project Manager - Cancer Research Operations",
-      "company": "Brown University Health",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Part time",
-      "experience": "Senior",
-      "salary": "USD 90,730–149,698 / annual",
-      "description": "SUMMARY: Reporting to Brown University Health Office of Cancer Research leadership, the Project Manager leads complex, cross-functional initiatives that strengthen the clinical research portfolio and its supporting infrastructure. The role designs governance, implementation plans, performance measures, communication strategies, and change-management approaches for initiatives involving study start-up, regulatory operations, clinical trial finance, research billing compliance, participant access and accrual, workforce models, and research technology. The Project Manager coordinates project resources and stakeholders to achieve timely, compliant, and financially responsible delivery while supporting a consistent investigator and participant experience. Brown University Health employees are expected to successfully role model the organization's values of Compassion, Accountability, Respect, and Excellence as these values guide our everyday actions with patients, customers and one another. In addition to our values, all employees are expected to demonstrate the core Success Factors which tell us how we work together and how we get things done. The core Success Factors include: Instill…",
-      "descriptionSnippet": "SUMMARY:Reporting to Brown University Health Office of Cancer Research leadership, the Project Manager leads complex, cross-functional initiatives that strengthen the clinical research portfolio and its supporting infrastructure.",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-10-30T14:47:18.000Z",
-      "expiresAt": "2026-12-29T14:47:18.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/brown-university-health/jobs/project-manager-cancer-research-operations?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/brown-university-health/jobs/project-manager-cancer-research-operations?utm_source=api",
-      "fingerprint": "973b48c3f82bf7b4fd1a59385de1802381c39eed"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor",
       "title": "Senior Cargo Condition and Securing Surveyor",
       "company": "micro1",
@@ -196,7 +198,7 @@
       "workMode": "Remote",
       "employmentType": "Contract",
       "experience": "Senior",
-      "salary": "USD 20–60 / hourly",
+      "salary": "",
       "description": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: Contractor Location: Global-Remote Job Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging Senior Cargo Condition and Securing Surveyors to contribute expert analysis and insight to a customer's logistics-focused project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Scope of Work Evaluate refrigerated and temperature-controlled cargo documentation, such as reefer temperature logs and condition records, to assess compliance and identify potential issues. Analyze finished-vehicle and food transport evidence, including damage reports and compliance documents, to determine condition, causation, and potential losses. Perform remote assessments of container integrity, cargo securing methods, and lashing arrangements using photographic and written shipment records. Review hatch-cover inspection reports and related…",
       "descriptionSnippet": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: ContractorLocation: Global-RemoteJob Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1…",
       "tags": [],
@@ -294,7 +296,7 @@
       "workMode": "Remote",
       "employmentType": "Contract",
       "experience": "Senior",
-      "salary": "USD 45–90 / hourly",
+      "salary": "",
       "description": "Role Title: Procurement & Vendor Management Expert Role Type: Contractor Location: Remote Opportunity Snapshot Pay: Up to $90/hour equivalent. Time per task: ~10 hours per task Location: Fully remote — no geographic restrictions. Strong English required (B2 minimum, C1 preferred) Next step: Complete the role-specific AI interview — it’s how your expertise gets in front of the client Your tasks: Design realistic, multi-step procurement and vendor management tasks with objective criteria for grading the output micro1 is engaging experienced procurement and vendor management practitioners to design the tasks that measure what AI systems can actually do. Your domain knowledge is what matters here — no prior AI experience required. The work is to turn real procurement workflows into benchmark tasks: realistic, difficult, and gradable against objective criteria. If you’ve built a supplier scorecard, run a weighted bid evaluation, or written a vendor risk framework, that’s exactly the instinct this needs. Scope of Work Design multi-step tasks drawn from real procurement work — supplier assessment, bid comparison, vendor risk analysis, contract review — with realistic reference files and…",
       "descriptionSnippet": "Role Title: Procurement & Vendor Management Expert Role Type: ContractorLocation: RemoteOpportunity SnapshotPay: Up to $90/hour equivalent.",
       "tags": [
@@ -351,40 +353,6 @@
       "url": "https://himalayas.app/companies/micro1/jobs/transportation-and-warehousing-expert?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/micro1/jobs/transportation-and-warehousing-expert?utm_source=api",
       "fingerprint": "3139a4cae5bdb8d9c90ba3fedf03b2aaa2caf823"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/masalto/jobs/operations-systems-assistant-breezeway-hubspot",
-      "title": "Operations & Systems Assistant – Breezeway & HubSpot",
-      "company": "MasAlto",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Contract",
-      "experience": "Entry",
-      "salary": "",
-      "description": "Operations & Systems Assistant – Breezeway & HubSpot Department: Operations Job Type: Part-Time Freelancer Work Arrangement: Remote Hours: Up to 20 hours per week Location: Remote, worldwide. Schedule: Flexible working hours, with availability for scheduled team meetings. About Corporate Stays Corporate Stays is an international furnished apartment rental and property management company operating across Canada and Latin America. We manage a growing portfolio of furnished apartments and rely on operational platforms to coordinate property management, housekeeping, maintenance, guest services, and internal procedures. We are looking for an experienced Operations & Systems Assistant to help us organize, configure, and optimize two important platforms: Breezeway and HubSpot Knowledge Base. This is not a traditional virtual assistant position. We need someone comfortable working directly with operational software, building structured workflows, organizing information, and improving processes. Key Responsibilities 1. Breezeway – Property Operations Management Our main priority is to properly configure, organize, and optimize Breezeway for our property management operations. Review and…",
-      "descriptionSnippet": "Operations & Systems Assistant – Breezeway & HubSpot Department: Operations Job Type: Part-Time FreelancerWork Arrangement: RemoteHours: Up to 20 hours per week Location: Remote, worldwide.",
-      "tags": [
-        "Operations",
-        "Human Resources"
-      ],
-      "postedAt": "2026-10-24T04:05:00.000Z",
-      "expiresAt": "2026-12-23T04:04:59.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/masalto/jobs/operations-systems-assistant-breezeway-hubspot?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/masalto/jobs/operations-systems-assistant-breezeway-hubspot?utm_source=api",
-      "fingerprint": "11bceef0096efe8248d607989312c64e0b3ec449"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner",
