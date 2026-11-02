@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-01T11:55:43.342Z",
-  "jobCount": 19,
+  "generatedAt": "2026-11-02T13:41:57.445Z",
+  "jobCount": 10,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 197,
-      "relevant": 37,
+      "fetched": 153,
+      "relevant": 26,
       "errors": []
     },
     {
@@ -23,172 +23,54 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 1,
+      "relevant": 0,
       "errors": []
     }
   ],
   "jobs": [
     {
-      "id": "arbeitnow:remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
+      "id": "remoteok:1137609",
+      "title": "Partner Operations Manager",
+      "company": "Mecka",
+      "location": "Worldwide",
       "workMode": "Remote",
-      "employmentType": "Full time",
+      "employmentType": "Not specified",
       "experience": "Not specified",
-      "salary": "",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du verbindest fundiertes Know-how in ML Engineering, RAG-Architekturen und MLOps, um KI-Lösungen produktionsreif, skalierbar und sicher umzusetzen. Dabei arbeitest Du eng mit technischen Expert:innen, Fachbereichen und Entscheidungsträgern zusammen und trägst maßgeblich dazu bei, innovative KI-Lösungen erfolgreich zu etablieren. Deine Aufgaben: Entwurf und Weiterentwicklung der KI-/ML-Gesamtarchitektur als Enterprise-KI-Plattform mit Schwerpunkt Microsoft Azure Technische Leitung von ML-Pipeline-Projekten, insbesondere in den Bereichen Training,…",
-      "descriptionSnippet": "<p>Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer…",
+      "salary": "$80,000–$100,000",
+      "description": "About Mecka AI Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied AI systems. We work closely with frontier robotics teams to bridge real-world data, simulation, learning-based systems, and deployed hardware. About the Role Signing a capture partner is the start of the work. Getting that partner to steady, high-quality output takes onboarding, training, hardware, support, and reporting, and every step has to run on time. As Partnership Operations Manager, you will own that path for our regional partnership leads so they can focus on finding and signing partners. This is a new function, so you will set the standards and tooling yourself and make them repeatable across regions. What You Will Do Deal support: Prepare proposals and agreements from approved templates and keep a clean record of every partner’s rates, volumes, and term dates. Onboarding: Set partners up on the platform, issue devices and accounts, and train their teams on capture standards so they reach…",
+      "descriptionSnippet": "<h3>About Mecka AI</h3><p style=\"min-height:1.5em\">Mecka AI is building the data infrastructure layer for robotics and embodied AI.<br />We design and operate global systems for data capture, data labeling, and hardware-enabled workflows…",
       "tags": [
-        "Customer Cluster Environment",
-        "Transportation & Energy",
-        "Remote"
+        "exec",
+        "design",
+        "education",
+        "customer support",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "robotics",
+        "ops",
+        "recruiter",
+        "engineer",
+        "digital nomad"
       ],
-      "postedAt": "2026-11-01T00:31:19.000Z",
+      "postedAt": "2026-11-01T00:00:08.000Z",
       "expiresAt": null,
       "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+        "termsUrl": "https://remoteok.com/api"
       },
       "sources": [
         {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823"
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609"
         }
       ],
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-      "fingerprint": "abfb7afcbd653c4ec0f2edc8fb450eb25921ba7b"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/ais-applied-information-sciences/jobs/operations-and-maintenance-technician-azure-landing-zone-azure-virtual-deskt-2756271304",
-      "title": "Operations and Maintenance Technician – Azure Landing Zone & Azure Virtual Deskt",
-      "company": "AIS (Applied Information Sciences)",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Senior",
-      "salary": "USD 102,000–154,000 / annual",
-      "description": "Why AIS? When you join AIS, you’re joining a mission-driven team that’s passionate about making a difference. You’ll work on projects that matter, alongside industry-leading experts, in an environment that fosters innovation, driving client success, and empowering our team to make a lasting impact. As an employee-owned company, we value collaboration, inclusivity, continuous growth, and shared success. Employee Ownership : Your contributions directly impact the company’s success, and you share in its achievements. Continuous Learning : Access to resources, training, and mentorship to support your professional growth. Inclusive Culture : A workplace where diversity is celebrated, and everyone’s voice is valued. Mission-Driven Work : Engage in projects that make a meaningful difference for our clients and communities. What are we looking for? At AIS, we're looking for more than just skills - we're looking for driven individuals who are passionate about making a difference, eager to grow, and aligned with our core principles. Working@AIS At AIS, we are dedicated to providing our employees with diverse opportunities to grow their careers while supporting a variety of impactful…",
-      "descriptionSnippet": "Why AIS? When you join AIS, you’re joining a mission-driven team that’s passionate about making a difference.",
-      "tags": [
-        "Developer",
-        "Operations"
-      ],
-      "postedAt": "2026-10-31T04:20:48.000Z",
-      "expiresAt": "2026-12-30T04:20:47.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/ais-applied-information-sciences/jobs/operations-and-maintenance-technician-azure-landing-zone-azure-virtual-deskt-2756271304?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/ais-applied-information-sciences/jobs/operations-and-maintenance-technician-azure-landing-zone-azure-virtual-deskt-2756271304?utm_source=api",
-      "fingerprint": "fa9b029cac8d9b90d50948454c24910196fc4ad0"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/oscar/jobs/provider-data-operations-lead",
-      "title": "Provider Data Operations Lead",
-      "company": "Oscar",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Lead",
-      "salary": "USD 55,890–73,355 / annual",
-      "description": "Hi, we're Oscar . We're hiring a Provider Data Operations Lead to join our Network Operations. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Provider Data Operations Lead is a provider data and production workflow expert within a payor healthcare environment. This role is responsible for creating, implementing, and optimizing production workflows while driving team performance against established goals and KPIs. The Lead provides day-to-day coaching and leadership to support staff and partners with cross-functional stakeholders to develop workflow solutions that improve operational efficiency, data accuracy, quality, and overall team performance. You will report into the Manager, Provider Data Operations. Work Location: This position is fully remote and open to candidates residing in the U.S., excluding Alaska; Delaware; Hawaii; Louisiana; Montana; North Dakota; Oklahoma; West Virginia; Wyoming; and U.S. Territories. Daily work…",
-      "descriptionSnippet": "Hi, we're Oscar. We're hiring a Provider Data Operations Lead to join our Network Operations.",
-      "tags": [],
-      "postedAt": "2026-10-31T00:12:43.000Z",
-      "expiresAt": "2026-12-30T00:12:42.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/oscar/jobs/provider-data-operations-lead?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/oscar/jobs/provider-data-operations-lead?utm_source=api",
-      "fingerprint": "195977441e6b1fe30da09d08d7270f563b7cd41e"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/anduril/jobs/senior-product-sourcing-engineer-counter-intrusion-2150500924",
-      "title": "Senior Product Sourcing Engineer, Counter Intrusion",
-      "company": "Anduril",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Senior",
-      "salary": "USD 126,000–167,000 / annual",
-      "description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril ’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB The Senior Product Sourcing Engineer drives the strategic supply network development and cost management of Anduril ’s Counter Intrusion product portfolio across their lifecycles, by collaborating with suppliers and cross-functionally, including folks in engineering, quality, and manufacturing. WHAT YOU'LL DO Conduct supplier selection for a specific product, leveraging our approved supplier list Partner with strategic suppliers to accelerate product…",
-      "descriptionSnippet": "Anduril Industries is a defense technology company with a mission to transform U.",
-      "tags": [],
-      "postedAt": "2026-10-30T21:48:12.000Z",
-      "expiresAt": "2026-12-29T21:48:10.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/anduril/jobs/senior-product-sourcing-engineer-counter-intrusion-2150500924?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/anduril/jobs/senior-product-sourcing-engineer-counter-intrusion-2150500924?utm_source=api",
-      "fingerprint": "9d53c3d07c00e12e484212269d68824119416867"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/centene-corporation/jobs/director-clinical-systems-operations-pharmacy",
-      "title": "Director, Clinical Systems Operations (Pharmacy)",
-      "company": "Centene Corporation",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Lead",
-      "salary": "USD 134,600–249,000 / annual",
-      "description": "Position Purpose: Oversee the development, implementation, and operation of medical management information systems and/or new technology solutions to meet Corporate, Health Plan, and Specialty business unit needs. Key Details: This is a remote Director, Clinical Systems Operations (Pharmacy) opportunity supporting Eastern or Central business hours. The team will consist of 11 individuals, including 4 direct reports. This role will lead Clinical Systems for the Pharmacy team, coordinating 50+ clinical program and initiative workflows across various business rules and overseeing 10,000+ programmed communications to members, providers, and pharmacies, with an annual volume of more than 8 million. Responsibilities include managing the systems that support direct clinical interactions with members and other clinical program activities; providing business rules for clinical data informatics to identify populations and medication-related problems by linking eligibility, medical, and pharmacy claims data across large data sets; and managing program triage to pharmacists and technicians based on program type, language, and state board of pharmacy licensure rules. The role will oversee…",
-      "descriptionSnippet": "Position Purpose: Oversee the development, implementation, and operation of medical management information systems and/or new technology solutions to meet Corporate, Health Plan, and Specialty business unit needs.",
-      "tags": [],
-      "postedAt": "2026-10-30T19:23:38.000Z",
-      "expiresAt": "2026-12-29T19:23:37.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/centene-corporation/jobs/director-clinical-systems-operations-pharmacy?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/centene-corporation/jobs/director-clinical-systems-operations-pharmacy?utm_source=api",
-      "fingerprint": "4bb5ca986cce4e03a2cba02eb177611e7664b0f4"
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "fingerprint": "929f5495cc4611deab1f06556a508afee709157d"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor",
@@ -220,73 +102,6 @@
       "url": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
       "fingerprint": "c6b59b796fe9dcc02e97d9ea17765c77b63e8d19"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/7-eleven-inc/jobs/program-manager-fleet-operations",
-      "title": "Program Manager - Fleet Operations",
-      "company": "7-Eleven Inc",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Mid",
-      "salary": "USD 70,000–107,500 / annual",
-      "description": "7-Eleven is an iconic family of brands with over 86,000 locations, surpassing every retailer in the world. We revolutionize convenience, restaurants and fuel through cutting edge innovation — working hard to be the customer's first choice. 7-Eleven empowers our employees to \"activate awesome\" and make a meaningful impact in their stores and communities every day. If you're ready to grow, lead and make a difference, come join our team and help shape the future of convenience. JOB SUMMARY: The Commercial Fleet team at 7-Eleven manages a diverse portfolio of fleet payments and programs leveraged to drive B2B traffic to our network of over 8,000 retail fuel locations. The team also manages the 7FLEET Diesel Network, a collection of nearly 500 7-Eleven®, Speedway® and Stripes® stores meeting the needs of professional truck drivers in 26 states. As a Program Manager of Fleet Operations , you will lead the strategic rollout and continuous optimization of fleet programs. You will act as a key problem-solver and cross-functional leader, driving initiatives that enhance the commercial fleet customer’s experience at the pump and in-store. The Program Manager will own program execution while…",
-      "descriptionSnippet": "7-Eleven is an iconic family of brands with over 86,000 locations, surpassing every retailer in the world.",
-      "tags": [
-        "Product",
-        "Logistics"
-      ],
-      "postedAt": "2026-10-30T03:18:33.000Z",
-      "expiresAt": "2026-12-29T03:18:32.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/7-eleven-inc/jobs/program-manager-fleet-operations?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/7-eleven-inc/jobs/program-manager-fleet-operations?utm_source=api",
-      "fingerprint": "54437a8e3bd4e9bd16877ef50bcff8b37bc547f6"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations",
-      "title": "Director of Operations",
-      "company": "mPulse Mobile",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Lead",
-      "salary": "USD 185,000–195,000 / annual",
-      "description": "About mPulse: mPulse is the leader in conversational AI and member engagement for healthcare. We partner with the nation's most innovative health plans — Medicare Advantage, Medicaid, and Commercial — to engage members in conversations that close care gaps, improve Stars ratings, and drive better health outcomes. Our platform reaches tens of millions of Americans and is built on the belief that better health starts with better conversations. Job Summary: The Director of Operations at mPulse Mobile will be instrumental in driving operational excellence and strategic alignment across the organization. This role involves collaborating with leadership to develop and manage strategic plans that align with company-wide goals and foster cross-functional collaboration. The Director will lead and support initiatives aimed at enhancing operational efficiency, customer retention, and organizational transformation. This individual will play a key role in optimizing business intelligence practices to support decision-making, refining commercial strategies, and managing whitespace and cross-sell opportunities to drive revenue growth. Duties/Responsibilities: Collaborate with leadership to…",
-      "descriptionSnippet": "About mPulse: mPulse is the leader in conversational AI and member engagement for healthcare.",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-10-30T00:58:08.000Z",
-      "expiresAt": "2026-12-29T00:58:06.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/mpulse-mobile/jobs/director-of-operations?utm_source=api",
-      "fingerprint": "cb8d760b5f5a6553e13d2144d46348b2be25cc5f"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/procurement-vendor-management-expert",
@@ -489,106 +304,6 @@
       "url": "https://himalayas.app/companies/micro1/jobs/retail-trade-operations-expert?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/micro1/jobs/retail-trade-operations-expert?utm_source=api",
       "fingerprint": "5e91e3b140a432a22edb8b3d625705204ca773d1"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/venduetech/jobs/operations-associate-worldwide-part-time",
-      "title": "Operations Associate - Worldwide, Part Time",
-      "company": "VendueTech",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Part time",
-      "experience": "Entry",
-      "salary": "",
-      "description": "About The Role: As VendueTech scales, we need someone to help our COO and Head of Ops keep the company running at full capacity across teams, processes, and people, making sure nothing falls through the cracks as we grow. You'll work directly with our COO and Head of Ops, becoming the operational backbone that supports team leads, cross-functional projects, and the people processes that keep a fast-growing, fully remote team aligned. This isn't a narrow admin role as you'll own pieces of how the company actually runs. If you thrive in fast-moving environments, take pride in operational precision, and want your work to have a direct impact on company outcomes, this role is for you. Key Responsibilities: Operational Support Support the COO and Head of Ops in driving operational excellence across cross-functional teams Support team leads with day-to-day coordination: calendars, 1-1s, and all-hands meetings Help drive OKR tracking and reporting across the company Support our Ops AI Engineer and emerging functions as they stand up new workflows and tools Provide general staff support across new verticals, including content support for marketing and coordination support for grant…",
-      "descriptionSnippet": "About The Role: As VendueTech scales, we need someone to help our COO and Head of Ops keep the company running at full capacity across teams, processes, and people, making sure nothing falls through the cracks as we grow.",
-      "tags": [
-        "Operations",
-        "Management"
-      ],
-      "postedAt": "2026-10-06T16:45:24.000Z",
-      "expiresAt": "2026-12-05T16:45:24.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/venduetech/jobs/operations-associate-worldwide-part-time?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/venduetech/jobs/operations-associate-worldwide-part-time?utm_source=api",
-      "fingerprint": "f74e59b7e80e5c7c7b1fd21321f0fa3f3ee454a0"
-    },
-    {
-      "id": "remoteok:1137461",
-      "title": "Head of Operations",
-      "company": "Leverage Live Local",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Lead",
-      "salary": "$170,000–$350,000",
-      "description": "Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is. This seat owns the operating system that lets us grow without breaking. What's in it for you. A base of 180,000 dollars with upside tied to the numbers you own, full compensation likely 250,000 to 350,000 dollars when the role is performing. Direct weekly access to the founder. Twenty days of paid time off plus federal holidays. Fully remote. What you own Every exemption application submitted correctly and on time, every cycle Decision tracking by the statutory deadline, logged in the system of record Denials and appeals, every one, with deadlines met The annual recertification and compliance cadence The operations team: SLAs, data hygiene, accountability One shared source of truth for the team, the software, and our clients Your scorecard at 90 days and 6 months. On time filing, denial rate, contract to filing ready, recurring compliance completion, and founder escalations. Legal deadlines are 100 percent from day one. Full targets are on our careers page. This is…",
-      "descriptionSnippet": "<p>Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is. This seat owns the…",
-      "tags": [
-        "non tech",
-        "ops",
-        "exec"
-      ],
-      "postedAt": "2026-10-03T20:20:32.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-      "fingerprint": "d9bf619ee4c9f26937a7a0d1486a127d2770b629"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/workidentity-de/jobs/senior-sap-consultant-ewm-m-w-d",
-      "title": "Senior SAP Consultant EWM (m/w/d)",
-      "company": "workidentity",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Senior",
-      "salary": "",
-      "description": "einleitung Gestalte die Logistik von morgen Du möchtest Unternehmen dabei unterstützen, ihre Logistikprozesse auf das nächste Level zu heben? Für ein modernes Beratungsunternehmen mit Fokus auf digitale Transformation und SAP-Lösungen suchen wir Persönlichkeiten, die Innovation mit Praxiserfahrung verbinden. Hier erwarten dich spannende Projekte, viel Gestaltungsspielraum und ein Umfeld, das Eigeninitiative, Weiterentwicklung und Teamgeist fördert. deine aufgaben Du analysierst, konzipierst und optimierst End-to-End-Logistikprozesse mit Schwerpunkt SAP EWM. Du begleitest nationale und internationale Kunden bei Einführungs-, Transformations- und Betreuungsprojekten. Du berätst bei der Auswahl, Konzeption und Umsetzung zukunftsfähiger Lager- und Logistiklösungen. Du führst Customizing-Anpassungen durch und entwickelst nachhaltige Lösungsansätze für komplexe Anforderungen. Du planst und moderierst Workshops sowie Schulungen für Key User und Fachbereiche. Du erarbeitest Teststrategien und begleitest Integrations-, Abnahme- und Performance-Tests. Du übernimmst Verantwortung für Arbeitspakete oder Teilprojekte und steuerst diese eigenständig. Du wirkst aktiv an der Weiterentwicklung von…",
-      "descriptionSnippet": "einleitung Gestalte die Logistik von morgen Du möchtest Unternehmen dabei unterstützen, ihre Logistikprozesse auf das nächste Level zu heben?",
-      "tags": [],
-      "postedAt": "2026-09-22T00:26:40.000Z",
-      "expiresAt": "2026-11-21T00:26:39.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/workidentity-de/jobs/senior-sap-consultant-ewm-m-w-d?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/workidentity-de/jobs/senior-sap-consultant-ewm-m-w-d?utm_source=api",
-      "fingerprint": "9e7d947d862849c6f6ecc94dbead680234f1347a"
     },
     {
       "id": "remoteok:1137155",
