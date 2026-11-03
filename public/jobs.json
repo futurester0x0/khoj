@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T13:41:57.445Z",
-  "jobCount": 10,
+  "generatedAt": "2026-11-03T12:54:36.957Z",
+  "jobCount": 11,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 153,
+      "fetched": 145,
       "relevant": 26,
       "errors": []
     },
@@ -23,11 +23,45 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 0,
+      "relevant": 1,
       "errors": []
     }
   ],
   "jobs": [
+    {
+      "id": "arbeitnow:it-support-analyst-application-operations-zurich-204968",
+      "title": "IT Support Analyst – Application Operations",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "................ Für unseren Kunden aus dem Bankenumfeld in Zürich , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n IT Support Analyst:in – Application Operations . Deine Aufgaben: Analyse wiederkehrender IT-Probleme, Identifikation von Ursachen sowie Entwicklung nachhaltiger Massnahmen zur Reduzierung von Störungen und Verbesserung der Systemstabilität Technische Analyse und Reproduktion von Applikationsfehlern in Testumgebungen sowie enge Zusammenarbeit mit Entwicklern, Softwarelieferanten und internen IT-Teams Überwachung von Bankanwendungen und IT-Systemen sowie Optimierung, Automatisierung und Weiterentwicklung bestehender Monitoring-Prozesse und -Tools Konfiguration und Administration von Bankanwendungen (insbesondere OpenLease) gemäss Business-Anforderungen sowie Verwaltung von Systemeinstellungen, Workflows und Benutzerrollen First- und Second-Level-Applikationssupport sowie Unterstützung im Major Incident Management inklusive Fehlerdiagnose, Priorisierung und Stakeholder-Kommunikation Bearbeitung von Benutzerzugriffsanfragen und Verwaltung von Berechtigungen unter Einhaltung interner Sicherheitsrichtlinien Dokumentation von Fehleranalysen, Workarounds…",
+      "descriptionSnippet": "<p>................</p><p>Für unseren Kunden aus dem Bankenumfeld in <strong>Zürich</strong>, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n <strong>IT Support Analyst:in – Application…",
+      "tags": [
+        "Remote",
+        "Applications Administration"
+      ],
+      "postedAt": "2026-11-02T13:31:11.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968"
+        }
+      ],
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
+      "fingerprint": "9ae7533a80e72497c4ad9bef08d014637be809ec"
+    },
     {
       "id": "remoteok:1137609",
       "title": "Partner Operations Manager",
