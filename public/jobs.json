@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-03T12:54:36.957Z",
-  "jobCount": 11,
+  "generatedAt": "2026-11-04T13:10:46.650Z",
+  "jobCount": 13,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 145,
-      "relevant": 26,
+      "fetched": 154,
+      "relevant": 32,
       "errors": []
     },
     {
@@ -15,7 +15,7 @@
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
       "fetched": 99,
-      "relevant": 4,
+      "relevant": 5,
       "errors": []
     },
     {
@@ -23,44 +23,72 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 1,
+      "relevant": 0,
       "errors": []
     }
   ],
   "jobs": [
     {
-      "id": "arbeitnow:it-support-analyst-application-operations-zurich-204968",
-      "title": "IT Support Analyst – Application Operations",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
+      "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst",
+      "title": "Recruiting Operations Analyst",
+      "company": "Spotter Labs",
+      "location": "Worldwide",
       "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
+      "employmentType": "Full time",
+      "experience": "Mid",
       "salary": "",
-      "description": "................ Für unseren Kunden aus dem Bankenumfeld in Zürich , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n IT Support Analyst:in – Application Operations . Deine Aufgaben: Analyse wiederkehrender IT-Probleme, Identifikation von Ursachen sowie Entwicklung nachhaltiger Massnahmen zur Reduzierung von Störungen und Verbesserung der Systemstabilität Technische Analyse und Reproduktion von Applikationsfehlern in Testumgebungen sowie enge Zusammenarbeit mit Entwicklern, Softwarelieferanten und internen IT-Teams Überwachung von Bankanwendungen und IT-Systemen sowie Optimierung, Automatisierung und Weiterentwicklung bestehender Monitoring-Prozesse und -Tools Konfiguration und Administration von Bankanwendungen (insbesondere OpenLease) gemäss Business-Anforderungen sowie Verwaltung von Systemeinstellungen, Workflows und Benutzerrollen First- und Second-Level-Applikationssupport sowie Unterstützung im Major Incident Management inklusive Fehlerdiagnose, Priorisierung und Stakeholder-Kommunikation Bearbeitung von Benutzerzugriffsanfragen und Verwaltung von Berechtigungen unter Einhaltung interner Sicherheitsrichtlinien Dokumentation von Fehleranalysen, Workarounds…",
-      "descriptionSnippet": "<p>................</p><p>Für unseren Kunden aus dem Bankenumfeld in <strong>Zürich</strong>, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n <strong>IT Support Analyst:in – Application…",
-      "tags": [
-        "Remote",
-        "Applications Administration"
-      ],
-      "postedAt": "2026-11-02T13:31:11.000Z",
-      "expiresAt": null,
+      "description": "The Recruiting Operations Analyst will be responsible for keeping our driver recruiting process accurate and on track. This role checks our recruiting system daily, makes sure every applicant is at the right step and that recruiters follow up on time, and prepares simple daily and weekly reports for management. Key Responsibilities Review applicant records every day to make sure they are accurate and up to date Make sure applicants are moving through each step of the hiring process on time Spot applicants who have not moved forward and follow up with the recruiter Catch and report records that were updated incorrectly Message recruiters in Slack about applicants who need attention, and let their manager know if there is no response Reporting Daily report on applicants that need follow up and records that need fixing Weekly report on recruiting progress and hiring numbers Requirements 1+ year in recruiting, operations, data entry or a similar role Experience with a CRM or applicant tracking system, and Google Sheets or Excel Strong attention to detail and clear written communication Bachelor's degree in a related field is preferred Coursework or training in business, data or…",
+      "descriptionSnippet": "The Recruiting Operations Analyst will be responsible for keeping our driver recruiting process accurate and on track.",
+      "tags": [],
+      "postedAt": "2026-11-04T04:51:33.000Z",
+      "expiresAt": "2026-12-04T00:07:37.000Z",
       "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
       },
       "sources": [
         {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968"
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
         }
       ],
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
-      "fingerprint": "9ae7533a80e72497c4ad9bef08d014637be809ec"
+      "url": "https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst?utm_source=api",
+      "fingerprint": "5c58aec8476e878ddd77c8133a915ded22c40179"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent",
+      "title": "Experienced Freight Agent",
+      "company": "VAme Ltd",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Mid",
+      "salary": "",
+      "description": "US-Based Applicants Only | 100% Remote About the Role Our logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of business or active shipper relationships. This is strictly for experienced transportation sales professionals who can bring existing customer relationships and generate freight revenue. This is not an entry-level position. If you have a proven track record in freight brokerage, know how to develop shipper accounts, negotiate rates, and manage freight opportunities, this is an opportunity to grow your business with strong operational and back-office support. What the Client Provides Access to DAT, Truckstop, Carrier411, Highway, TMS, Apollo, and carrier resources Full back-office support for billing, A/P, A/R, collections, claims, and paperwork Carrier onboarding and compliance assistance Quick Pay and fuel advance options Customer setup, credit support, and invoicing assistance Real-time visibility into loads, carrier costs, margins, and commission payouts 100% remote work with a flexible schedule Marketing and prospecting support when needed…",
+      "descriptionSnippet": "US-Based Applicants Only | 100% Remote About the RoleOur logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of…",
+      "tags": [],
+      "postedAt": "2026-11-04T04:32:27.000Z",
+      "expiresAt": "2026-12-03T05:46:20.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent?utm_source=api",
+      "fingerprint": "631ae31ee82c72e8d2353bc1e2d8777c2f1cd069"
     },
     {
       "id": "remoteok:1137609",
@@ -425,6 +453,52 @@
       "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
       "applyUrl": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
       "fingerprint": "c6433727541442ebb4a87b0ca5fde60643f3b2d3"
+    },
+    {
+      "id": "remoteok:1136778",
+      "title": "Operations Engineer II",
+      "company": "AWeber",
+      "location": "Uluberia-II,",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "Limited-Time Offer Done For You Email Marketing $599Only$1 Start for just $1 â 87% off ends soon! $599 $79 to launch your email marketing. Start for just $79 â â¦ Newsletter Assistant Features Pricing Blog Sign in My account Get AWeber Free Sign in Email marketing Email automation AI Page Builder Ecommerce Web push notifications AI Signup Form Builder AI Writing Assistant Link in Bio page Standard pricing High volume pricing Bloggers Coaches Etsy shops Newsletters YouTubers Contact Customer Solutions 24/7 AWeber Community Free account migration service Knowledge base Video tutorials The Shift AI Show Free workshops Landing Page Template Gallery Pre-written email campaigns AWeber Certified Experts App integrations Customer referral program Customer success stories Marketing Glossary 24/7 Email Marketing Master Class Blog â¦ Newsletter Assistant Join our ~60 talented remote team members, motivated to have an impact on the world while growing their skills every day. Our mission: Build an easy to use platform for Small Businesses and Creators to connect with their audiences. We help over 300,000 users and entrepreneurs chase their dreams with tools like email marketing,…",
+      "descriptionSnippet": "Limited-Time Offer Done For You Email Marketing $599Only$1 <strong>Start for just $1</strong> â<br><br>87% off ends soon! <em>$599 <strong>$79</strong></em> to launch your email marketing. <em><strong>Start for just $79</strong></em>…",
+      "tags": [
+        "infosec",
+        "javascript",
+        "technical",
+        "exec",
+        "sys admin",
+        "customer support",
+        "web dev",
+        "virtual assistant",
+        "video",
+        "api",
+        "ops",
+        "marketing",
+        "engineer",
+        "ecommerce"
+      ],
+      "postedAt": "2026-08-04T23:02:29.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+      "fingerprint": "db9c56fa54f4a92ac6edec6effab2b17be74a134"
     }
   ]
 }
