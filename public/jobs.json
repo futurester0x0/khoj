@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T13:10:46.650Z",
+  "generatedAt": "2026-11-05T13:20:41.541Z",
   "jobCount": 13,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 154,
+      "fetched": 148,
       "relevant": 32,
       "errors": []
     },
