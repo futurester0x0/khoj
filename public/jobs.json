@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T13:06:00.818Z",
-  "jobCount": 13,
+  "generatedAt": "2026-11-07T11:49:40.187Z",
+  "jobCount": 14,
   "sources": [
     {
       "id": "himalayas",
@@ -15,7 +15,7 @@
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
       "fetched": 99,
-      "relevant": 5,
+      "relevant": 6,
       "errors": []
     },
     {
@@ -28,6 +28,48 @@
     }
   ],
   "jobs": [
+    {
+      "id": "remoteok:1137690",
+      "title": "Operations Expert with Python for AI Supply Chain Task Design",
+      "company": "Toptal",
+      "location": "Anywhere in the World",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities â¢ Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. â¢ Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. â¢ Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. â¢ Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. â¢ Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common…",
+      "descriptionSnippet": "<p>Overview</p><p>A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a…",
+      "tags": [
+        "Docker",
+        "Git",
+        "Inventory Management",
+        "Supply Chain",
+        "Microsoft Excel",
+        "Python",
+        "SAP",
+        "SAP Production Planning",
+        "SQL",
+        "Supply Chain Operations"
+      ],
+      "postedAt": "2026-11-05T15:01:09.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+      "fingerprint": "9004274567a4552f0f642402d9023cf48479ebbd"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst",
       "title": "Recruiting Operations Analyst",
