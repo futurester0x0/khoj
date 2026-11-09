@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-08T12:02:44.015Z",
-  "jobCount": 17,
+  "generatedAt": "2026-11-09T14:05:49.858Z",
+  "jobCount": 16,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 152,
-      "relevant": 34,
+      "fetched": 157,
+      "relevant": 33,
       "errors": []
     },
     {
@@ -23,76 +23,44 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 2,
+      "relevant": 1,
       "errors": []
     }
   ],
   "jobs": [
     {
-      "id": "arbeitnow:remote-gtm-enablement-global-onboarding-operations-110256",
-      "title": "GTM Enablement - Global Onboarding & Operations",
-      "company": "ElevenLabs",
-      "location": "Remote",
+      "id": "arbeitnow:freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+      "title": "Freelance E-Commerce Operations & AI Manager - Right Hand to the CBO - 25 - 30h/week",
+      "company": "Time to hire",
+      "location": "Amsterdam",
       "workMode": "Remote",
-      "employmentType": "Full time",
+      "employmentType": "Contract",
       "experience": "Not specified",
       "salary": "",
-      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to…",
-      "descriptionSnippet": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI…",
+      "description": "For my client, a DTC jewelry brand I'm looking for the CBO's right hand. You will take a large share of operational and admin work off her plate, keep projects moving and use AI to make the way they work faster. What you will do 👉Operations: check stock against launches and campaigns, track our manufacturing partner (delays, open orders, quality) and keep new designs on schedule from brief to first order 👉Website & CRO: keep product pages, FAQs and prices up to date, QA before go-live, brief our developers and suggest UX and conversion improvements 👉 Marketing: coordinate with performance marketing and our newsletter agency, support influencer marketing and whitelisting, and bring ideas to our social team (creating content yourself is a plus) 👉Business: understand our product catalogue deeply – what sells and why – and help take customer service to the next level by weighing cost against value 👉Admin: run the CBO's week – agendas, notes, action items and a weekly status update 👉AI: spot recurring tasks and automate them with the best AI tools available 👉You handle follow-ups, QA, reporting and automations independently; decisions on launches, pricing and budgets stay with…",
+      "descriptionSnippet": "<p>For my client, a DTC jewelry brand I'm looking for the CBO's right hand. You will take a large share of operational and admin work off her plate, keep projects moving and use AI to make the way they work faster.<br><br>What you will…",
       "tags": [
-        "Revenue"
+        "Remote",
+        "Business Operations"
       ],
-      "postedAt": "2026-11-08T00:40:11.000Z",
+      "postedAt": "2026-11-08T22:00:39.000Z",
       "expiresAt": null,
       "source": {
         "id": "arbeitnow",
         "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-global-onboarding-operations-110256",
+        "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
         "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
       },
       "sources": [
         {
           "id": "arbeitnow",
           "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-global-onboarding-operations-110256"
+          "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895"
         }
       ],
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-global-onboarding-operations-110256",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-global-onboarding-operations-110256",
-      "fingerprint": "d364946054e126ba10c8df918649a9d461b2edad"
-    },
-    {
-      "id": "arbeitnow:remote-legal-operations-lead-195764",
-      "title": "Legal Operations Lead",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Lead",
-      "salary": "",
-      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to…",
-      "descriptionSnippet": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI…",
-      "tags": [
-        "Legal"
-      ],
-      "postedAt": "2026-11-08T00:40:11.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-legal-operations-lead-195764",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
-      },
-      "sources": [
-        {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-legal-operations-lead-195764"
-        }
-      ],
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-legal-operations-lead-195764",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-legal-operations-lead-195764",
-      "fingerprint": "3f2e2ff8102dff747e3006884a7ec3416c3e18a5"
+      "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+      "fingerprint": "6b6d6a3bf9c563ee7f57759caf977db21b21a6db"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/safetywing/jobs/ai-support-operations-specialist",
