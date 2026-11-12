@@ -1,22 +1,21 @@
 {
-  "generatedAt": "2026-11-11T12:51:21.465Z",
-  "jobCount": 14,
+  "generatedAt": "2026-11-12T13:53:39.803Z",
+  "jobCount": 15,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 133,
-      "relevant": 23,
+      "fetched": 137,
+      "relevant": 25,
       "errors": [
-        "transportation page 2: 429 Too Many Requests",
-        "freight page 1: 429 Too Many Requests",
-        "freight page 2: 429 Too Many Requests",
-        "supply chain manager page 1: 429 Too Many Requests",
-        "supply chain manager page 2: 429 Too Many Requests",
-        "supply chain analyst page 1: 429 Too Many Requests",
-        "supply chain analyst page 2: 429 Too Many Requests",
-        "procurement manager page 1: 429 Too Many Requests",
+        "inventory manager page 1: 429 Too Many Requests",
+        "inventory manager page 2: 429 Too Many Requests",
+        "warehouse manager page 1: 429 Too Many Requests",
+        "warehouse manager page 2: 429 Too Many Requests",
+        "demand planner page 1: 429 Too Many Requests",
+        "demand planner page 2: 429 Too Many Requests",
+        "vendor manager page 1: 429 Too Many Requests",
         "vendor manager page 2: 429 Too Many Requests",
         "customs page 1: 429 Too Many Requests",
         "customs page 2: 429 Too Many Requests",
@@ -25,12 +24,12 @@
         "supply chain management page 1: 429 Too Many Requests",
         "supply chain management page 2: 429 Too Many Requests",
         "logistics management page 1: 429 Too Many Requests",
-        "logistics management page 2: 429 Too Many Requests",
-        "procurement operations page 1: 429 Too Many Requests",
-        "procurement operations page 2: 429 Too Many Requests",
-        "trade compliance page 1: 429 Too Many Requests",
-        "trade compliance page 2: 429 Too Many Requests",
-        "transportation coordinator page 1: 429 Too Many Requests",
+        "supply chain director page 2: 429 Too Many Requests",
+        "head of supply chain page 1: 429 Too Many Requests",
+        "head of supply chain page 2: 429 Too Many Requests",
+        "logistics director page 1: 429 Too Many Requests",
+        "logistics director page 2: 429 Too Many Requests",
+        "procurement director page 1: 429 Too Many Requests",
         "procurement director page 2: 429 Too Many Requests",
         "warehouse director page 1: 429 Too Many Requests",
         "warehouse director page 2: 429 Too Many Requests"
@@ -40,8 +39,8 @@
       "id": "remoteok",
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
-      "fetched": 99,
-      "relevant": 5,
+      "fetched": 98,
+      "relevant": 6,
       "errors": []
     },
     {
@@ -54,6 +53,77 @@
     }
   ],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/sales-rep-logistics-4389579138",
+      "title": "Sales Rep -- Logistics",
+      "company": "Spotter Labs",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Mid",
+      "salary": "",
+      "description": "As a Sales Representative , your primary responsibility will be to recruit and onboard owner-operators to join our platform. You will be the face of Spotter, building strong relationships and demonstrating the value of our technology to prospective partners. This is an exciting opportunity for a motivated sales professional who thrives in a fast-paced environment and is passionate about the logistics industry. Key Responsibilities: Prospect & Recruit: Identify and reach out to potential owner-operators through various channels, including cold calls, email campaigns, and networking events. Build Relationships: Develop and maintain strong relationships with owner-operators, understanding their needs and demonstrating how Spotter can help improve their operations. Present Solutions: Effectively communicate the benefits of Spotter's platform to potential partners, tailoring presentations to address specific pain points. Close Deals: Convert leads into onboarded partners by guiding them through the sign-up and onboarding process. Market Research: Stay up-to-date on industry trends and competitor offerings to better position Spotter in the market. Collaboration: Work closely with the…",
+      "descriptionSnippet": "As a Sales Representative, your primary responsibility will be to recruit and onboard owner-operators to join our platform.",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-11-11T20:53:51.000Z",
+      "expiresAt": "2026-12-11T20:39:40.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/spotter-labs/jobs/sales-rep-logistics-4389579138?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/spotter-labs/jobs/sales-rep-logistics-4389579138?utm_source=api",
+      "fingerprint": "c89f27541d755280af9af79067421f14ac0f3ea7"
+    },
+    {
+      "id": "remoteok:1137717",
+      "title": "Strategy & Operations Coach APAC",
+      "company": "Mento",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Part time",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "About The Role We are looking for senior leaders in strategy & operations roles who value learning, growth, and community and who are passionate about developing and coaching people in their field. We are specifically looking for coaches who have experience in Singapore or Hong Kong serving the SEA region, or experience in market including Japan, India, South Korea, and Australia. As a Mento coach, you will form 1:1 partnerships with our members to help them identify & track clear goals, become a better leader, communicate more effectively, problem solve issues at work, and help them feel happy, fulfilled, and engaged at work and beyond. All Mento coaches, regardless of coaching experience, are required to participate in our ICF-certified coach training program to learn Mento’s coaching methodology prior to working with our members. Our coach training is an immersive, transformational training designed to help you grow as a coach, master the Mento Coaching Methodology, and gain access to proprietary tools that set our coaches apart. This program is ICF-certified, and participants who successfully graduate will earn Continuing Coach Education Units. If you’re ready to elevate your…",
+      "descriptionSnippet": "<h2>About The Role</h2><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are looking for senior leaders in strategy & operations roles who value learning, growth, and community and who are passionate about developing and…",
+      "tags": [
+        "education",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "part time"
+      ],
+      "postedAt": "2026-11-11T00:00:15.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
+      "fingerprint": "69574d5f082786752f79b3f867a4cbfc9a8e0f86"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/safetywing/jobs/ai-support-operations-specialist",
       "title": "AI Support Operations Specialist",
@@ -362,37 +432,6 @@
       "url": "https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner?utm_source=api",
       "fingerprint": "c02f9de1408da87968f6fd598ee1c2b78825255d"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking",
-      "title": "Junior Dispatcher (Remote) | USA Trucking",
-      "company": "Spotter Labs",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Entry",
-      "salary": "",
-      "description": "We’re hiring a Junior Dispatcher to support our fast-growing USA trucking operations. This is a fully remote role where you’ll coordinate shipments, communicate with drivers and brokers, and help keep operations running smoothly and on time. If you’re organized, proactive, and comfortable working in a fast-paced environment , this is a great opportunity to break into the logistics industry and grow. What You’ll Be Doing Coordinate and schedule shipments to ensure on-time delivery Communicate with drivers to provide updates, instructions, and support Work with brokers to manage loads, updates, and issue resolution Handle delays or issues by finding quick and effective solutions Maintain accurate records of shipments and dispatch activities Track performance and report on delivery progress Support customers and internal teams with clear, timely communication What We’re Looking For Strong English communication skills (written and spoken) Comfortable handling calls and coordinating with multiple stakeholders Organized and detail-oriented Able to multitask and work under pressure Proactive and solution-focused mindset Bonus (Nice to Have) Experience in logistics, dispatch, or customer…",
-      "descriptionSnippet": "We’re hiring a Junior Dispatcher to support our fast-growing USA trucking operations.",
-      "tags": [],
-      "postedAt": "2026-10-20T12:01:59.000Z",
-      "expiresAt": "2026-11-19T11:59:48.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking?utm_source=api",
-      "fingerprint": "e80a7a6508d51a047ddc0e0cdaccc0abbe765177"
     },
     {
       "id": "remoteok:1137542",
