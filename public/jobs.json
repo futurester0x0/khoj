@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-11-13T13:16:42.385Z",
-  "jobCount": 15,
+  "generatedAt": "2026-11-14T12:21:31.063Z",
+  "jobCount": 14,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 133,
-      "relevant": 22,
+      "fetched": 125,
+      "relevant": 16,
       "errors": [
-        "freight page 1: 429 Too Many Requests",
-        "inventory manager page 2: 429 Too Many Requests",
-        "warehouse manager page 1: 429 Too Many Requests",
-        "warehouse manager page 2: 429 Too Many Requests",
+        "freight page 2: 429 Too Many Requests",
+        "supply chain manager page 1: 429 Too Many Requests",
+        "supply chain manager page 2: 429 Too Many Requests",
+        "supply chain analyst page 1: 429 Too Many Requests",
+        "supply chain analyst page 2: 429 Too Many Requests",
         "demand planner page 1: 429 Too Many Requests",
         "demand planner page 2: 429 Too Many Requests",
         "vendor manager page 1: 429 Too Many Requests",
@@ -24,9 +25,9 @@
         "supply chain management page 1: 429 Too Many Requests",
         "supply chain management page 2: 429 Too Many Requests",
         "logistics management page 1: 429 Too Many Requests",
-        "supply chain director page 2: 429 Too Many Requests",
-        "head of supply chain page 1: 429 Too Many Requests",
-        "head of supply chain page 2: 429 Too Many Requests",
+        "logistics management page 2: 429 Too Many Requests",
+        "procurement operations page 1: 429 Too Many Requests",
+        "procurement operations page 2: 429 Too Many Requests",
         "logistics director page 1: 429 Too Many Requests",
         "logistics director page 2: 429 Too Many Requests",
         "procurement director page 1: 429 Too Many Requests",
@@ -39,7 +40,7 @@
       "id": "remoteok",
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
-      "fetched": 98,
+      "fetched": 97,
       "relevant": 6,
       "errors": []
     },
@@ -54,38 +55,71 @@
   ],
   "jobs": [
     {
-      "id": "arbeitnow:e-commerce-operations-manager-in-amazon-de-usa-zurich-487927",
-      "title": "E-Commerce Operations Manager/-in (Amazon DE & USA)",
-      "company": "GalleryLab GmbH",
+      "id": "himalayas:https://himalayas.app/companies/boosta/jobs/operations-lead-uplift",
+      "title": "Operations Lead | Uplift",
+      "company": "Boosta",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Lead",
+      "salary": "",
+      "description": "Hi! We are Boosta , a holding tech company that creates, develops, and invests in digital businesses with global potential. Today, we collaborate with over 800 specialists from different parts of the world, and millions of users use our products and services. We're currently looking for a Operations Lead to join Uplift , a business building a portfolio of digital products for users’ everyday needs. The team is currently in the early stages of formation: key technical roles are already in place, with the main focus now on building the marketing function for the first product. This is an opportunity to join the business at launch and build processes from the ground up. What will be your focus: Analyze the payment funnel, identify the causes of payment losses, and determine opportunities to increase revenue. Improve the approval rate of initial and recurring payments, test hypotheses, and evaluate the financial impact of implemented changes. Develop the payment infrastructure: work with current PSPs, onboard new providers, and optimize routing and cascading. Monitor key payment and compliance metrics, and work on reducing chargebacks, refunds, and fraud. Improve the product’s unit…",
+      "descriptionSnippet": "Hi! We are Boosta, a holding tech company that creates, develops, and invests in digital businesses with global potential.",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-11-14T04:50:08.000Z",
+      "expiresAt": "2027-01-13T04:50:08.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
+      "fingerprint": "6a74e6cf69a136f2634a9bebf48e6845b7e57ca8"
+    },
+    {
+      "id": "arbeitnow:customer-operations-specialist-zurich-148078",
+      "title": "Customer Operations Specialist",
+      "company": "Coopers Group AG",
       "location": "Zürich",
       "workMode": "Remote",
-      "employmentType": "Not specified",
+      "employmentType": "Contract",
       "experience": "Not specified",
       "salary": "",
-      "description": "Wir glauben: Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung. Deshalb haben wir uns vor über 5 Jahren auf die Entwicklung und den Verkauf qualitativer Bettwaren, wie Bettdecken, Kissen und Bezüge spezialisiert. Heute sind wir ein aufstrebendes E-Commerce-Unternehmen im Bereich hochwertiger Bettwaren, sind international auf Marktplätzen wie Amazon, Otto und eBay aktiv und haben dort bereits eine starke Marktposition aufgebaut. Welldora steht für durchdachte Produkte, hohe Qualitätsstandards und ein kompromissloses Kundenerlebnis . Unser Anspruch ist es nicht, einfach nur zu verkaufen, sondern echte Lösungen für besseren Schlaf zu schaffen – effizient, datengetrieben und mit einem klaren Blick auf nachhaltiges Wachstum. Dabei verbinden wir strategisches Denken mit operativer Umsetzung . Wir arbeiten pragmatisch, zielorientiert und mit echter Verantwortung für Ergebnisse. Als 100% remote Unternehmen basiert unsere Kultur auf Vertrauen, Ownership und Selbstorganisation. Wir folgen dem Prinzip „Hire for attitude, train for skill“ und bilden dich in allen relevanten Dingen aus! Wenn du Lust hast, nicht einfach nur im E-Commerce zu arbeiten, sondern unser…",
-      "descriptionSnippet": "<p><strong>Wir glauben:</strong> <em>Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung.</em></p><p>Deshalb haben wir uns <strong>vor über 5 Jahren</strong> auf die Entwicklung und den Verkauf qualitativer…",
+      "description": "................ For our client in Ticino , we are looking for an experienced and open-minded Customer Operations Specialist . In this role, you will have the opportunity to provide technical, order, and payment-related assistance/support to the internal and external customers. Each day, you will coordinate with relevant stakeholders to obtain complete case ownership. You will also showcase your expertise by improving customer satisfaction. Your Tasks: Ensuring the resolution of customer issues by coordinating with Sales, Operations, Supply Chain Management, Trade Compliance Team, Chamber of Commerce, and other internal and/or external teams Recommending appropriate solution for customer requests and coordinating with the related teams to ensure end-to-end handling of the request (e.g., production capability and scheduling, resourcing, quotes, price lists, invoice, etc.) is in place Keeping the customers proactively informed on the issue status based on the inputs received and clarifying their doubts Preparing and analyzing regular statistics (e.g., Revenue Forecasts, Requested Delivery Dates) using available tools and collecting additional relevant information and tracking…",
+      "descriptionSnippet": "<p>................</p><p>For our client in <strong>Ticino</strong>, we are looking for an experienced and open-minded <strong>Customer Operations Specialist</strong>.</p><p>In this role, you will have the opportunity to provide technical,…",
       "tags": [
         "Remote",
-        "Online Marketing"
+        "Customer Service"
       ],
-      "postedAt": "2026-11-12T15:01:30.000Z",
+      "postedAt": "2026-11-13T16:00:51.000Z",
       "expiresAt": null,
       "source": {
         "id": "arbeitnow",
         "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-de-usa-zurich-487927",
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
         "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
       },
       "sources": [
         {
           "id": "arbeitnow",
           "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-de-usa-zurich-487927"
+          "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078"
         }
       ],
-      "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-de-usa-zurich-487927",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-de-usa-zurich-487927",
-      "fingerprint": "ef571226abb268bc7e3dd6bc82b1dc185143efca"
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
+      "fingerprint": "9a1170b233457bd3288e8d391bf14552fae44e1a"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/sales-rep-logistics-4389579138",
@@ -371,39 +405,6 @@
       "fingerprint": "eb81057938b94f9629871179c3bf19b7804bafc4"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/transportation-and-warehousing-expert",
-      "title": "Transportation and Warehousing Expert",
-      "company": "micro1",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Contract",
-      "experience": "Senior",
-      "salary": "",
-      "description": "Role Title: Transportation and Warehousing Expert Role Type: Contractor Location: Remote micro1 is engaging Transportation and Warehousing Experts to contribute to a dynamic project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Scope of Work Analyze and provide detailed feedback on logistics, transportation, and warehousing scenarios to inform AI model development. Curate, review, and validate real-world data and documents relevant to supply chain, cargo management, dispatch operations, and freight movement. Develop clear written explanations of complex processes such as inventory management, distribution planning, and cargo routing. Evaluate system-generated outputs for accuracy and relevance to logistics and warehousing best practices. Create domain-specific queries, case studies, or hypothetical scenarios that test AI reasoning in transportation and storage contexts. Collaborate with project managers and technical teams via precise written and…",
-      "descriptionSnippet": "Role Title: Transportation and Warehousing Expert Role Type: ContractorLocation: Remotemicro1 is engaging Transportation and Warehousing Experts to contribute to a dynamic project for a valued customer.",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-10-24T16:53:03.000Z",
-      "expiresAt": "2026-12-23T16:53:02.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/micro1/jobs/transportation-and-warehousing-expert?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/micro1/jobs/transportation-and-warehousing-expert?utm_source=api",
-      "fingerprint": "3139a4cae5bdb8d9c90ba3fedf03b2aaa2caf823"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner",
       "title": "Senior Cargo and Parcel Claims Examiner",
       "company": "micro1",
@@ -474,39 +475,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
       "applyUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
       "fingerprint": "b3742b6859bdcab2384ec39384e2699a3e49dd1f"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/retail-trade-operations-expert",
-      "title": "Retail Trade & Operations Expert",
-      "company": "micro1",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Contract",
-      "experience": "Mid",
-      "salary": "",
-      "description": "Role Title: Retail Trade & Operations Expert Role Type: Contractor Location: Remote micro1 is engaging Retail Trade & Operations Experts to contribute their specialized knowledge to a high-impact customer project within the retail sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is open to professionals from various subdomains including Pharmacists, First-Line Supervisors of Retail Sales Workers, General and Operations Managers, and Private Detectives and Investigators who bring at least 5 years of hands-on expertise in retail operations. Scope of Work Review, analyze, and provide feedback on simulated retail scenarios and operational workflows to ensure authenticity and accuracy. Contribute insights on best practices, industry standards, and compliance requirements across retail trade subdomains. Create, evaluate, and refine written content related to retail operations, sales processes, and customer service interactions. Assess and validate the…",
-      "descriptionSnippet": "Role Title: Retail Trade & Operations Expert Role Type: ContractorLocation: Remotemicro1 is engaging Retail Trade & Operations Experts to contribute their specialized knowledge to a high-impact customer project within the retail sector.",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-10-14T20:02:59.000Z",
-      "expiresAt": "2026-12-13T20:02:58.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/micro1/jobs/retail-trade-operations-expert?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/micro1/jobs/retail-trade-operations-expert?utm_source=api",
-      "fingerprint": "5e91e3b140a432a22edb8b3d625705204ca773d1"
     },
     {
       "id": "remoteok:1137155",
