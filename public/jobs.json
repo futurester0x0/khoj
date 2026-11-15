@@ -1,33 +1,36 @@
 {
-  "generatedAt": "2026-11-14T12:21:31.063Z",
-  "jobCount": 14,
+  "generatedAt": "2026-11-15T12:53:00.479Z",
+  "jobCount": 13,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 125,
-      "relevant": 16,
+      "fetched": 104,
+      "relevant": 15,
       "errors": [
-        "freight page 2: 429 Too Many Requests",
-        "supply chain manager page 1: 429 Too Many Requests",
-        "supply chain manager page 2: 429 Too Many Requests",
-        "supply chain analyst page 1: 429 Too Many Requests",
-        "supply chain analyst page 2: 429 Too Many Requests",
+        "logistics coordinator page 1: 429 Too Many Requests",
+        "logistics coordinator page 2: 429 Too Many Requests",
+        "operations manager page 1: 429 Too Many Requests",
+        "operations manager page 2: 429 Too Many Requests",
+        "inventory manager page 1: 429 Too Many Requests",
+        "inventory manager page 2: 429 Too Many Requests",
+        "warehouse manager page 1: 429 Too Many Requests",
+        "warehouse manager page 2: 429 Too Many Requests",
         "demand planner page 1: 429 Too Many Requests",
         "demand planner page 2: 429 Too Many Requests",
         "vendor manager page 1: 429 Too Many Requests",
         "vendor manager page 2: 429 Too Many Requests",
         "customs page 1: 429 Too Many Requests",
         "customs page 2: 429 Too Many Requests",
-        "ecommerce operations page 1: 429 Too Many Requests",
-        "ecommerce operations page 2: 429 Too Many Requests",
-        "supply chain management page 1: 429 Too Many Requests",
-        "supply chain management page 2: 429 Too Many Requests",
-        "logistics management page 1: 429 Too Many Requests",
-        "logistics management page 2: 429 Too Many Requests",
-        "procurement operations page 1: 429 Too Many Requests",
-        "procurement operations page 2: 429 Too Many Requests",
+        "logistics specialist page 1: 429 Too Many Requests",
+        "logistics specialist page 2: 429 Too Many Requests",
+        "strategic sourcing page 1: 429 Too Many Requests",
+        "strategic sourcing page 2: 429 Too Many Requests",
+        "supply chain director page 1: 429 Too Many Requests",
+        "supply chain director page 2: 429 Too Many Requests",
+        "head of supply chain page 1: 429 Too Many Requests",
+        "head of supply chain page 2: 429 Too Many Requests",
         "logistics director page 1: 429 Too Many Requests",
         "logistics director page 2: 429 Too Many Requests",
         "procurement director page 1: 429 Too Many Requests",
@@ -49,7 +52,7 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 1,
+      "relevant": 0,
       "errors": []
     }
   ],
@@ -86,40 +89,6 @@
       "url": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
       "fingerprint": "6a74e6cf69a136f2634a9bebf48e6845b7e57ca8"
-    },
-    {
-      "id": "arbeitnow:customer-operations-specialist-zurich-148078",
-      "title": "Customer Operations Specialist",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "workMode": "Remote",
-      "employmentType": "Contract",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "................ For our client in Ticino , we are looking for an experienced and open-minded Customer Operations Specialist . In this role, you will have the opportunity to provide technical, order, and payment-related assistance/support to the internal and external customers. Each day, you will coordinate with relevant stakeholders to obtain complete case ownership. You will also showcase your expertise by improving customer satisfaction. Your Tasks: Ensuring the resolution of customer issues by coordinating with Sales, Operations, Supply Chain Management, Trade Compliance Team, Chamber of Commerce, and other internal and/or external teams Recommending appropriate solution for customer requests and coordinating with the related teams to ensure end-to-end handling of the request (e.g., production capability and scheduling, resourcing, quotes, price lists, invoice, etc.) is in place Keeping the customers proactively informed on the issue status based on the inputs received and clarifying their doubts Preparing and analyzing regular statistics (e.g., Revenue Forecasts, Requested Delivery Dates) using available tools and collecting additional relevant information and tracking…",
-      "descriptionSnippet": "<p>................</p><p>For our client in <strong>Ticino</strong>, we are looking for an experienced and open-minded <strong>Customer Operations Specialist</strong>.</p><p>In this role, you will have the opportunity to provide technical,…",
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "postedAt": "2026-11-13T16:00:51.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
-      },
-      "sources": [
-        {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078"
-        }
-      ],
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
-      "fingerprint": "9a1170b233457bd3288e8d391bf14552fae44e1a"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/sales-rep-logistics-4389579138",
