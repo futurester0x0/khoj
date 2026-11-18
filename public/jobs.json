@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-11-17T14:42:35.000Z",
-  "jobCount": 13,
+  "generatedAt": "2026-11-18T14:20:39.109Z",
+  "jobCount": 12,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 122,
-      "relevant": 16,
+      "fetched": 117,
+      "relevant": 11,
       "errors": [
+        "freight page 1: 429 Too Many Requests",
+        "freight page 2: 429 Too Many Requests",
+        "supply chain manager page 1: 429 Too Many Requests",
         "supply chain manager page 2: 429 Too Many Requests",
-        "demand planner page 1: 429 Too Many Requests",
+        "supply chain analyst page 1: 429 Too Many Requests",
         "demand planner page 2: 429 Too Many Requests",
         "vendor manager page 1: 429 Too Many Requests",
         "vendor manager page 2: 429 Too Many Requests",
@@ -50,6 +53,37 @@
     }
   ],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent",
+      "title": "Experienced Freight Agent",
+      "company": "VAme Ltd",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Mid",
+      "salary": "",
+      "description": "US-Based Applicants Only | 100% Remote About the Role Our logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of business or active shipper relationships. This is strictly for experienced transportation sales professionals who can bring existing customer relationships and generate freight revenue. This is not an entry-level position. If you have a proven track record in freight brokerage, know how to develop shipper accounts, negotiate rates, and manage freight opportunities, this is an opportunity to grow your business with strong operational and back-office support. What the Client Provides Access to DAT, Truckstop, Carrier411, Highway, TMS, Apollo, and carrier resources Full back-office support for billing, A/P, A/R, collections, claims, and paperwork Carrier onboarding and compliance assistance Quick Pay and fuel advance options Customer setup, credit support, and invoicing assistance Real-time visibility into loads, carrier costs, margins, and commission payouts 100% remote work with a flexible schedule Marketing and prospecting support when needed…",
+      "descriptionSnippet": "US-Based Applicants Only | 100% Remote About the RoleOur logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of…",
+      "tags": [],
+      "postedAt": "2026-11-18T05:48:52.000Z",
+      "expiresAt": "2026-12-03T05:46:20.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent?utm_source=api",
+      "fingerprint": "631ae31ee82c72e8d2353bc1e2d8777c2f1cd069"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/boosta/jobs/operations-lead-uplift",
       "title": "Operations Lead | Uplift",
@@ -228,37 +262,6 @@
       "fingerprint": "5c58aec8476e878ddd77c8133a915ded22c40179"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent",
-      "title": "Experienced Freight Agent",
-      "company": "VAme Ltd",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Mid",
-      "salary": "",
-      "description": "US-Based Applicants Only | 100% Remote About the Role Our logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of business or active shipper relationships. This is strictly for experienced transportation sales professionals who can bring existing customer relationships and generate freight revenue. This is not an entry-level position. If you have a proven track record in freight brokerage, know how to develop shipper accounts, negotiate rates, and manage freight opportunities, this is an opportunity to grow your business with strong operational and back-office support. What the Client Provides Access to DAT, Truckstop, Carrier411, Highway, TMS, Apollo, and carrier resources Full back-office support for billing, A/P, A/R, collections, claims, and paperwork Carrier onboarding and compliance assistance Quick Pay and fuel advance options Customer setup, credit support, and invoicing assistance Real-time visibility into loads, carrier costs, margins, and commission payouts 100% remote work with a flexible schedule Marketing and prospecting support when needed…",
-      "descriptionSnippet": "US-Based Applicants Only | 100% Remote About the RoleOur logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of…",
-      "tags": [],
-      "postedAt": "2026-11-04T04:32:27.000Z",
-      "expiresAt": "2026-12-03T05:46:20.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent?utm_source=api",
-      "fingerprint": "631ae31ee82c72e8d2353bc1e2d8777c2f1cd069"
-    },
-    {
       "id": "remoteok:1137609",
       "title": "Partner Operations Manager",
       "company": "Mecka",
@@ -332,39 +335,6 @@
       "url": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor?utm_source=api",
       "fingerprint": "c6b59b796fe9dcc02e97d9ea17765c77b63e8d19"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/procurement-vendor-management-expert",
-      "title": "Procurement & Vendor Management Expert",
-      "company": "micro1",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Contract",
-      "experience": "Senior",
-      "salary": "",
-      "description": "Role Title: Procurement & Vendor Management Expert Role Type: Contractor Location: Remote Opportunity Snapshot Pay: Up to $90/hour equivalent. Time per task: ~10 hours per task Location: Fully remote — no geographic restrictions. Strong English required (B2 minimum, C1 preferred) Next step: Complete the role-specific AI interview — it’s how your expertise gets in front of the client Your tasks: Design realistic, multi-step procurement and vendor management tasks with objective criteria for grading the output micro1 is engaging experienced procurement and vendor management practitioners to design the tasks that measure what AI systems can actually do. Your domain knowledge is what matters here — no prior AI experience required. The work is to turn real procurement workflows into benchmark tasks: realistic, difficult, and gradable against objective criteria. If you’ve built a supplier scorecard, run a weighted bid evaluation, or written a vendor risk framework, that’s exactly the instinct this needs. Scope of Work Design multi-step tasks drawn from real procurement work — supplier assessment, bid comparison, vendor risk analysis, contract review — with realistic reference files and…",
-      "descriptionSnippet": "Role Title: Procurement & Vendor Management Expert Role Type: ContractorLocation: RemoteOpportunity SnapshotPay: Up to $90/hour equivalent.",
-      "tags": [
-        "Logistics"
-      ],
-      "postedAt": "2026-10-24T20:47:28.000Z",
-      "expiresAt": "2026-12-23T20:47:26.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/micro1/jobs/procurement-vendor-management-expert?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/micro1/jobs/procurement-vendor-management-expert?utm_source=api",
-      "fingerprint": "eb81057938b94f9629871179c3bf19b7804bafc4"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner",
