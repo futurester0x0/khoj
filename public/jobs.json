@@ -1,31 +1,35 @@
 {
-  "generatedAt": "2026-11-18T14:20:39.109Z",
-  "jobCount": 12,
+  "generatedAt": "2026-11-19T14:33:57.479Z",
+  "jobCount": 14,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 117,
-      "relevant": 11,
+      "fetched": 132,
+      "relevant": 12,
       "errors": [
-        "freight page 1: 429 Too Many Requests",
-        "freight page 2: 429 Too Many Requests",
-        "supply chain manager page 1: 429 Too Many Requests",
-        "supply chain manager page 2: 429 Too Many Requests",
-        "supply chain analyst page 1: 429 Too Many Requests",
+        "sourcing specialist page 2: 429 Too Many Requests",
+        "logistics manager page 1: 429 Too Many Requests",
+        "logistics manager page 2: 429 Too Many Requests",
+        "logistics coordinator page 2: 429 Too Many Requests",
+        "inventory manager page 1: 429 Too Many Requests",
+        "inventory manager page 2: 429 Too Many Requests",
+        "warehouse manager page 1: 429 Too Many Requests",
+        "warehouse manager page 2: 429 Too Many Requests",
+        "demand planner page 1: 429 Too Many Requests",
         "demand planner page 2: 429 Too Many Requests",
         "vendor manager page 1: 429 Too Many Requests",
         "vendor manager page 2: 429 Too Many Requests",
         "customs page 1: 429 Too Many Requests",
         "customs page 2: 429 Too Many Requests",
-        "ecommerce operations page 1: 429 Too Many Requests",
-        "ecommerce operations page 2: 429 Too Many Requests",
-        "supply chain management page 1: 429 Too Many Requests",
-        "supply chain management page 2: 429 Too Many Requests",
-        "logistics management page 1: 429 Too Many Requests",
-        "logistics management page 2: 429 Too Many Requests",
-        "procurement operations page 1: 429 Too Many Requests",
+        "logistics specialist page 1: 429 Too Many Requests",
+        "logistics specialist page 2: 429 Too Many Requests",
+        "strategic sourcing page 1: 429 Too Many Requests",
+        "strategic sourcing page 2: 429 Too Many Requests",
+        "supply chain director page 1: 429 Too Many Requests",
+        "supply chain director page 2: 429 Too Many Requests",
+        "head of supply chain page 1: 429 Too Many Requests",
         "head of supply chain page 2: 429 Too Many Requests",
         "logistics director page 1: 429 Too Many Requests",
         "logistics director page 2: 429 Too Many Requests",
@@ -48,11 +52,79 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 0,
+      "relevant": 2,
       "errors": []
     }
   ],
   "jobs": [
+    {
+      "id": "arbeitnow:senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
+      "title": "(Senior) Operations Manager in Remote E-Commerce Agentur (m/w/d) · Remote",
+      "company": "Evolve Digital GmbH",
+      "location": "Homeoffice",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Senior",
+      "salary": "",
+      "description": "Das ist dein Job bei uns Du möchtest die operativen Systeme einer wachsenden Agentur verantworten und Prozesse bauen, die auch ohne dich funktionieren? Operations ist bei EVOLVE der Hebel, der das ganze Team schneller macht. Deine Aufgabe ist es, dafür zu sorgen, dass Ziele, Prozesse und Automationen im Alltag perfekt ineinandergreifen. Wie dein Arbeitsalltag aussehen kann: Im wöchentlichen Check-in fällt dir auf, dass drei Quartalsprojekte seit zwei Wochen stillstehen. Du fragst nicht nach dem Status, sondern schaust dir den Prozess dahinter an. Gemeinsam mit dem Teamlead gehst du den Ablauf durch: Die Zahlen liegen verteilt an 3 unterschiedlichen Orten und müssten jeden Montag von Hand zusammengetragen werden. Kein Wunder, dass es nicht passiert. Du baust den Ablauf neu. Es entsteht ein Workflow mit klaren Verantwortlichen und Fristen, die Zahlen laufen automatisiert in ein Dashboard. Umgesetzt mit unserem Prozess-Team. Im Reporting an die Geschäftsführung liegt der Zielfortschritt jetzt jede Woche auf dem Tisch. Einen Tag später nimmst du dir schon den nächsten Bottleneck vor. Nicht weil sich jemand beschwert, sondern weil dir ineffiziente Abläufe von selbst auffallen. Genau…",
+      "descriptionSnippet": "<figure><img style=\"width:920px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/yde53saa19/05-07_-_Company_-_Evolve_GmbH-9496.jpg\"></figure><p style=\"min-height: 1.7em;\"></p><h4><strong><span style=\"color:#11253E\">Das…",
+      "tags": [
+        "Operations",
+        "Remote"
+      ],
+      "postedAt": "2026-11-19T09:31:18.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655"
+        }
+      ],
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
+      "fingerprint": "13740021e33daec500f5e460b586175a07727fb0"
+    },
+    {
+      "id": "arbeitnow:ai-operations-monitor-digital-operations-incident-response-zurich-253036",
+      "title": "AI Operations Monitor – Digital Operations & Incident Response",
+      "company": "Lightly AG",
+      "location": "Zürich",
+      "workMode": "Remote",
+      "employmentType": "Contract",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "Lightly AG is a Zurich-based AI company and ETH/HSG spin-off, backed by Y Combinator and top-tier investors. Our machine learning and computer vision technology is trusted by global leaders in autonomous driving, medical imaging, and visual inspection. We’re looking for reliable, technically minded freelancers to support an AI operations project involving the monitoring of autonomous digital workflows. You'll oversee day-to-day activity, respond to alerts, troubleshoot issues, and intervene when human oversight or approval is required. This is a remote, four-week freelance contractor opportunity with scheduled shifts across time zones, including nights and weekends. Tasks What you'll be doing Monitor autonomous digital workflows and operational activity through a web-based interface, identifying errors, unusual behavior, and situations requiring human intervention Remain available and responsive throughout scheduled shifts , acknowledging urgent alerts in Slack within 10 minutes Handle routine operational requests and troubleshoot issues using established procedures and escalation guidelines Review and approve or deny certain actions within predefined limits , escalating sensitive…",
+      "descriptionSnippet": "<p>Lightly AG is a Zurich-based AI company and ETH/HSG spin-off, backed by Y Combinator and top-tier investors. Our machine learning and computer vision technology is trusted by global leaders in autonomous driving, medical imaging, and…",
+      "tags": [
+        "Remote",
+        "Applications Administration"
+      ],
+      "postedAt": "2026-11-18T15:01:29.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036"
+        }
+      ],
+      "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
+      "fingerprint": "f5257982c5895cd5d19c46dfd3419c962503314f"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent",
       "title": "Experienced Freight Agent",
@@ -63,7 +135,7 @@
       "experience": "Mid",
       "salary": "",
       "description": "US-Based Applicants Only | 100% Remote About the Role Our logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of business or active shipper relationships. This is strictly for experienced transportation sales professionals who can bring existing customer relationships and generate freight revenue. This is not an entry-level position. If you have a proven track record in freight brokerage, know how to develop shipper accounts, negotiate rates, and manage freight opportunities, this is an opportunity to grow your business with strong operational and back-office support. What the Client Provides Access to DAT, Truckstop, Carrier411, Highway, TMS, Apollo, and carrier resources Full back-office support for billing, A/P, A/R, collections, claims, and paperwork Carrier onboarding and compliance assistance Quick Pay and fuel advance options Customer setup, credit support, and invoicing assistance Real-time visibility into loads, carrier costs, margins, and commission payouts 100% remote work with a flexible schedule Marketing and prospecting support when needed…",
-      "descriptionSnippet": "US-Based Applicants Only | 100% Remote About the RoleOur logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of…",
+      "descriptionSnippet": "US-Based Applicants Only | 100% Remote About the Role Our logistics client is looking for experienced Freight Agents, Freight Brokers, and Logistics Sales Executives based in the United States who already have an established book of…",
       "tags": [],
       "postedAt": "2026-11-18T05:48:52.000Z",
       "expiresAt": "2026-12-03T05:46:20.000Z",
@@ -315,7 +387,7 @@
       "experience": "Senior",
       "salary": "",
       "description": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: Contractor Location: Global-Remote Job Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging Senior Cargo Condition and Securing Surveyors to contribute expert analysis and insight to a customer's logistics-focused project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Scope of Work Evaluate refrigerated and temperature-controlled cargo documentation, such as reefer temperature logs and condition records, to assess compliance and identify potential issues. Analyze finished-vehicle and food transport evidence, including damage reports and compliance documents, to determine condition, causation, and potential losses. Perform remote assessments of container integrity, cargo securing methods, and lashing arrangements using photographic and written shipment records. Review hatch-cover inspection reports and related…",
-      "descriptionSnippet": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: ContractorLocation: Global-RemoteJob Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1…",
+      "descriptionSnippet": "Role Title: Senior Cargo Condition and Securing Surveyor Role Type: Contractor Location: Global-Remote Job Type: Contractor (~10 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired…",
       "tags": [],
       "postedAt": "2026-10-30T10:00:11.000Z",
       "expiresAt": "2026-12-28T10:24:24.000Z",
@@ -346,7 +418,7 @@
       "experience": "Senior",
       "salary": "",
       "description": "Role Title: Senior Cargo and Parcel Claims Examiner Role Type: Contractor Location: Remote micro1 is engaging Senior Cargo and Parcel Claims Examiners to contribute their expertise to a specialized customer project focused on air cargo and parcel delivery claims analysis. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This is a unique opportunity for experienced air cargo and parcel claims professionals to review and analyze real shipment evidence from anywhere. Typical assignments include examining origin and destination cargo photos, scrutinizing air waybills, and assessing delivery photo disputes. Your responsibilities will also involve drafting clear, well-reasoned custody and liability determinations. Professionals with backgrounds in airline, ground handling, and parcel carrier claims are particularly encouraged to participate. All activities are fully remote, offering maximum flexibility. Scope of Work Review and analyze documentation related to cargo and parcel…",
-      "descriptionSnippet": "Role Title: Senior Cargo and Parcel Claims Examiner Role Type: ContractorLocation: Remotemicro1 is engaging Senior Cargo and Parcel Claims Examiners to contribute their expertise to a specialized customer project focused on air cargo and…",
+      "descriptionSnippet": "Role Title: Senior Cargo and Parcel Claims Examiner Role Type: Contractor Location: Remote micro1 is engaging Senior Cargo and Parcel Claims Examiners to contribute their expertise to a specialized customer project focused on air cargo and…",
       "tags": [],
       "postedAt": "2026-10-23T22:52:57.000Z",
       "expiresAt": "2026-12-22T22:52:56.000Z",
