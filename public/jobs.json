@@ -1,50 +1,44 @@
 {
-  "generatedAt": "2026-11-19T14:33:57.479Z",
+  "generatedAt": "2026-11-20T14:12:10.260Z",
   "jobCount": 14,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 132,
+      "fetched": 129,
       "relevant": 12,
       "errors": [
-        "sourcing specialist page 2: 429 Too Many Requests",
-        "logistics manager page 1: 429 Too Many Requests",
-        "logistics manager page 2: 429 Too Many Requests",
-        "logistics coordinator page 2: 429 Too Many Requests",
-        "inventory manager page 1: 429 Too Many Requests",
-        "inventory manager page 2: 429 Too Many Requests",
-        "warehouse manager page 1: 429 Too Many Requests",
-        "warehouse manager page 2: 429 Too Many Requests",
-        "demand planner page 1: 429 Too Many Requests",
-        "demand planner page 2: 429 Too Many Requests",
-        "vendor manager page 1: 429 Too Many Requests",
-        "vendor manager page 2: 429 Too Many Requests",
-        "customs page 1: 429 Too Many Requests",
-        "customs page 2: 429 Too Many Requests",
-        "logistics specialist page 1: 429 Too Many Requests",
-        "logistics specialist page 2: 429 Too Many Requests",
-        "strategic sourcing page 1: 429 Too Many Requests",
-        "strategic sourcing page 2: 429 Too Many Requests",
-        "supply chain director page 1: 429 Too Many Requests",
-        "supply chain director page 2: 429 Too Many Requests",
-        "head of supply chain page 1: 429 Too Many Requests",
-        "head of supply chain page 2: 429 Too Many Requests",
-        "logistics director page 1: 429 Too Many Requests",
-        "logistics director page 2: 429 Too Many Requests",
-        "procurement director page 1: 429 Too Many Requests",
-        "procurement director page 2: 429 Too Many Requests",
-        "warehouse director page 1: 429 Too Many Requests",
-        "warehouse director page 2: 429 Too Many Requests"
+        "supply chain manager page 2: 429 Too Many Requests",
+        "supply chain analyst page 1: 429 Too Many Requests",
+        "supply chain analyst page 2: 429 Too Many Requests",
+        "procurement manager page 1: 429 Too Many Requests",
+        "procurement manager page 2: 429 Too Many Requests",
+        "procurement specialist page 1: 429 Too Many Requests",
+        "procurement specialist page 2: 429 Too Many Requests",
+        "purchasing manager page 1: 429 Too Many Requests",
+        "purchasing manager page 2: 429 Too Many Requests",
+        "supply chain management page 1: 429 Too Many Requests",
+        "supply chain management page 2: 429 Too Many Requests",
+        "logistics management page 1: 429 Too Many Requests",
+        "logistics management page 2: 429 Too Many Requests",
+        "procurement operations page 1: 429 Too Many Requests",
+        "procurement operations page 2: 429 Too Many Requests",
+        "trade compliance page 1: 429 Too Many Requests",
+        "trade compliance page 2: 429 Too Many Requests",
+        "transportation coordinator page 1: 429 Too Many Requests",
+        "transportation coordinator page 2: 429 Too Many Requests",
+        "vendor management page 1: 429 Too Many Requests",
+        "vendor management page 2: 429 Too Many Requests",
+        "order management page 1: 429 Too Many Requests"
       ]
     },
     {
       "id": "remoteok",
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
-      "fetched": 97,
-      "relevant": 6,
+      "fetched": 98,
+      "relevant": 4,
       "errors": []
     },
     {
@@ -52,78 +46,184 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 2,
+      "relevant": 4,
       "errors": []
     }
   ],
   "jobs": [
     {
-      "id": "arbeitnow:senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
-      "title": "(Senior) Operations Manager in Remote E-Commerce Agentur (m/w/d) · Remote",
-      "company": "Evolve Digital GmbH",
-      "location": "Homeoffice",
+      "id": "arbeitnow:head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852",
+      "title": "Head of Operations (m/w/d) · 11 Gameshow-Filialen · Remote mit Reisen",
+      "company": "Gamer Tech Deutschland GmbH",
+      "location": "Berlin",
       "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Senior",
+      "employmentType": "Not specified",
+      "experience": "Lead",
       "salary": "",
-      "description": "Das ist dein Job bei uns Du möchtest die operativen Systeme einer wachsenden Agentur verantworten und Prozesse bauen, die auch ohne dich funktionieren? Operations ist bei EVOLVE der Hebel, der das ganze Team schneller macht. Deine Aufgabe ist es, dafür zu sorgen, dass Ziele, Prozesse und Automationen im Alltag perfekt ineinandergreifen. Wie dein Arbeitsalltag aussehen kann: Im wöchentlichen Check-in fällt dir auf, dass drei Quartalsprojekte seit zwei Wochen stillstehen. Du fragst nicht nach dem Status, sondern schaust dir den Prozess dahinter an. Gemeinsam mit dem Teamlead gehst du den Ablauf durch: Die Zahlen liegen verteilt an 3 unterschiedlichen Orten und müssten jeden Montag von Hand zusammengetragen werden. Kein Wunder, dass es nicht passiert. Du baust den Ablauf neu. Es entsteht ein Workflow mit klaren Verantwortlichen und Fristen, die Zahlen laufen automatisiert in ein Dashboard. Umgesetzt mit unserem Prozess-Team. Im Reporting an die Geschäftsführung liegt der Zielfortschritt jetzt jede Woche auf dem Tisch. Einen Tag später nimmst du dir schon den nächsten Bottleneck vor. Nicht weil sich jemand beschwert, sondern weil dir ineffiziente Abläufe von selbst auffallen. Genau…",
-      "descriptionSnippet": "<figure><img style=\"width:920px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/yde53saa19/05-07_-_Company_-_Evolve_GmbH-9496.jpg\"></figure><p style=\"min-height: 1.7em;\"></p><h4><strong><span style=\"color:#11253E\">Das…",
+      "description": "Vollzeit · Festanstellung · Start sofort · Firmenwagen · Berichtet an den Gründer Du führst 80+ Werkstudenten in 11 Filialen in ganz Deutschland. Filialleiter gibt es nicht. Du arbeitest von zu Hause, bist jede Woche in einer Filiale und greifst, wenn nötig, auch am Wochenende ein. Gamer - Die Gameshow Bei uns wird ein Ausflug mit Freunden oder Kollegen zur Gameshow. Aus über 20.000 Google Bewertungen haben wir 4,9 Sterne. 2027 wachsen wir weiter stark mit vielen neuen Filialen. Spiele, Technik und Software sind unsere Stärke. Der Betrieb unserer Filialen ist es bisher nicht. Trotz guter Bewertungen zeigt das Feedback unserer Gäste, dass es vor Ort zu oft hakt, z. B. bei der Sauberkeit und beim Wohlfühlen. Uns fehlt die Erfahrung, Strukturen und Abläufe so aufzubauen, dass sie auch funktionieren, wenn niemand von uns da ist. Diese Erfahrung bringst du mit. Deine Aufgabe Der Betrieb unserer 11 eigenen Filialen liegt bei dir: Teams, Abläufe und alles, was nötig ist, um Gäste vor Ort glücklich zu machen. Du führst die mehr als 80 Werkstudenten: von der Auswahl über das Training bis zum Abschied. Du baust die Strukturen auf, die heute fehlen. Welche das sind, findest du selbst heraus.…",
+      "descriptionSnippet": "<p>Vollzeit · Festanstellung · Start sofort · Firmenwagen · Berichtet an den Gründer</p><p>Du führst 80+ Werkstudenten in 11 Filialen in ganz Deutschland. Filialleiter gibt es nicht. Du arbeitest von zu Hause, bist jede Woche in einer…",
       "tags": [
-        "Operations",
-        "Remote"
+        "Remote",
+        "Directors",
+        "Chief Executives"
       ],
-      "postedAt": "2026-11-19T09:31:18.000Z",
+      "postedAt": "2026-11-20T11:30:50.000Z",
       "expiresAt": null,
       "source": {
         "id": "arbeitnow",
         "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
+        "url": "https://www.arbeitnow.com/jobs/companies/gamer-tech-deutschland-gmbh/head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852",
         "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
       },
       "sources": [
         {
           "id": "arbeitnow",
           "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655"
+          "url": "https://www.arbeitnow.com/jobs/companies/gamer-tech-deutschland-gmbh/head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852"
         }
       ],
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
-      "fingerprint": "13740021e33daec500f5e460b586175a07727fb0"
+      "url": "https://www.arbeitnow.com/jobs/companies/gamer-tech-deutschland-gmbh/head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/gamer-tech-deutschland-gmbh/head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852",
+      "fingerprint": "8aeb97c27bc1f4d09d30aabe668228cebbcd6ef3"
     },
     {
-      "id": "arbeitnow:ai-operations-monitor-digital-operations-incident-response-zurich-253036",
-      "title": "AI Operations Monitor – Digital Operations & Incident Response",
-      "company": "Lightly AG",
-      "location": "Zürich",
+      "id": "arbeitnow:sachbearbeiterin-operations-backoffice-support-basel-314974",
+      "title": "Sachbearbeiter:in Operations / Backoffice Support",
+      "company": "Coopers Group AG",
+      "location": "Basel",
       "workMode": "Remote",
       "employmentType": "Contract",
       "experience": "Not specified",
       "salary": "",
-      "description": "Lightly AG is a Zurich-based AI company and ETH/HSG spin-off, backed by Y Combinator and top-tier investors. Our machine learning and computer vision technology is trusted by global leaders in autonomous driving, medical imaging, and visual inspection. We’re looking for reliable, technically minded freelancers to support an AI operations project involving the monitoring of autonomous digital workflows. You'll oversee day-to-day activity, respond to alerts, troubleshoot issues, and intervene when human oversight or approval is required. This is a remote, four-week freelance contractor opportunity with scheduled shifts across time zones, including nights and weekends. Tasks What you'll be doing Monitor autonomous digital workflows and operational activity through a web-based interface, identifying errors, unusual behavior, and situations requiring human intervention Remain available and responsive throughout scheduled shifts , acknowledging urgent alerts in Slack within 10 minutes Handle routine operational requests and troubleshoot issues using established procedures and escalation guidelines Review and approve or deny certain actions within predefined limits , escalating sensitive…",
-      "descriptionSnippet": "<p>Lightly AG is a Zurich-based AI company and ETH/HSG spin-off, backed by Y Combinator and top-tier investors. Our machine learning and computer vision technology is trusted by global leaders in autonomous driving, medical imaging, and…",
+      "description": "................ Für unseren Kunden in Basel suchen wir zur Unterstützung einer Taskforce im Bereich Partner Operations mehrere Sachbearbeiter:innen Backoffice für den kurzfristigen Abbau von Rückständen in der Mandatsverarbeitung. Deine Aufgaben: Prüfung, Erfassung, Mutation und Auflösung von Broker-Mandaten Bearbeitung von Mandatswechseln und Mandatskündigungen Zuordnung von Broker-Mandaten zu Generalagenturen Sicherstellung der korrekten Zuordnung von Kundenbeständen und Betreuungsverhältnissen Erfassung, Mutation und Pflege von Kunden- und Brokerdaten Anpassung von Personen-, Adress- und Kontaktdaten Bearbeitung von Versandanweisungen Prüfung und Aktualisierung von Zuständigkeiten und Betreuungsstrukturen Erfassung und Dokumentation von Geschäftsvorfällen in den relevanten Systemen Prüfung eingehender Dokumente auf Vollständigkeit und Plausibilität Bearbeitung standardisierter Geschäftsfälle gemäss bestehenden Arbeitsanweisungen Nachbearbeitung automatisiert verarbeiteter Geschäftsfälle Bearbeitung von Fehlerfällen und Rückläufern aus automatisierten Prozessen Unterstützung beim Abbau bestehender Verarbeitungsrückstände Sicherstellung einer vollständigen und nachvollziehbaren…",
+      "descriptionSnippet": "<p>................</p>Für unseren Kunden in <strong>Basel</strong> suchen wir zur Unterstützung einer Taskforce im Bereich Partner Operations mehrere <strong>Sachbearbeiter:innen Backoffice</strong> für den kurzfristigen Abbau von…",
       "tags": [
         "Remote",
-        "Applications Administration"
+        "Finance"
       ],
-      "postedAt": "2026-11-18T15:01:29.000Z",
+      "postedAt": "2026-11-20T09:30:54.000Z",
       "expiresAt": null,
       "source": {
         "id": "arbeitnow",
         "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
         "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
       },
       "sources": [
         {
           "id": "arbeitnow",
           "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036"
+          "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974"
         }
       ],
-      "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
-      "fingerprint": "f5257982c5895cd5d19c46dfd3419c962503314f"
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
+      "fingerprint": "4ee32b2388c5036d1719f14aca1b570cdbc0edfb"
+    },
+    {
+      "id": "arbeitnow:remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
+      "title": "Senior Account Manager - Warehouse Automation - BENELUX",
+      "company": "Exotec",
+      "location": "Netherlands",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Senior",
+      "salary": "",
+      "description": "At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition to automation. We’re proud to design technology that doesn’t just redefine intralogistics; it also makes warehouses safer, faster, more efficient, and less physically demanding for the people working inside them. Why this role matters Ready to move the world of intralogistics with tech? Join us as a Service Account Manager. What You'll Do We are looking for individuals who put customers first, take ownership of their work, execute with rigor, and simplify complex challenges. Successful team members demonstrate a continuous improvement mindset, collaborate effectively across functions, and contribute to collective success. At Exotec, we value people who are proactive, transparent, respectful, adaptable, and committed to delivering excellence while building long-term trust with both customers and colleagues. Own the strategic relationship with a portfolio of customers, serving as their primary point of contact for service performance, escalations, and…",
+      "descriptionSnippet": "<p>At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition…",
+      "tags": [
+        "Engineering",
+        "Logistics and Supply Chain",
+        "Maintenance",
+        "Remote"
+      ],
+      "postedAt": "2026-11-20T04:20:15.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998"
+        }
+      ],
+      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
+      "fingerprint": "e897f101d7febe06b3c8e7016375a517b12a1378"
+    },
+    {
+      "id": "arbeitnow:remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
+      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
+      "company": "Exotec",
+      "location": "Netherlands",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Senior",
+      "salary": "",
+      "description": "At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition to automation. We’re proud to design technology that doesn’t just redefine intralogistics; it also makes warehouses safer, faster, more efficient, and less physically demanding for the people working inside them. Why this role matters Ready to move the world of intralogistics with tech? Join us as a Service Account Manager. What You'll Do We are looking for individuals who put customers first, take ownership of their work, execute with rigor, and simplify complex challenges. Successful team members demonstrate a continuous improvement mindset, collaborate effectively across functions, and contribute to collective success. At Exotec, we value people who are proactive, transparent, respectful, adaptable, and committed to delivering excellence while building long-term trust with both customers and colleagues. Own the strategic relationship with a portfolio of customers, serving as their primary point of contact for service performance, escalations, and…",
+      "descriptionSnippet": "<p>At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition…",
+      "tags": [
+        "Engineering",
+        "Logistics and Supply Chain",
+        "Maintenance",
+        "Remote"
+      ],
+      "postedAt": "2026-11-20T04:20:15.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427"
+        }
+      ],
+      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
+      "fingerprint": "25a8b0d1c9374b50be146e3ba5c9d7e85e8eb868"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/boosta/jobs/operations-lead-uplift",
+      "title": "Operations Lead | Uplift",
+      "company": "Boosta",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Lead",
+      "salary": "",
+      "description": "Hi! We are Boosta , a holding tech company that creates, develops, and invests in digital businesses with global potential. Today, we collaborate with over 800 specialists from different parts of the world, and millions of users use our products and services. We're currently looking for a Operations Lead to join Uplift , a business building a portfolio of digital products for users’ everyday needs. The team is currently in the early stages of formation: key technical roles are already in place, with the main focus now on building the marketing function for the first product. This is an opportunity to join the business at launch and build processes from the ground up. What will be your focus: Analyze the payment funnel, identify the causes of payment losses, and determine opportunities to increase revenue. Improve the approval rate of initial and recurring payments, test hypotheses, and evaluate the financial impact of implemented changes. Develop the payment infrastructure: work with current PSPs, onboard new providers, and optimize routing and cascading. Monitor key payment and compliance metrics, and work on reducing chargebacks, refunds, and fraud. Improve the product’s unit…",
+      "descriptionSnippet": "Hi! We are Boosta, a holding tech company that creates, develops, and invests in digital businesses with global potential.",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-11-19T16:42:41.000Z",
+      "expiresAt": "2027-01-13T04:50:08.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
+      "fingerprint": "6a74e6cf69a136f2634a9bebf48e6845b7e57ca8"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent",
@@ -155,39 +255,6 @@
       "url": "https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent?utm_source=api",
       "fingerprint": "631ae31ee82c72e8d2353bc1e2d8777c2f1cd069"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/boosta/jobs/operations-lead-uplift",
-      "title": "Operations Lead | Uplift",
-      "company": "Boosta",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Lead",
-      "salary": "",
-      "description": "Hi! We are Boosta , a holding tech company that creates, develops, and invests in digital businesses with global potential. Today, we collaborate with over 800 specialists from different parts of the world, and millions of users use our products and services. We're currently looking for a Operations Lead to join Uplift , a business building a portfolio of digital products for users’ everyday needs. The team is currently in the early stages of formation: key technical roles are already in place, with the main focus now on building the marketing function for the first product. This is an opportunity to join the business at launch and build processes from the ground up. What will be your focus: Analyze the payment funnel, identify the causes of payment losses, and determine opportunities to increase revenue. Improve the approval rate of initial and recurring payments, test hypotheses, and evaluate the financial impact of implemented changes. Develop the payment infrastructure: work with current PSPs, onboard new providers, and optimize routing and cascading. Monitor key payment and compliance metrics, and work on reducing chargebacks, refunds, and fraud. Improve the product’s unit…",
-      "descriptionSnippet": "Hi! We are Boosta, a holding tech company that creates, develops, and invests in digital businesses with global potential.",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-11-14T04:50:08.000Z",
-      "expiresAt": "2027-01-13T04:50:08.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
-      "fingerprint": "6a74e6cf69a136f2634a9bebf48e6845b7e57ca8"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/sales-rep-logistics-4389579138",
@@ -479,93 +546,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
       "applyUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
       "fingerprint": "b3742b6859bdcab2384ec39384e2699a3e49dd1f"
-    },
-    {
-      "id": "remoteok:1137155",
-      "title": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management",
-      "company": "Tessera Labs",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Lead",
-      "salary": "$30–$36",
-      "description": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement — full-time or contract, workstream-critical role Location Nearshore, based in Mexico or Brazil — remote-based delivery model; excellent business English required for direct engagement with client stakeholders and leadership Reports To Program Director / Engagement Lead, Tessera Labs AI About the Role Tessera Labs AI is a technology product firm delivering next-generation, AI-accelerated enterprise transformation programs. We are seeking an experienced Oracle Fusion Cloud Lead to own the Logistics and Supply Chain Management (SCM) workstream for a greenfield Oracle Fusion Cloud implementation for a fast-growing client. This is a greenfield implementation from a process and configuration standpoint — there is no legacy SCM configuration to reverse-engineer or carry forward, and the opportunity is to stand up Oracle Fusion Cloud Inventory Management, Order Management, Indirect Procurement and related logistics processes from a blank slate, configured to Oracle standard wherever possible. Data is a different story: item,…",
-      "descriptionSnippet": "<p style=\"min-height:1.5em\"><strong>Oracle Fusion Cloud Lead — Logistics & Supply Chain Management</strong></p><p style=\"min-height:1.5em\"><strong>Greenfield Oracle Fusion Implementation</strong></p><p style=\"min-height:1.5em\">Company…",
-      "tags": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad"
-      ],
-      "postedAt": "2026-08-27T00:00:17.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-      "fingerprint": "415b20a9f89a593e2ebab01770d7ca68a6dc0c9e"
-    },
-    {
-      "id": "remoteok:1137194",
-      "title": "Renewables Project Scheduler",
-      "company": "Transportation Partners & Logistics",
-      "location": "Black Bess,",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "Apply Description Job Summary: The BESS Project Scheduler is responsible for developing, maintaining, and analyzing detailed project schedules for Battery Energy Storage System (BESS) projects. This role plays a critical part in ensuring projects are delivered on time by providing accurate schedule forecasts, identifying risks, and supporting project teams with data-driven insights across engineering, procurement, construction, commissioning, and energization phases. This role requires a strong leader that will take ownership of driving accurate and up to date scheduling across multiple projects as well as taking initiative to drive process improvements where there is an opportunity to improve. Job Responsibilities Develop and maintain integrated project schedules for BESS projects from NTP through COD Build schedules covering engineering, procurement, manufacturing, logistics, civil, electrical, installation, commissioning, and grid interconnection Collaborate with Project Managers, Construction Managers, OEMs, and subcontractors to validate logic, durations, and sequencing Perform critical path analysis, float analysis, and schedule risk assessments Track project progress and…",
-      "descriptionSnippet": "Apply<br /><br /><strong>Description<br /><br /></strong><strong>Job Summary:<br /><br /></strong>The BESS Project Scheduler is responsible for developing, maintaining, and analyzing detailed project schedules for Battery Energy Storage…",
-      "tags": [
-        "sys admin",
-        "technical",
-        "customer support",
-        "testing",
-        "travel",
-        "microsoft",
-        "exec",
-        "excel",
-        "stats",
-        "engineer"
-      ],
-      "postedAt": "2026-08-25T21:34:13.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
-      "fingerprint": "c6433727541442ebb4a87b0ca5fde60643f3b2d3"
     }
   ]
 }
