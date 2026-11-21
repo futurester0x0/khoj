@@ -1,23 +1,26 @@
 {
-  "generatedAt": "2026-11-20T14:12:10.260Z",
-  "jobCount": 14,
+  "generatedAt": "2026-11-21T13:37:13.755Z",
+  "jobCount": 13,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 129,
-      "relevant": 12,
+      "fetched": 126,
+      "relevant": 14,
       "errors": [
+        "freight page 1: 429 Too Many Requests",
+        "freight page 2: 429 Too Many Requests",
+        "supply chain manager page 1: 429 Too Many Requests",
         "supply chain manager page 2: 429 Too Many Requests",
         "supply chain analyst page 1: 429 Too Many Requests",
         "supply chain analyst page 2: 429 Too Many Requests",
         "procurement manager page 1: 429 Too Many Requests",
         "procurement manager page 2: 429 Too Many Requests",
         "procurement specialist page 1: 429 Too Many Requests",
-        "procurement specialist page 2: 429 Too Many Requests",
-        "purchasing manager page 1: 429 Too Many Requests",
-        "purchasing manager page 2: 429 Too Many Requests",
+        "customs page 2: 429 Too Many Requests",
+        "ecommerce operations page 1: 429 Too Many Requests",
+        "ecommerce operations page 2: 429 Too Many Requests",
         "supply chain management page 1: 429 Too Many Requests",
         "supply chain management page 2: 429 Too Many Requests",
         "logistics management page 1: 429 Too Many Requests",
@@ -29,16 +32,15 @@
         "transportation coordinator page 1: 429 Too Many Requests",
         "transportation coordinator page 2: 429 Too Many Requests",
         "vendor management page 1: 429 Too Many Requests",
-        "vendor management page 2: 429 Too Many Requests",
-        "order management page 1: 429 Too Many Requests"
+        "warehouse director page 2: 429 Too Many Requests"
       ]
     },
     {
       "id": "remoteok",
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
-      "fetched": 98,
-      "relevant": 4,
+      "fetched": 100,
+      "relevant": 3,
       "errors": []
     },
     {
@@ -46,79 +48,108 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 4,
+      "relevant": 2,
       "errors": []
     }
   ],
   "jobs": [
     {
-      "id": "arbeitnow:head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852",
-      "title": "Head of Operations (m/w/d) · 11 Gameshow-Filialen · Remote mit Reisen",
-      "company": "Gamer Tech Deutschland GmbH",
-      "location": "Berlin",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Lead",
-      "salary": "",
-      "description": "Vollzeit · Festanstellung · Start sofort · Firmenwagen · Berichtet an den Gründer Du führst 80+ Werkstudenten in 11 Filialen in ganz Deutschland. Filialleiter gibt es nicht. Du arbeitest von zu Hause, bist jede Woche in einer Filiale und greifst, wenn nötig, auch am Wochenende ein. Gamer - Die Gameshow Bei uns wird ein Ausflug mit Freunden oder Kollegen zur Gameshow. Aus über 20.000 Google Bewertungen haben wir 4,9 Sterne. 2027 wachsen wir weiter stark mit vielen neuen Filialen. Spiele, Technik und Software sind unsere Stärke. Der Betrieb unserer Filialen ist es bisher nicht. Trotz guter Bewertungen zeigt das Feedback unserer Gäste, dass es vor Ort zu oft hakt, z. B. bei der Sauberkeit und beim Wohlfühlen. Uns fehlt die Erfahrung, Strukturen und Abläufe so aufzubauen, dass sie auch funktionieren, wenn niemand von uns da ist. Diese Erfahrung bringst du mit. Deine Aufgabe Der Betrieb unserer 11 eigenen Filialen liegt bei dir: Teams, Abläufe und alles, was nötig ist, um Gäste vor Ort glücklich zu machen. Du führst die mehr als 80 Werkstudenten: von der Auswahl über das Training bis zum Abschied. Du baust die Strukturen auf, die heute fehlen. Welche das sind, findest du selbst heraus.…",
-      "descriptionSnippet": "<p>Vollzeit · Festanstellung · Start sofort · Firmenwagen · Berichtet an den Gründer</p><p>Du führst 80+ Werkstudenten in 11 Filialen in ganz Deutschland. Filialleiter gibt es nicht. Du arbeitest von zu Hause, bist jede Woche in einer…",
-      "tags": [
-        "Remote",
-        "Directors",
-        "Chief Executives"
-      ],
-      "postedAt": "2026-11-20T11:30:50.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.com/jobs/companies/gamer-tech-deutschland-gmbh/head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
-      },
-      "sources": [
-        {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.com/jobs/companies/gamer-tech-deutschland-gmbh/head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852"
-        }
-      ],
-      "url": "https://www.arbeitnow.com/jobs/companies/gamer-tech-deutschland-gmbh/head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/gamer-tech-deutschland-gmbh/head-of-operations-11-gameshow-filialen-remote-mit-reisen-berlin-159852",
-      "fingerprint": "8aeb97c27bc1f4d09d30aabe668228cebbcd6ef3"
-    },
-    {
-      "id": "arbeitnow:sachbearbeiterin-operations-backoffice-support-basel-314974",
-      "title": "Sachbearbeiter:in Operations / Backoffice Support",
-      "company": "Coopers Group AG",
-      "location": "Basel",
+      "id": "himalayas:https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator",
+      "title": "Investment fund Operations Coordinator",
+      "company": "Kinship Ventures",
+      "location": "Worldwide",
       "workMode": "Remote",
       "employmentType": "Contract",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "................ Für unseren Kunden in Basel suchen wir zur Unterstützung einer Taskforce im Bereich Partner Operations mehrere Sachbearbeiter:innen Backoffice für den kurzfristigen Abbau von Rückständen in der Mandatsverarbeitung. Deine Aufgaben: Prüfung, Erfassung, Mutation und Auflösung von Broker-Mandaten Bearbeitung von Mandatswechseln und Mandatskündigungen Zuordnung von Broker-Mandaten zu Generalagenturen Sicherstellung der korrekten Zuordnung von Kundenbeständen und Betreuungsverhältnissen Erfassung, Mutation und Pflege von Kunden- und Brokerdaten Anpassung von Personen-, Adress- und Kontaktdaten Bearbeitung von Versandanweisungen Prüfung und Aktualisierung von Zuständigkeiten und Betreuungsstrukturen Erfassung und Dokumentation von Geschäftsvorfällen in den relevanten Systemen Prüfung eingehender Dokumente auf Vollständigkeit und Plausibilität Bearbeitung standardisierter Geschäftsfälle gemäss bestehenden Arbeitsanweisungen Nachbearbeitung automatisiert verarbeiteter Geschäftsfälle Bearbeitung von Fehlerfällen und Rückläufern aus automatisierten Prozessen Unterstützung beim Abbau bestehender Verarbeitungsrückstände Sicherstellung einer vollständigen und nachvollziehbaren…",
-      "descriptionSnippet": "<p>................</p>Für unseren Kunden in <strong>Basel</strong> suchen wir zur Unterstützung einer Taskforce im Bereich Partner Operations mehrere <strong>Sachbearbeiter:innen Backoffice</strong> für den kurzfristigen Abbau von…",
-      "tags": [
-        "Remote",
-        "Finance"
-      ],
-      "postedAt": "2026-11-20T09:30:54.000Z",
-      "expiresAt": null,
+      "experience": "Mid",
+      "salary": "USD 4,000–5,500 / monthly",
+      "description": "Full-time · Contractor · Remote · Monthly salary: $4,000 to $5,500 USD Worldwide, with partial overlap with Pacific Time required About the role You coordinate fund operations in the back office of Kinship Ventures , engaged through Trolley. You own the records behind every investor, deal and relationship, so the fund's memory lives in shared systems and not in personal inboxes. You take the admin load off the Fund Principal so he can focus on sourcing, allocations and raising. You prepare and recommend, and a senior person validates statements, updates and anything sent to investors; you never sign, approve payments or give legal or tax answers. You report to the Finance Lead, with a dotted line to the Fund Principal, and work closely with the Managing Partner, the Bookkeeper and the Production and Marketing team. About Moj and Trolley Moj Mahdara is an entrepreneur and investor. She is Co-Founder and Managing Partner of Kinship Ventures , the venture platform she launched alongside Gwyneth Paltrow, and the founder of Trolley. Before Kinship, Moj was CEO of Beautycon Media, the global festival and media company built at the intersection of beauty and pop culture. Trolley is a…",
+      "descriptionSnippet": "Full-time · Contractor · Remote · Monthly salary: $4,000 to $5,500 USD Worldwide, with partial overlap with Pacific Time required About the role You coordinate fund operations in the back office of Kinship Ventures, engaged through Trolley.",
+      "tags": [],
+      "postedAt": "2026-11-21T12:48:27.000Z",
+      "expiresAt": "2027-01-20T12:48:26.000Z",
       "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
       },
       "sources": [
         {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974"
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
         }
       ],
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
-      "fingerprint": "4ee32b2388c5036d1719f14aca1b570cdbc0edfb"
+      "url": "https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator?utm_source=api",
+      "fingerprint": "5cf74f1a7eea8bfb932d7fbc29d985ec471d7b95"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/launchbrightly/jobs/product-setup-specialist-operations",
+      "title": "Product Setup Specialist - Operations",
+      "company": "LaunchBrightly",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Entry",
+      "salary": "USD 12,000–12,000 / annual",
+      "description": "Salary: $12,000 USD a year Job Type: Full-time At LaunchBrightly, we are on a mission to automate the process of capturing and keeping your product screenshots up-to-date across your help center . Our screenshot automation platform allows you to set up simple automation recipes to auto-generate screenshots of the latest version of your product and continuously update them in your help documentation as your product changes. Our work is remote, not distant. We're an async-first team that communicates in writing, moves fast, and trusts people to get things done without constant check-ins. No unnecessary meetings, no micromanagement — just clear ownership and focused work. LaunchBrightly was founded in 2022, and is backed by prominent venture firms including IA Ventures, Tuesday Capital, and B Capital Group — as the Product Setup Specialist will become an integral member of an intimate 10-person team. If you like seeing your work directly impact customers — you’ll fit right in! Job Description This is a high-volume, detail-oriented role focused on setting up and maintaining product screenshots at scale. You’ll spend most of your time working inside our tool, navigating web…",
+      "descriptionSnippet": "Salary: $12,000 USD a year Job Type: Full-time At LaunchBrightly, we are on a mission to automate the process of capturing and keeping your product screenshots up-to-date across your help center.",
+      "tags": [
+        "Product",
+        "Operations"
+      ],
+      "postedAt": "2026-11-21T04:31:29.000Z",
+      "expiresAt": "2026-12-20T03:16:25.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/launchbrightly/jobs/product-setup-specialist-operations?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/launchbrightly/jobs/product-setup-specialist-operations?utm_source=api",
+      "fingerprint": "c5133c573b7c7aa37efc53e972c7b69b417ed012"
+    },
+    {
+      "id": "remoteok:1137903",
+      "title": "Data Strategy Operations Manager",
+      "company": "Abnormal",
+      "location": "US Only",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "About the Role As the Data Strategy and Operations Manager at Abnormal AI, you will own our go-to-market data quality strategy and serve as the steward of data across Salesforce and the systems around it. You will design the processes, controls, and intelligent workflows that keep data accurate, enriched, and trusted at scale, so Sales, Marketing, Customer Success, and Finance can give executive leadership reliable metrics. You will decide where AI agents and automation take over repetitive data work and where human judgment still matters, and partner with cross-functional teams to evaluate system changes that affect our data programs. Who you are Data obsessed and just as obsessed with removing manual work, with a habit of automating any process that relies on fixing records by hand Curious about AI and a daily user, with experience shipping workflows with LLMs, agents, or AI-assisted tooling, and able to tell a useful application from a demo Eager to build and shape a program rather than only maintain one, and able to create systems that hold up at global scale Highly analytical, able to see the big picture and spot trends and gaps, then zoom in with practical, specific…",
+      "descriptionSnippet": "<h2>About the Role</h2> <p>As the Data Strategy and Operations Manager at Abnormal AI, you will own our go-to-market data quality strategy and serve as the steward of data across Salesforce and the systems around it. You will design the…",
+      "tags": [
+        "exec"
+      ],
+      "postedAt": "2026-11-20T08:40:14.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
+      "fingerprint": "7c8b6efb068ce453ff7bcb91cbf0d2446ff2165c"
     },
     {
       "id": "arbeitnow:remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
@@ -193,6 +224,39 @@
       "fingerprint": "25a8b0d1c9374b50be146e3ba5c9d7e85e8eb868"
     },
     {
+      "id": "remoteok:1137876",
+      "title": "P2P Regional Operations - Africa",
+      "company": "Bybit",
+      "location": "Africa",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "About Us Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first mindset, Bybit delivers a seamless ecosystem across trading, payments, wealth management, custody, institutional services, and Web3 — connecting users to the future of digital finance. Our core values define how we build. We listen, care and improve to create products and experiences that put users first. Backed by a global team of ambitious builders, problem-solvers, and innovators, we foster a high-performance and fast-moving environment where talent is empowered to drive real impact at the global scale. Supported by 24/7 multilingual customer service and a strong commitment to innovation, we are shaping the future of finance through technology, collaboration, and bold execution. Today, Bybit is recognized as one of the most trusted and transparent platforms in the digital asset industry, continuing to expand its global presence while building the infrastructure for the next generation of financial services. About the Role As part of…",
+      "descriptionSnippet": "<div><p><strong>About Us</strong></p> <div> <div>Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions.…",
+      "tags": [
+        "product"
+      ],
+      "postedAt": "2026-11-20T02:45:13.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
+      "fingerprint": "2f97541b9f7798a9cf4c491040df1b3382c82828"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/boosta/jobs/operations-lead-uplift",
       "title": "Operations Lead | Uplift",
       "company": "Boosta",
@@ -224,6 +288,39 @@
       "url": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
       "fingerprint": "6a74e6cf69a136f2634a9bebf48e6845b7e57ca8"
+    },
+    {
+      "id": "remoteok:1137828",
+      "title": "Manager, WW Distribution",
+      "company": "Rubrik Job Board",
+      "location": "US Only",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "Our team sits at the center of how Rubrik goes to market. We own the quote-to-cash experience for Sales, Deal Desk, and Finance, ensuring reps and partners can quote and order quickly and accurately, anywhere in the world. We work with Sales Ops, Deal Desk, Finance, Supply Chain, and our distributor partners to turn complex order and pricing scenarios into clear, repeatable processes. We value clear thinking, ownership, and a bias for making the field's job easier. If you thrive under deadline pressure, enjoy unblocking deals, and like building the processes that keep a global distribution model running smoothly this could be a great fit. About the role: The Manager, WW Distribution is the operational link between Rubrik's sales and channel teams and our global distributors. You will serve as the go-to resource for international order and quoting questions, own distributor escalations, and keep pricing information current as hardware costs move. This role is central to closing deals at month and quarter end and to scaling Rubrik's distribution processes as the business grows. What you'll do: International process support – Serve as the go-to point of contact for sales reps'…",
+      "descriptionSnippet": "<p>Our team sits at the center of how Rubrik goes to market. We own the quote-to-cash experience for Sales, Deal Desk, and Finance, ensuring reps and partners can quote and order quickly and accurately, anywhere in the world. We work with…",
+      "tags": [
+        "sales"
+      ],
+      "postedAt": "2026-11-19T14:15:02.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828",
+      "fingerprint": "4f3e0892dd435b448593823f78a87f3dc65d4736"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent",
@@ -290,86 +387,6 @@
       "fingerprint": "c89f27541d755280af9af79067421f14ac0f3ea7"
     },
     {
-      "id": "remoteok:1137717",
-      "title": "Strategy & Operations Coach APAC",
-      "company": "Mento",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Part time",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "About The Role We are looking for senior leaders in strategy & operations roles who value learning, growth, and community and who are passionate about developing and coaching people in their field. We are specifically looking for coaches who have experience in Singapore or Hong Kong serving the SEA region, or experience in market including Japan, India, South Korea, and Australia. As a Mento coach, you will form 1:1 partnerships with our members to help them identify & track clear goals, become a better leader, communicate more effectively, problem solve issues at work, and help them feel happy, fulfilled, and engaged at work and beyond. All Mento coaches, regardless of coaching experience, are required to participate in our ICF-certified coach training program to learn Mento’s coaching methodology prior to working with our members. Our coach training is an immersive, transformational training designed to help you grow as a coach, master the Mento Coaching Methodology, and gain access to proprietary tools that set our coaches apart. This program is ICF-certified, and participants who successfully graduate will earn Continuing Coach Education Units. If you’re ready to elevate your…",
-      "descriptionSnippet": "<h2>About The Role</h2><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are looking for senior leaders in strategy & operations roles who value learning, growth, and community and who are passionate about developing and…",
-      "tags": [
-        "education",
-        "marketing",
-        "exec",
-        "senior",
-        "ops",
-        "part time"
-      ],
-      "postedAt": "2026-11-11T00:00:15.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
-      "fingerprint": "69574d5f082786752f79b3f867a4cbfc9a8e0f86"
-    },
-    {
-      "id": "remoteok:1137690",
-      "title": "Operations Expert with Python for AI Supply Chain Task Design",
-      "company": "Toptal",
-      "location": "Anywhere in the World",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities â¢ Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. â¢ Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. â¢ Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. â¢ Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. â¢ Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common…",
-      "descriptionSnippet": "<p>Overview</p><p>A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a…",
-      "tags": [
-        "Docker",
-        "Git",
-        "Inventory Management",
-        "Supply Chain",
-        "Microsoft Excel",
-        "Python",
-        "SAP",
-        "SAP Production Planning",
-        "SQL",
-        "Supply Chain Operations"
-      ],
-      "postedAt": "2026-11-05T15:01:09.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-      "fingerprint": "9004274567a4552f0f642402d9023cf48479ebbd"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst",
       "title": "Recruiting Operations Analyst",
       "company": "Spotter Labs",
@@ -399,50 +416,6 @@
       "url": "https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst?utm_source=api",
       "fingerprint": "5c58aec8476e878ddd77c8133a915ded22c40179"
-    },
-    {
-      "id": "remoteok:1137609",
-      "title": "Partner Operations Manager",
-      "company": "Mecka",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "$80,000–$100,000",
-      "description": "About Mecka AI Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied AI systems. We work closely with frontier robotics teams to bridge real-world data, simulation, learning-based systems, and deployed hardware. About the Role Signing a capture partner is the start of the work. Getting that partner to steady, high-quality output takes onboarding, training, hardware, support, and reporting, and every step has to run on time. As Partnership Operations Manager, you will own that path for our regional partnership leads so they can focus on finding and signing partners. This is a new function, so you will set the standards and tooling yourself and make them repeatable across regions. What You Will Do Deal support: Prepare proposals and agreements from approved templates and keep a clean record of every partner’s rates, volumes, and term dates. Onboarding: Set partners up on the platform, issue devices and accounts, and train their teams on capture standards so they reach…",
-      "descriptionSnippet": "<h3>About Mecka AI</h3><p style=\"min-height:1.5em\">Mecka AI is building the data infrastructure layer for robotics and embodied AI.<br />We design and operate global systems for data capture, data labeling, and hardware-enabled workflows…",
-      "tags": [
-        "exec",
-        "design",
-        "education",
-        "customer support",
-        "marketing",
-        "quality assurance",
-        "finance",
-        "robotics",
-        "ops",
-        "recruiter",
-        "engineer",
-        "digital nomad"
-      ],
-      "postedAt": "2026-11-01T00:00:08.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "fingerprint": "929f5495cc4611deab1f06556a508afee709157d"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/senior-cargo-condition-and-securing-surveyor",
@@ -505,47 +478,6 @@
       "url": "https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/micro1/jobs/senior-cargo-and-parcel-claims-examiner?utm_source=api",
       "fingerprint": "c02f9de1408da87968f6fd598ee1c2b78825255d"
-    },
-    {
-      "id": "remoteok:1137542",
-      "title": "Graduate Transport Planner",
-      "company": "Curtins",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Entry",
-      "salary": "",
-      "description": "<p><span>At Curtins, we're an employee-owned engineering consultancy driven by a simple ambition: to create a better built environment for everyone.</span></p><p class=\"MsoNormal\"><span>For over 65 years, we've delivered practical, innovative and sustainable solutions that make a positive impact on communities across the UK and Ireland. From major regeneration schemes and commercial developments to education, healthcare and residential projects, our work helps shape the places where people live, learn, work and thrive.</span></p><p class=\"MsoNormal\">As a Graduate Transport Planner, you'll work alongside experienced planners, engineers and consultants, contributing to a wide range of projects while developing the technical and professional skills you need to build your career.</p><p class=\"MsoNormal\">Whether you're interested in transport assessments, active travel &amp; sustainable mobility, highways or public transport, we'll give you the experience, guidance and support to find the areas that interest you most and develop your expertise in development planning.</p><h4><span><strong>What you'll be doing</strong></span></h4><p><span>You will support the planning and development…",
-      "descriptionSnippet": "<p><span>At Curtins, we're an employee-owned engineering consultancy driven by a simple ambition: to create a better built environment for everyone.</span></p><p class=\"MsoNormal\"><span>For over 65 years, we've delivered practical,…",
-      "tags": [
-        "hr",
-        "education",
-        "consulting",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "medical",
-        "engineer"
-      ],
-      "postedAt": "2026-10-17T08:00:50.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-      "fingerprint": "b3742b6859bdcab2384ec39384e2699a3e49dd1f"
     }
   ]
 }
