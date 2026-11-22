@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-21T13:37:13.755Z",
-  "jobCount": 13,
+  "generatedAt": "2026-11-22T13:29:41.312Z",
+  "jobCount": 11,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 126,
+      "fetched": 130,
       "relevant": 14,
       "errors": [
         "freight page 1: 429 Too Many Requests",
-        "freight page 2: 429 Too Many Requests",
-        "supply chain manager page 1: 429 Too Many Requests",
-        "supply chain manager page 2: 429 Too Many Requests",
-        "supply chain analyst page 1: 429 Too Many Requests",
-        "supply chain analyst page 2: 429 Too Many Requests",
-        "procurement manager page 1: 429 Too Many Requests",
-        "procurement manager page 2: 429 Too Many Requests",
-        "procurement specialist page 1: 429 Too Many Requests",
+        "inventory manager page 2: 429 Too Many Requests",
+        "warehouse manager page 1: 429 Too Many Requests",
+        "warehouse manager page 2: 429 Too Many Requests",
+        "demand planner page 1: 429 Too Many Requests",
+        "demand planner page 2: 429 Too Many Requests",
+        "vendor manager page 1: 429 Too Many Requests",
+        "vendor manager page 2: 429 Too Many Requests",
+        "customs page 1: 429 Too Many Requests",
         "customs page 2: 429 Too Many Requests",
         "ecommerce operations page 1: 429 Too Many Requests",
         "ecommerce operations page 2: 429 Too Many Requests",
         "supply chain management page 1: 429 Too Many Requests",
         "supply chain management page 2: 429 Too Many Requests",
         "logistics management page 1: 429 Too Many Requests",
-        "logistics management page 2: 429 Too Many Requests",
-        "procurement operations page 1: 429 Too Many Requests",
-        "procurement operations page 2: 429 Too Many Requests",
-        "trade compliance page 1: 429 Too Many Requests",
-        "trade compliance page 2: 429 Too Many Requests",
-        "transportation coordinator page 1: 429 Too Many Requests",
-        "transportation coordinator page 2: 429 Too Many Requests",
-        "vendor management page 1: 429 Too Many Requests",
+        "supply chain director page 2: 429 Too Many Requests",
+        "head of supply chain page 1: 429 Too Many Requests",
+        "head of supply chain page 2: 429 Too Many Requests",
+        "logistics director page 1: 429 Too Many Requests",
+        "logistics director page 2: 429 Too Many Requests",
+        "procurement director page 1: 429 Too Many Requests",
+        "procurement director page 2: 429 Too Many Requests",
+        "warehouse director page 1: 429 Too Many Requests",
         "warehouse director page 2: 429 Too Many Requests"
       ]
     },
@@ -40,7 +40,7 @@
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
       "fetched": 100,
-      "relevant": 3,
+      "relevant": 2,
       "errors": []
     },
     {
@@ -48,11 +48,45 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 2,
+      "relevant": 1,
       "errors": []
     }
   ],
   "jobs": [
+    {
+      "id": "arbeitnow:founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
+      "title": "Founder's Associate / Business Operations (m/w/d) – 100% Remote weltweit",
+      "company": "Peters und Partner",
+      "location": "Reichartshausen",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "",
+      "description": "Remote von überall auf der Welt, direkt an der Seite von zwei Gründern, die schon über 20 Firmen aufgebaut haben. Über uns Wir bauen Firmen um Menschen herum, die eine gute Idee haben und sie selbst vorantreiben wollen. Unsere beiden Gründer sind Venture-Architekten: Sie bringen Kapital, Vertrieb, Administration und die richtigen Leute zusammen, die Gründer der neuen Firmen bringen Idee und Antrieb. So sind schon über 20 Firmen entstanden, von Pet-Tech über E-Commerce und Einkaufsdienstleistungen bis zu Software für Anwälte. Zusammen beschäftigt die Gruppe weltweit eine dreistellige Zahl an Mitarbeitern. Unser Ziel ist eine Maschine, die aus jeder guten Idee eine erfolgreiche Firma macht, die ohne die beiden läuft. Dafür suchen wir die Person, die diese Maschine mit aufbaut. Von wo aus du das tust, ist uns egal. Deine Aufgaben Du machst aus unserer Arbeitsweise Prozesse. Vieles steckt heute in den Köpfen der beiden Gründer: wie wir mit Gründern arbeiten, wie wir Firmen aufsetzen, wie Reporting läuft. Du schaust es dir an, schreibst es auf und baust daraus klare Abläufe. Du baust ein System, über das die Gründer unserer Firmen regelmäßig berichten. Du prüfst neue Ideen am Markt: Du…",
+      "descriptionSnippet": "<p><strong>Remote von überall auf der Welt, direkt an der Seite von zwei Gründern, die schon über 20 Firmen aufgebaut haben.</strong></p> <h3>Über uns</h3> <p>Wir bauen Firmen um Menschen herum, die eine gute Idee haben und sie selbst…",
+      "tags": [
+        "Remote",
+        "Business Operations"
+      ],
+      "postedAt": "2026-11-22T11:01:02.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916"
+        }
+      ],
+      "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
+      "fingerprint": "039d0699e770f5527fd64c7892c880dbef264811"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator",
       "title": "Investment fund Operations Coordinator",
@@ -152,78 +186,6 @@
       "fingerprint": "7c8b6efb068ce453ff7bcb91cbf0d2446ff2165c"
     },
     {
-      "id": "arbeitnow:remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-      "title": "Senior Account Manager - Warehouse Automation - BENELUX",
-      "company": "Exotec",
-      "location": "Netherlands",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Senior",
-      "salary": "",
-      "description": "At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition to automation. We’re proud to design technology that doesn’t just redefine intralogistics; it also makes warehouses safer, faster, more efficient, and less physically demanding for the people working inside them. Why this role matters Ready to move the world of intralogistics with tech? Join us as a Service Account Manager. What You'll Do We are looking for individuals who put customers first, take ownership of their work, execute with rigor, and simplify complex challenges. Successful team members demonstrate a continuous improvement mindset, collaborate effectively across functions, and contribute to collective success. At Exotec, we value people who are proactive, transparent, respectful, adaptable, and committed to delivering excellence while building long-term trust with both customers and colleagues. Own the strategic relationship with a portfolio of customers, serving as their primary point of contact for service performance, escalations, and…",
-      "descriptionSnippet": "<p>At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition…",
-      "tags": [
-        "Engineering",
-        "Logistics and Supply Chain",
-        "Maintenance",
-        "Remote"
-      ],
-      "postedAt": "2026-11-20T04:20:15.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
-      },
-      "sources": [
-        {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998"
-        }
-      ],
-      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-      "fingerprint": "e897f101d7febe06b3c8e7016375a517b12a1378"
-    },
-    {
-      "id": "arbeitnow:remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-      "company": "Exotec",
-      "location": "Netherlands",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Senior",
-      "salary": "",
-      "description": "At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition to automation. We’re proud to design technology that doesn’t just redefine intralogistics; it also makes warehouses safer, faster, more efficient, and less physically demanding for the people working inside them. Why this role matters Ready to move the world of intralogistics with tech? Join us as a Service Account Manager. What You'll Do We are looking for individuals who put customers first, take ownership of their work, execute with rigor, and simplify complex challenges. Successful team members demonstrate a continuous improvement mindset, collaborate effectively across functions, and contribute to collective success. At Exotec, we value people who are proactive, transparent, respectful, adaptable, and committed to delivering excellence while building long-term trust with both customers and colleagues. Own the strategic relationship with a portfolio of customers, serving as their primary point of contact for service performance, escalations, and…",
-      "descriptionSnippet": "<p>At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition…",
-      "tags": [
-        "Engineering",
-        "Logistics and Supply Chain",
-        "Maintenance",
-        "Remote"
-      ],
-      "postedAt": "2026-11-20T04:20:15.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
-      },
-      "sources": [
-        {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427"
-        }
-      ],
-      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-      "fingerprint": "25a8b0d1c9374b50be146e3ba5c9d7e85e8eb868"
-    },
-    {
       "id": "remoteok:1137876",
       "title": "P2P Regional Operations - Africa",
       "company": "Bybit",
@@ -288,39 +250,6 @@
       "url": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
       "fingerprint": "6a74e6cf69a136f2634a9bebf48e6845b7e57ca8"
-    },
-    {
-      "id": "remoteok:1137828",
-      "title": "Manager, WW Distribution",
-      "company": "Rubrik Job Board",
-      "location": "US Only",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "Our team sits at the center of how Rubrik goes to market. We own the quote-to-cash experience for Sales, Deal Desk, and Finance, ensuring reps and partners can quote and order quickly and accurately, anywhere in the world. We work with Sales Ops, Deal Desk, Finance, Supply Chain, and our distributor partners to turn complex order and pricing scenarios into clear, repeatable processes. We value clear thinking, ownership, and a bias for making the field's job easier. If you thrive under deadline pressure, enjoy unblocking deals, and like building the processes that keep a global distribution model running smoothly this could be a great fit. About the role: The Manager, WW Distribution is the operational link between Rubrik's sales and channel teams and our global distributors. You will serve as the go-to resource for international order and quoting questions, own distributor escalations, and keep pricing information current as hardware costs move. This role is central to closing deals at month and quarter end and to scaling Rubrik's distribution processes as the business grows. What you'll do: International process support – Serve as the go-to point of contact for sales reps'…",
-      "descriptionSnippet": "<p>Our team sits at the center of how Rubrik goes to market. We own the quote-to-cash experience for Sales, Deal Desk, and Finance, ensuring reps and partners can quote and order quickly and accurately, anywhere in the world. We work with…",
-      "tags": [
-        "sales"
-      ],
-      "postedAt": "2026-11-19T14:15:02.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828",
-      "fingerprint": "4f3e0892dd435b448593823f78a87f3dc65d4736"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent",
