@@ -1,15 +1,20 @@
 {
-  "generatedAt": "2026-11-22T13:29:41.312Z",
-  "jobCount": 11,
+  "generatedAt": "2026-11-23T16:14:03.636Z",
+  "jobCount": 12,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 130,
-      "relevant": 14,
+      "fetched": 139,
+      "relevant": 19,
       "errors": [
-        "freight page 1: 429 Too Many Requests",
+        "sourcing specialist page 2: 429 Too Many Requests",
+        "logistics manager page 1: 429 Too Many Requests",
+        "logistics manager page 2: 429 Too Many Requests",
+        "logistics coordinator page 1: 429 Too Many Requests",
+        "logistics coordinator page 2: 429 Too Many Requests",
+        "inventory manager page 1: 429 Too Many Requests",
         "inventory manager page 2: 429 Too Many Requests",
         "warehouse manager page 1: 429 Too Many Requests",
         "warehouse manager page 2: 429 Too Many Requests",
@@ -17,22 +22,19 @@
         "demand planner page 2: 429 Too Many Requests",
         "vendor manager page 1: 429 Too Many Requests",
         "vendor manager page 2: 429 Too Many Requests",
-        "customs page 1: 429 Too Many Requests",
-        "customs page 2: 429 Too Many Requests",
-        "ecommerce operations page 1: 429 Too Many Requests",
-        "ecommerce operations page 2: 429 Too Many Requests",
-        "supply chain management page 1: 429 Too Many Requests",
-        "supply chain management page 2: 429 Too Many Requests",
-        "logistics management page 1: 429 Too Many Requests",
+        "supply chain specialist page 1: 429 Too Many Requests",
+        "supply chain specialist page 2: 429 Too Many Requests",
+        "logistics specialist page 1: 429 Too Many Requests",
+        "logistics specialist page 2: 429 Too Many Requests",
+        "strategic sourcing page 1: 429 Too Many Requests",
+        "strategic sourcing page 2: 429 Too Many Requests",
+        "supply chain director page 1: 429 Too Many Requests",
         "supply chain director page 2: 429 Too Many Requests",
         "head of supply chain page 1: 429 Too Many Requests",
         "head of supply chain page 2: 429 Too Many Requests",
         "logistics director page 1: 429 Too Many Requests",
         "logistics director page 2: 429 Too Many Requests",
-        "procurement director page 1: 429 Too Many Requests",
-        "procurement director page 2: 429 Too Many Requests",
-        "warehouse director page 1: 429 Too Many Requests",
-        "warehouse director page 2: 429 Too Many Requests"
+        "procurement director page 1: 429 Too Many Requests"
       ]
     },
     {
@@ -54,38 +56,72 @@
   ],
   "jobs": [
     {
-      "id": "arbeitnow:founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
-      "title": "Founder's Associate / Business Operations (m/w/d) – 100% Remote weltweit",
-      "company": "Peters und Partner",
-      "location": "Reichartshausen",
+      "id": "himalayas:https://himalayas.app/companies/syd-life-ai/jobs/operations-manager",
+      "title": "Operations Manager",
+      "company": "Syd Life AI",
+      "location": "Worldwide",
       "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "Remote von überall auf der Welt, direkt an der Seite von zwei Gründern, die schon über 20 Firmen aufgebaut haben. Über uns Wir bauen Firmen um Menschen herum, die eine gute Idee haben und sie selbst vorantreiben wollen. Unsere beiden Gründer sind Venture-Architekten: Sie bringen Kapital, Vertrieb, Administration und die richtigen Leute zusammen, die Gründer der neuen Firmen bringen Idee und Antrieb. So sind schon über 20 Firmen entstanden, von Pet-Tech über E-Commerce und Einkaufsdienstleistungen bis zu Software für Anwälte. Zusammen beschäftigt die Gruppe weltweit eine dreistellige Zahl an Mitarbeitern. Unser Ziel ist eine Maschine, die aus jeder guten Idee eine erfolgreiche Firma macht, die ohne die beiden läuft. Dafür suchen wir die Person, die diese Maschine mit aufbaut. Von wo aus du das tust, ist uns egal. Deine Aufgaben Du machst aus unserer Arbeitsweise Prozesse. Vieles steckt heute in den Köpfen der beiden Gründer: wie wir mit Gründern arbeiten, wie wir Firmen aufsetzen, wie Reporting läuft. Du schaust es dir an, schreibst es auf und baust daraus klare Abläufe. Du baust ein System, über das die Gründer unserer Firmen regelmäßig berichten. Du prüfst neue Ideen am Markt: Du…",
-      "descriptionSnippet": "<p><strong>Remote von überall auf der Welt, direkt an der Seite von zwei Gründern, die schon über 20 Firmen aufgebaut haben.</strong></p> <h3>Über uns</h3> <p>Wir bauen Firmen um Menschen herum, die eine gute Idee haben und sie selbst…",
+      "employmentType": "Contract",
+      "experience": "Mid",
+      "salary": "USD 30,000–70,000 / annual",
+      "description": "About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire people who already act that way : you choose the problem , test the idea against the evidence and measure the impact . Small remote team , real ownership from your first week , consulting agreements with equity . The role Syd is looking for an Operations Manager , reporting to the CEO , to make sure every client delivery and company project is planned , tracked and delivered on time . You will set one consistent project management standard across the company and turn direction into plans , owners and dates . The path to Head of Operations is earned through delivery , with a review at 12 months .…",
+      "descriptionSnippet": "About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living .",
       "tags": [
-        "Remote",
-        "Business Operations"
+        "Operations",
+        "Human Resources"
       ],
-      "postedAt": "2026-11-22T11:01:02.000Z",
+      "postedAt": "2026-11-23T00:20:29.000Z",
+      "expiresAt": "2026-12-22T09:18:59.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/syd-life-ai/jobs/operations-manager?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/syd-life-ai/jobs/operations-manager?utm_source=api",
+      "fingerprint": "6022213476db5b05a4e5905ebcb6e45011d2032f"
+    },
+    {
+      "id": "arbeitnow:remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
+      "title": "Senior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Homeoffice",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Senior",
+      "salary": "",
+      "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig! Deine Aufgaben Du verantwortest den stabilen und effizienten Betrieb unserer SaaS-Plattform auf AWS, Azure und T-Systems sicher und sorgst für die Einhaltung unserer SLAs Du entwickelst unsere Observability mit Prometheus und Grafana weiter, analysierst Störungen und führst Root-Cause-Analysen durch. Als Teil des Teams übernimmst du zudem 2nd-Level-Support und die Rufbereitschaft Du betreust über 20 Cluster, auf denen unsere gesamte Kundenbasis läuft – inklusive Lifecycle, Updates und Weiterentwicklung der Plattform Du automatisierst den Aufbau und die Verwaltung unserer Cloud-Infrastruktur mit Terraform und sorgst mit ArgoCD, Docker und CI/CD dafür, dass neue Anwendungen zuverlässig und automatisiert auf Kubernetes bereitgestellt werden Du sorgst…",
+      "descriptionSnippet": "<p><span style=\"color:#282322\">Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und…",
+      "tags": [
+        "Services",
+        "Remote"
+      ],
+      "postedAt": "2026-11-22T15:31:19.000Z",
       "expiresAt": null,
       "source": {
         "id": "arbeitnow",
         "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
+        "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
         "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
       },
       "sources": [
         {
           "id": "arbeitnow",
           "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916"
+          "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018"
         }
       ],
-      "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
-      "fingerprint": "039d0699e770f5527fd64c7892c880dbef264811"
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
+      "fingerprint": "ebf848ac4d6af0f9967092d9ec58a4a763762dc1"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator",
