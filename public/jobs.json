@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-11-24T16:02:42.908Z",
-  "jobCount": 11,
+  "generatedAt": "2026-11-25T15:50:08.673Z",
+  "jobCount": 9,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 133,
+      "fetched": 126,
       "relevant": 17,
       "errors": [
-        "freight page 2: 429 Too Many Requests",
-        "supply chain manager page 1: 429 Too Many Requests",
-        "supply chain manager page 2: 429 Too Many Requests",
-        "supply chain analyst page 1: 429 Too Many Requests",
-        "supply chain analyst page 2: 429 Too Many Requests",
-        "vendor manager page 1: 429 Too Many Requests",
-        "vendor manager page 2: 429 Too Many Requests",
-        "customs page 1: 429 Too Many Requests",
-        "customs page 2: 429 Too Many Requests",
-        "ecommerce operations page 1: 429 Too Many Requests",
-        "ecommerce operations page 2: 429 Too Many Requests",
-        "supply chain management page 1: 429 Too Many Requests",
-        "supply chain management page 2: 429 Too Many Requests",
-        "logistics management page 1: 429 Too Many Requests",
-        "logistics management page 2: 429 Too Many Requests",
-        "procurement operations page 1: 429 Too Many Requests",
-        "head of supply chain page 2: 429 Too Many Requests",
-        "logistics director page 1: 429 Too Many Requests",
-        "logistics director page 2: 429 Too Many Requests",
-        "procurement director page 1: 429 Too Many Requests",
-        "procurement director page 2: 429 Too Many Requests",
-        "warehouse director page 1: 429 Too Many Requests",
-        "warehouse director page 2: 429 Too Many Requests"
+        "procurement manager page 2: 429 Too Many Requests",
+        "procurement specialist page 1: 429 Too Many Requests",
+        "procurement specialist page 2: 429 Too Many Requests",
+        "purchasing manager page 1: 429 Too Many Requests",
+        "purchasing manager page 2: 429 Too Many Requests",
+        "buyer page 1: 429 Too Many Requests",
+        "buyer page 2: 429 Too Many Requests",
+        "sourcing specialist page 1: 429 Too Many Requests",
+        "sourcing specialist page 2: 429 Too Many Requests",
+        "logistics manager page 1: 429 Too Many Requests",
+        "procurement operations page 2: 429 Too Many Requests",
+        "trade compliance page 1: 429 Too Many Requests",
+        "trade compliance page 2: 429 Too Many Requests",
+        "transportation coordinator page 1: 429 Too Many Requests",
+        "transportation coordinator page 2: 429 Too Many Requests",
+        "vendor management page 1: 429 Too Many Requests",
+        "vendor management page 2: 429 Too Many Requests",
+        "order management page 1: 429 Too Many Requests",
+        "order management page 2: 429 Too Many Requests",
+        "3pl page 1: 429 Too Many Requests",
+        "3pl page 2: 429 Too Many Requests",
+        "supply chain specialist page 1: 429 Too Many Requests",
+        "supply chain specialist page 2: 429 Too Many Requests",
+        "logistics specialist page 1: 429 Too Many Requests"
       ]
     },
     {
@@ -39,7 +40,7 @@
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
       "fetched": 100,
-      "relevant": 2,
+      "relevant": 1,
       "errors": []
     },
     {
@@ -47,45 +48,11 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 1,
+      "relevant": 0,
       "errors": []
     }
   ],
   "jobs": [
-    {
-      "id": "arbeitnow:customer-operations-specialist-zurich-373145",
-      "title": "Customer Operations Specialist",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "................ For our client in Ticino , we are looking for an experienced and open-minded Customer Operations Specialist . In this role, you will have the opportunity to provide technical, order, and payment-related assistance/support to the internal and external customers. Each day, you will coordinate with relevant stakeholders to obtain complete case ownership. You will also showcase your expertise by improving customer satisfaction. Your Tasks: Ensuring the resolution of customer issues by coordinating with Sales, Operations, Supply Chain Management, Trade Compliance Team, Chamber of Commerce, and other internal and/or external teams Recommending appropriate solution for customer requests and coordinating with the related teams to ensure end-to-end handling of the request (e.g., production capability and scheduling, resourcing, quotes, price lists, invoice, etc.) is in place Keeping the customers proactively informed on the issue status based on the inputs received and clarifying their doubts Preparing and analyzing regular statistics (e.g., Revenue Forecasts, Requested Delivery Dates) using available tools and collecting additional relevant information and tracking…",
-      "descriptionSnippet": "<p>................</p><p>For our client in <strong>Ticino</strong>, we are looking for an experienced and open-minded <strong>Customer Operations Specialist</strong>.</p><p>In this role, you will have the opportunity to provide technical,…",
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "postedAt": "2026-11-24T08:30:34.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-373145",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
-      },
-      "sources": [
-        {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-373145"
-        }
-      ],
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-373145",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-373145",
-      "fingerprint": "9a1170b233457bd3288e8d391bf14552fae44e1a"
-    },
     {
       "id": "himalayas:https://himalayas.app/companies/syd-life-ai/jobs/operations-manager",
       "title": "Operations Manager",
@@ -183,39 +150,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
       "applyUrl": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
       "fingerprint": "7c8b6efb068ce453ff7bcb91cbf0d2446ff2165c"
-    },
-    {
-      "id": "remoteok:1137876",
-      "title": "P2P Regional Operations - Africa",
-      "company": "Bybit",
-      "location": "Africa",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "About Us Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first mindset, Bybit delivers a seamless ecosystem across trading, payments, wealth management, custody, institutional services, and Web3 — connecting users to the future of digital finance. Our core values define how we build. We listen, care and improve to create products and experiences that put users first. Backed by a global team of ambitious builders, problem-solvers, and innovators, we foster a high-performance and fast-moving environment where talent is empowered to drive real impact at the global scale. Supported by 24/7 multilingual customer service and a strong commitment to innovation, we are shaping the future of finance through technology, collaboration, and bold execution. Today, Bybit is recognized as one of the most trusted and transparent platforms in the digital asset industry, continuing to expand its global presence while building the infrastructure for the next generation of financial services. About the Role As part of…",
-      "descriptionSnippet": "<div><p><strong>About Us</strong></p> <div> <div>Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions.…",
-      "tags": [
-        "product"
-      ],
-      "postedAt": "2026-11-20T02:45:13.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
-      "fingerprint": "2f97541b9f7798a9cf4c491040df1b3382c82828"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/boosta/jobs/operations-lead-uplift",
