@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-25T15:50:08.673Z",
-  "jobCount": 9,
+  "generatedAt": "2026-11-26T15:30:27.383Z",
+  "jobCount": 12,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 126,
-      "relevant": 17,
+      "fetched": 134,
+      "relevant": 20,
       "errors": [
+        "freight page 2: 429 Too Many Requests",
+        "supply chain manager page 1: 429 Too Many Requests",
+        "supply chain manager page 2: 429 Too Many Requests",
+        "supply chain analyst page 1: 429 Too Many Requests",
+        "supply chain analyst page 2: 429 Too Many Requests",
+        "procurement manager page 1: 429 Too Many Requests",
         "procurement manager page 2: 429 Too Many Requests",
-        "procurement specialist page 1: 429 Too Many Requests",
-        "procurement specialist page 2: 429 Too Many Requests",
-        "purchasing manager page 1: 429 Too Many Requests",
-        "purchasing manager page 2: 429 Too Many Requests",
-        "buyer page 1: 429 Too Many Requests",
-        "buyer page 2: 429 Too Many Requests",
-        "sourcing specialist page 1: 429 Too Many Requests",
-        "sourcing specialist page 2: 429 Too Many Requests",
-        "logistics manager page 1: 429 Too Many Requests",
+        "vendor manager page 2: 429 Too Many Requests",
+        "customs page 1: 429 Too Many Requests",
+        "customs page 2: 429 Too Many Requests",
+        "ecommerce operations page 1: 429 Too Many Requests",
+        "ecommerce operations page 2: 429 Too Many Requests",
+        "supply chain management page 1: 429 Too Many Requests",
+        "supply chain management page 2: 429 Too Many Requests",
+        "logistics management page 1: 429 Too Many Requests",
+        "logistics management page 2: 429 Too Many Requests",
+        "procurement operations page 1: 429 Too Many Requests",
         "procurement operations page 2: 429 Too Many Requests",
         "trade compliance page 1: 429 Too Many Requests",
         "trade compliance page 2: 429 Too Many Requests",
-        "transportation coordinator page 1: 429 Too Many Requests",
-        "transportation coordinator page 2: 429 Too Many Requests",
-        "vendor management page 1: 429 Too Many Requests",
-        "vendor management page 2: 429 Too Many Requests",
-        "order management page 1: 429 Too Many Requests",
-        "order management page 2: 429 Too Many Requests",
-        "3pl page 1: 429 Too Many Requests",
-        "3pl page 2: 429 Too Many Requests",
-        "supply chain specialist page 1: 429 Too Many Requests",
-        "supply chain specialist page 2: 429 Too Many Requests",
-        "logistics specialist page 1: 429 Too Many Requests"
+        "procurement director page 1: 429 Too Many Requests",
+        "procurement director page 2: 429 Too Many Requests",
+        "warehouse director page 1: 429 Too Many Requests",
+        "warehouse director page 2: 429 Too Many Requests"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
       "fetched": 100,
-      "relevant": 1,
+      "relevant": 2,
       "errors": []
     },
     {
@@ -48,11 +48,144 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 0,
+      "relevant": 1,
       "errors": []
     }
   ],
   "jobs": [
+    {
+      "id": "arbeitnow:remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+      "title": "Junior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Homeoffice",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Entry",
+      "salary": "",
+      "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig! Deine Aufgaben Du sorgst dafür, dass unsere SaaS-Plattform auf AWS, Azure und T-Systems zuverlässig und performant läuft und übernimmst dabei Verantwortung für eigene Bereiche und Themen Du analysierst und behebst Störungen, führst Root-Cause-Analysen durch und bringst dich aktiv in die Weiterentwicklung unserer Observability ein. Als Teil des Teams bist du Anlaufstelle für interne Teams, Kunden und Partner und übernimmst im Turnus die 2nd-Level-Support-Bereitschaft und Rufbereitschaft Du entwickelst unser Monitoring mit Prometheus und Grafana aktiv weiter, erstellst aussagekräftige Dashboards und Alerts und sorgst dafür, dass potenzielle Probleme frühzeitig erkannt werden Du automatisierst den Aufbau und die Verwaltung unserer Cloud-Infrastruktur…",
+      "descriptionSnippet": "<p><span style=\"color:#282322\">Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und…",
+      "tags": [
+        "Services",
+        "Remote"
+      ],
+      "postedAt": "2026-11-26T06:31:21.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "arbeitnow",
+        "name": "Arbeitnow",
+        "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+      },
+      "sources": [
+        {
+          "id": "arbeitnow",
+          "name": "Arbeitnow",
+          "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099"
+        }
+      ],
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+      "fingerprint": "5e3f3120d11b7972da3cc368cfcc7793c4ebfcce"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy",
+      "title": "Systems, Knowledge Management & Procurement Officer (Consultancy)",
+      "company": "Aflatoun International",
+      "location": "Worldwide",
+      "workMode": "Remote",
+      "employmentType": "Full time",
+      "experience": "Senior",
+      "salary": "EUR 2,234–2,444 / monthly",
+      "description": "Position title: Systems, Knowledge Management & Procurement Officer (Consultancy) Organization : Aflatoun International Location : Global (consultancy) Job type : Full time 40 hours Compensation : Between €2234 and € 2444 per month Reports to: Director of Finance &Operations Deadline : 8th December 2026 The Organization Aflatoun International is a non-profit organization, which offers social, financial & entrepreneurship education to children and young people worldwide, empowering them to make a positive change for a more equitable world. Aflatoun creates high-quality curricula for different age groups, which are contextualized to local needs and circumstances, and are implemented by over 300 partner organizations in 101 countries. Aflatoun programmes inspire children to discover their talents and put them to use, to stand up for their rights and those of their communities through active learning and problem solving. They learn how to save, how to budget, and how to set up social and financial enterprises that benefit themselves, their families and their communities. Aflatoun has been recognized globally (Brookings, Harvard, HundrEd, Million Lives Club) for its high-impact,…",
+      "descriptionSnippet": "Position title: Systems, Knowledge Management & Procurement Officer (Consultancy) Organization : Aflatoun International Location : Global (consultancy) Job type : Full time 40 hours Compensation : Between €2234 and € 2444 per month Reports…",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-11-25T16:50:53.000Z",
+      "expiresAt": "2027-01-24T16:50:52.000Z",
+      "source": {
+        "id": "himalayas",
+        "name": "Himalayas",
+        "url": "https://himalayas.app/",
+        "termsUrl": "https://himalayas.app/terms#api"
+      },
+      "sources": [
+        {
+          "id": "himalayas",
+          "name": "Himalayas",
+          "url": "https://himalayas.app/"
+        }
+      ],
+      "url": "https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy?utm_source=api",
+      "applyUrl": "https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy?utm_source=api",
+      "fingerprint": "1e4cb857c4f9746240cd397e98dc01ea2d9ae220"
+    },
+    {
+      "id": "remoteok:1138110",
+      "title": "Family Vacation & Theme Park Travel Planner (Remote)",
+      "company": "Destination Knot",
+      "location": "US Only",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Not specified",
+      "salary": "$35,000–$65,000",
+      "description": "Help Families Turn Vacation Ideas Into Unforgettable Experiences We're seeking enthusiastic Family Vacation & Theme Park Travel Planners to help clients navigate the many details involved in planning family getaways. From theme park vacations and cruises to resorts and multi-generational trips, you'll help families research options and organize travel arrangements based on their needs, preferences, and budgets. Responsibilities Consult with clients about their family's travel needs and vacation goals Research family-friendly destinations and accommodations Assist with theme park, cruise, resort, hotel, and vacation package planning Compare available travel options Coordinate eligible reservations and travel arrangements Create organized itineraries and provide important trip information Help clients understand available travel options and supplier policies Communicate professionally throughout the planning process Provide customer support before and after travel Continue developing destination and supplier knowledge What We're Looking For Excellent communication skills Strong attention to detail Friendly and customer-focused personality Ability to organize multiple details and…",
+      "descriptionSnippet": "<div> <h2>Help Families Turn Vacation Ideas Into Unforgettable Experiences</h2> <p>We're seeking enthusiastic <strong>Family Vacation & Theme Park Travel Planners</strong> to help clients navigate the many details involved in planning…",
+      "tags": [
+        "customer support"
+      ],
+      "postedAt": "2026-11-25T08:00:28.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-family-vacation-theme-park-travel-planner-remote-destination-knot-1138110",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-family-vacation-theme-park-travel-planner-remote-destination-knot-1138110"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-family-vacation-theme-park-travel-planner-remote-destination-knot-1138110",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-family-vacation-theme-park-travel-planner-remote-destination-knot-1138110",
+      "fingerprint": "356e70a9acecdf30559b6bcc12d3a8be9ef8979b"
+    },
+    {
+      "id": "remoteok:1138102",
+      "title": "Junior Talent Operations Specialist",
+      "company": "GitLab",
+      "location": "US Only",
+      "workMode": "Remote",
+      "employmentType": "Not specified",
+      "experience": "Entry",
+      "salary": "",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500Â® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the…",
+      "descriptionSnippet": "<div><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital…",
+      "tags": [
+        "other"
+      ],
+      "postedAt": "2026-11-25T00:00:28.000Z",
+      "expiresAt": null,
+      "source": {
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
+        "termsUrl": "https://remoteok.com/api"
+      },
+      "sources": [
+        {
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102"
+        }
+      ],
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
+      "fingerprint": "beec2f4e348f3e0d73b9102e33c1bf6889761c85"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/syd-life-ai/jobs/operations-manager",
       "title": "Operations Manager",
@@ -117,39 +250,6 @@
       "url": "https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator?utm_source=api",
       "fingerprint": "5cf74f1a7eea8bfb932d7fbc29d985ec471d7b95"
-    },
-    {
-      "id": "remoteok:1137903",
-      "title": "Data Strategy Operations Manager",
-      "company": "Abnormal",
-      "location": "US Only",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "",
-      "description": "About the Role As the Data Strategy and Operations Manager at Abnormal AI, you will own our go-to-market data quality strategy and serve as the steward of data across Salesforce and the systems around it. You will design the processes, controls, and intelligent workflows that keep data accurate, enriched, and trusted at scale, so Sales, Marketing, Customer Success, and Finance can give executive leadership reliable metrics. You will decide where AI agents and automation take over repetitive data work and where human judgment still matters, and partner with cross-functional teams to evaluate system changes that affect our data programs. Who you are Data obsessed and just as obsessed with removing manual work, with a habit of automating any process that relies on fixing records by hand Curious about AI and a daily user, with experience shipping workflows with LLMs, agents, or AI-assisted tooling, and able to tell a useful application from a demo Eager to build and shape a program rather than only maintain one, and able to create systems that hold up at global scale Highly analytical, able to see the big picture and spot trends and gaps, then zoom in with practical, specific…",
-      "descriptionSnippet": "<h2>About the Role</h2> <p>As the Data Strategy and Operations Manager at Abnormal AI, you will own our go-to-market data quality strategy and serve as the steward of data across Salesforce and the systems around it. You will design the…",
-      "tags": [
-        "exec"
-      ],
-      "postedAt": "2026-11-20T08:40:14.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
-      "fingerprint": "7c8b6efb068ce453ff7bcb91cbf0d2446ff2165c"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/boosta/jobs/operations-lead-uplift",
