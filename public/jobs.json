@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-26T15:30:27.383Z",
-  "jobCount": 12,
+  "generatedAt": "2026-11-27T15:21:33.208Z",
+  "jobCount": 10,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 134,
-      "relevant": 20,
+      "fetched": 129,
+      "relevant": 18,
       "errors": [
         "freight page 2: 429 Too Many Requests",
         "supply chain manager page 1: 429 Too Many Requests",
@@ -15,7 +15,8 @@
         "supply chain analyst page 1: 429 Too Many Requests",
         "supply chain analyst page 2: 429 Too Many Requests",
         "procurement manager page 1: 429 Too Many Requests",
-        "procurement manager page 2: 429 Too Many Requests",
+        "demand planner page 2: 429 Too Many Requests",
+        "vendor manager page 1: 429 Too Many Requests",
         "vendor manager page 2: 429 Too Many Requests",
         "customs page 1: 429 Too Many Requests",
         "customs page 2: 429 Too Many Requests",
@@ -27,8 +28,8 @@
         "logistics management page 2: 429 Too Many Requests",
         "procurement operations page 1: 429 Too Many Requests",
         "procurement operations page 2: 429 Too Many Requests",
-        "trade compliance page 1: 429 Too Many Requests",
-        "trade compliance page 2: 429 Too Many Requests",
+        "logistics director page 1: 429 Too Many Requests",
+        "logistics director page 2: 429 Too Many Requests",
         "procurement director page 1: 429 Too Many Requests",
         "procurement director page 2: 429 Too Many Requests",
         "warehouse director page 1: 429 Too Many Requests",
@@ -48,44 +49,43 @@
       "name": "Arbeitnow",
       "termsUrl": "https://www.arbeitnow.com/blog/job-board-api",
       "fetched": 300,
-      "relevant": 1,
+      "relevant": 0,
       "errors": []
     }
   ],
   "jobs": [
     {
-      "id": "arbeitnow:remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "title": "Junior Cloud Operations Engineer (all genders) CH",
-      "company": "BSI Software",
-      "location": "Homeoffice",
+      "id": "remoteok:1138188",
+      "title": "Support Operations Lead",
+      "company": "Zip",
+      "location": "US Only",
       "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Entry",
+      "employmentType": "Not specified",
+      "experience": "Lead",
       "salary": "",
-      "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig! Deine Aufgaben Du sorgst dafür, dass unsere SaaS-Plattform auf AWS, Azure und T-Systems zuverlässig und performant läuft und übernimmst dabei Verantwortung für eigene Bereiche und Themen Du analysierst und behebst Störungen, führst Root-Cause-Analysen durch und bringst dich aktiv in die Weiterentwicklung unserer Observability ein. Als Teil des Teams bist du Anlaufstelle für interne Teams, Kunden und Partner und übernimmst im Turnus die 2nd-Level-Support-Bereitschaft und Rufbereitschaft Du entwickelst unser Monitoring mit Prometheus und Grafana aktiv weiter, erstellst aussagekräftige Dashboards und Alerts und sorgst dafür, dass potenzielle Probleme frühzeitig erkannt werden Du automatisierst den Aufbau und die Verwaltung unserer Cloud-Infrastruktur…",
-      "descriptionSnippet": "<p><span style=\"color:#282322\">Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und…",
+      "description": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they’ve saved over $8 billion and processed over $500 billion in spend. Zip’s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA. Backed by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups. Your Role As our Support Operations Lead, you'll build the infrastructure and processes that enable our support team to deliver exceptional service at scale. You'll design standard operating procedures from the ground up, implement and optimize support technologies,…",
+      "descriptionSnippet": "<h1><strong>About Zip</strong></h1><p>Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies…",
       "tags": [
-        "Services",
-        "Remote"
+        "customer support"
       ],
-      "postedAt": "2026-11-26T06:31:21.000Z",
+      "postedAt": "2026-11-26T12:40:29.000Z",
       "expiresAt": null,
       "source": {
-        "id": "arbeitnow",
-        "name": "Arbeitnow",
-        "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-        "termsUrl": "https://www.arbeitnow.com/blog/job-board-api"
+        "id": "remoteok",
+        "name": "Remote OK",
+        "url": "https://remoteOK.com/remote-jobs/remote-support-operations-lead-zip-1138188",
+        "termsUrl": "https://remoteok.com/api"
       },
       "sources": [
         {
-          "id": "arbeitnow",
-          "name": "Arbeitnow",
-          "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099"
+          "id": "remoteok",
+          "name": "Remote OK",
+          "url": "https://remoteOK.com/remote-jobs/remote-support-operations-lead-zip-1138188"
         }
       ],
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "fingerprint": "5e3f3120d11b7972da3cc368cfcc7793c4ebfcce"
+      "url": "https://remoteOK.com/remote-jobs/remote-support-operations-lead-zip-1138188",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-support-operations-lead-zip-1138188",
+      "fingerprint": "397703df086f9812594424e8f4f9e0bd47b8c3aa"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy",
@@ -119,39 +119,6 @@
       "url": "https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy?utm_source=api",
       "fingerprint": "1e4cb857c4f9746240cd397e98dc01ea2d9ae220"
-    },
-    {
-      "id": "remoteok:1138110",
-      "title": "Family Vacation & Theme Park Travel Planner (Remote)",
-      "company": "Destination Knot",
-      "location": "US Only",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Not specified",
-      "salary": "$35,000–$65,000",
-      "description": "Help Families Turn Vacation Ideas Into Unforgettable Experiences We're seeking enthusiastic Family Vacation & Theme Park Travel Planners to help clients navigate the many details involved in planning family getaways. From theme park vacations and cruises to resorts and multi-generational trips, you'll help families research options and organize travel arrangements based on their needs, preferences, and budgets. Responsibilities Consult with clients about their family's travel needs and vacation goals Research family-friendly destinations and accommodations Assist with theme park, cruise, resort, hotel, and vacation package planning Compare available travel options Coordinate eligible reservations and travel arrangements Create organized itineraries and provide important trip information Help clients understand available travel options and supplier policies Communicate professionally throughout the planning process Provide customer support before and after travel Continue developing destination and supplier knowledge What We're Looking For Excellent communication skills Strong attention to detail Friendly and customer-focused personality Ability to organize multiple details and…",
-      "descriptionSnippet": "<div> <h2>Help Families Turn Vacation Ideas Into Unforgettable Experiences</h2> <p>We're seeking enthusiastic <strong>Family Vacation & Theme Park Travel Planners</strong> to help clients navigate the many details involved in planning…",
-      "tags": [
-        "customer support"
-      ],
-      "postedAt": "2026-11-25T08:00:28.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-family-vacation-theme-park-travel-planner-remote-destination-knot-1138110",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-family-vacation-theme-park-travel-planner-remote-destination-knot-1138110"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-family-vacation-theme-park-travel-planner-remote-destination-knot-1138110",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-family-vacation-theme-park-travel-planner-remote-destination-knot-1138110",
-      "fingerprint": "356e70a9acecdf30559b6bcc12d3a8be9ef8979b"
     },
     {
       "id": "remoteok:1138102",
@@ -250,39 +217,6 @@
       "url": "https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator?utm_source=api",
       "fingerprint": "5cf74f1a7eea8bfb932d7fbc29d985ec471d7b95"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/boosta/jobs/operations-lead-uplift",
-      "title": "Operations Lead | Uplift",
-      "company": "Boosta",
-      "location": "Worldwide",
-      "workMode": "Remote",
-      "employmentType": "Full time",
-      "experience": "Lead",
-      "salary": "",
-      "description": "Hi! We are Boosta , a holding tech company that creates, develops, and invests in digital businesses with global potential. Today, we collaborate with over 800 specialists from different parts of the world, and millions of users use our products and services. We're currently looking for a Operations Lead to join Uplift , a business building a portfolio of digital products for users’ everyday needs. The team is currently in the early stages of formation: key technical roles are already in place, with the main focus now on building the marketing function for the first product. This is an opportunity to join the business at launch and build processes from the ground up. What will be your focus: Analyze the payment funnel, identify the causes of payment losses, and determine opportunities to increase revenue. Improve the approval rate of initial and recurring payments, test hypotheses, and evaluate the financial impact of implemented changes. Develop the payment infrastructure: work with current PSPs, onboard new providers, and optimize routing and cascading. Monitor key payment and compliance metrics, and work on reducing chargebacks, refunds, and fraud. Improve the product’s unit…",
-      "descriptionSnippet": "Hi! We are Boosta, a holding tech company that creates, develops, and invests in digital businesses with global potential.",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-11-19T16:42:41.000Z",
-      "expiresAt": "2027-01-13T04:50:08.000Z",
-      "source": {
-        "id": "himalayas",
-        "name": "Himalayas",
-        "url": "https://himalayas.app/",
-        "termsUrl": "https://himalayas.app/terms#api"
-      },
-      "sources": [
-        {
-          "id": "himalayas",
-          "name": "Himalayas",
-          "url": "https://himalayas.app/"
-        }
-      ],
-      "url": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
-      "applyUrl": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
-      "fingerprint": "6a74e6cf69a136f2634a9bebf48e6845b7e57ca8"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/vame-ltd/jobs/experienced-freight-agent",
