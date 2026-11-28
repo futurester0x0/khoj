@@ -1,39 +1,36 @@
 {
-  "generatedAt": "2026-11-27T15:21:33.208Z",
-  "jobCount": 10,
+  "generatedAt": "2026-11-28T14:23:07.516Z",
+  "jobCount": 9,
   "sources": [
     {
       "id": "himalayas",
       "name": "Himalayas",
       "termsUrl": "https://himalayas.app/terms#api",
-      "fetched": 129,
-      "relevant": 18,
+      "fetched": 125,
+      "relevant": 19,
       "errors": [
-        "freight page 2: 429 Too Many Requests",
-        "supply chain manager page 1: 429 Too Many Requests",
-        "supply chain manager page 2: 429 Too Many Requests",
-        "supply chain analyst page 1: 429 Too Many Requests",
-        "supply chain analyst page 2: 429 Too Many Requests",
-        "procurement manager page 1: 429 Too Many Requests",
-        "demand planner page 2: 429 Too Many Requests",
-        "vendor manager page 1: 429 Too Many Requests",
-        "vendor manager page 2: 429 Too Many Requests",
-        "customs page 1: 429 Too Many Requests",
-        "customs page 2: 429 Too Many Requests",
-        "ecommerce operations page 1: 429 Too Many Requests",
-        "ecommerce operations page 2: 429 Too Many Requests",
-        "supply chain management page 1: 429 Too Many Requests",
-        "supply chain management page 2: 429 Too Many Requests",
-        "logistics management page 1: 429 Too Many Requests",
-        "logistics management page 2: 429 Too Many Requests",
-        "procurement operations page 1: 429 Too Many Requests",
+        "procurement specialist page 1: 429 Too Many Requests",
+        "procurement specialist page 2: 429 Too Many Requests",
+        "purchasing manager page 1: 429 Too Many Requests",
+        "purchasing manager page 2: 429 Too Many Requests",
+        "sourcing specialist page 1: 429 Too Many Requests",
+        "sourcing specialist page 2: 429 Too Many Requests",
+        "logistics manager page 1: 429 Too Many Requests",
+        "logistics manager page 2: 429 Too Many Requests",
+        "logistics coordinator page 1: 429 Too Many Requests",
         "procurement operations page 2: 429 Too Many Requests",
-        "logistics director page 1: 429 Too Many Requests",
-        "logistics director page 2: 429 Too Many Requests",
-        "procurement director page 1: 429 Too Many Requests",
-        "procurement director page 2: 429 Too Many Requests",
-        "warehouse director page 1: 429 Too Many Requests",
-        "warehouse director page 2: 429 Too Many Requests"
+        "trade compliance page 1: 429 Too Many Requests",
+        "trade compliance page 2: 429 Too Many Requests",
+        "transportation coordinator page 1: 429 Too Many Requests",
+        "transportation coordinator page 2: 429 Too Many Requests",
+        "vendor management page 1: 429 Too Many Requests",
+        "vendor management page 2: 429 Too Many Requests",
+        "order management page 1: 429 Too Many Requests",
+        "order management page 2: 429 Too Many Requests",
+        "3pl page 1: 429 Too Many Requests",
+        "3pl page 2: 429 Too Many Requests",
+        "supply chain specialist page 1: 429 Too Many Requests",
+        "supply chain specialist page 2: 429 Too Many Requests"
       ]
     },
     {
@@ -41,7 +38,7 @@
       "name": "Remote OK",
       "termsUrl": "https://remoteok.com/api",
       "fetched": 100,
-      "relevant": 2,
+      "relevant": 1,
       "errors": []
     },
     {
@@ -119,39 +116,6 @@
       "url": "https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy?utm_source=api",
       "applyUrl": "https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy?utm_source=api",
       "fingerprint": "1e4cb857c4f9746240cd397e98dc01ea2d9ae220"
-    },
-    {
-      "id": "remoteok:1138102",
-      "title": "Junior Talent Operations Specialist",
-      "company": "GitLab",
-      "location": "US Only",
-      "workMode": "Remote",
-      "employmentType": "Not specified",
-      "experience": "Entry",
-      "salary": "",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500Â® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the…",
-      "descriptionSnippet": "<div><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital…",
-      "tags": [
-        "other"
-      ],
-      "postedAt": "2026-11-25T00:00:28.000Z",
-      "expiresAt": null,
-      "source": {
-        "id": "remoteok",
-        "name": "Remote OK",
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
-        "termsUrl": "https://remoteok.com/api"
-      },
-      "sources": [
-        {
-          "id": "remoteok",
-          "name": "Remote OK",
-          "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102"
-        }
-      ],
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
-      "fingerprint": "beec2f4e348f3e0d73b9102e33c1bf6889761c85"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/syd-life-ai/jobs/operations-manager",
